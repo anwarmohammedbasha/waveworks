@@ -1,0 +1,19 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-09-0,2025-11-09T20:07:00,72,"784 Terri Causeway Apt. 255
+Abigailshire, NV 03476","[{'product_id': 36, 'qty': 1}]"
+ec-2025-11-09-1,2025-11-09T02:17:00,168,"PSC 4205, Box 5340
+APO AP 17139","[{'product_id': 13, 'qty': 3}]"
+ec-2025-11-09-2,2025-11-09T13:51:00,171,"PSC 9202, Box 7179
+APO AA 10779","[{'product_id': 23, 'qty': 1}]"
+ec-2025-11-09-3,2025-11-09T22:48:00,171,"PSC 1620, Box 8436
+APO AP 45329","[{'product_id': 30, 'qty': 2}, {'product_id': 4, 'qty': 1}]"
+ec-2025-11-09-4,2025-11-09T02:53:00,72,"1227 Sherry Shores Suite 037
+New Michaelland, VA 51681","[{'product_id': 9, 'qty': 1}, {'product_id': 7, 'qty': 1}]"
+ec-2025-11-09-5,2025-11-09T03:35:00,145,"2021 Morrison Lights Suite 733
+Port Christopher, NC 01866","[{'product_id': 42, 'qty': 2}, {'product_id': 26, 'qty': 1}, {'product_id': 20, 'qty': 1}]"
+ec-2025-11-09-6,2025-11-09T15:20:00,52,"USCGC Wong
+FPO AP 77564","[{'product_id': 24, 'qty': 3}, {'product_id': 25, 'qty': 1}, {'product_id': 8, 'qty': 1}]"
+ec-2025-11-09-7,2025-11-09T20:14:00,43,"PSC 1722, Box 3831
+APO AE 71699","[{'product_id': 8, 'qty': 2}, {'product_id': 16, 'qty': 1}]"
+ec-2025-11-09-8,2025-11-09T19:25:00,190,"1018 Annette Prairie
+East Luis, PR 65467","[{'product_id': 47, 'qty': 1}, {'product_id': 12, 'qty': 1}]"

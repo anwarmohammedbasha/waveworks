@@ -1,0 +1,65 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-09-19-0,2025-09-19T19:56:00,56,"02671 Smith Circles
+Bettyside, TN 46683","[{'product_id': 9, 'qty': 3}, {'product_id': 20, 'qty': 2}]"
+ec-2025-09-19-1,2025-09-19T14:55:00,169,"USS Sullivan
+FPO AP 16375","[{'product_id': 12, 'qty': 2}]"
+ec-2025-09-19-2,2025-09-19T16:50:00,119,"57750 Freeman Villages
+East Meghan, WA 56068","[{'product_id': 45, 'qty': 2}, {'product_id': 43, 'qty': 1}, {'product_id': 23, 'qty': 1}]"
+ec-2025-09-19-3,2025-09-19T16:49:00,186,"704 Moran Pines Apt. 204
+Mercerfurt, AK 27022","[{'product_id': 24, 'qty': 2}]"
+ec-2025-09-19-4,2025-09-19T23:49:00,168,"080 Heather Inlet
+Andrewsmouth, HI 60025","[{'product_id': 14, 'qty': 2}]"
+ec-2025-09-19-5,2025-09-19T07:51:00,167,"86139 Farmer Passage
+Hickshaven, TX 34359","[{'product_id': 6, 'qty': 1}]"
+ec-2025-09-19-6,2025-09-19T04:54:00,199,"8959 Klein Islands Apt. 356
+West Jeffrey, MT 77577","[{'product_id': 42, 'qty': 3}, {'product_id': 47, 'qty': 3}]"
+ec-2025-09-19-7,2025-09-19T19:22:00,179,"86126 Solomon Flats Suite 921
+Foxfort, TX 55301","[{'product_id': 5, 'qty': 1}, {'product_id': 46, 'qty': 3}]"
+ec-2025-09-19-8,2025-09-19T15:11:00,4,"11502 Moore Glen
+New James, CO 76625","[{'product_id': 41, 'qty': 1}, {'product_id': 15, 'qty': 1}]"
+ec-2025-09-19-9,2025-09-19T17:45:00,110,"337 David Mountain
+Emilymouth, KY 98920","[{'product_id': 5, 'qty': 1}]"
+ec-2025-09-19-10,2025-09-19T04:43:00,39,,"[{'product_id': 47, 'qty': 1}]"
+ec-2025-09-19-11,2025-09-19T09:09:00,33,"27725 Jonathan Courts
+Watsonhaven, IA 84965","[{'product_id': 50, 'qty': 1}, {'product_id': 35, 'qty': 2}]"
+ec-2025-09-19-12,2025-09-19T07:15:00,109,"0584 David River Suite 542
+Fowlerfurt, MA 91763","[{'product_id': 37, 'qty': 5}, {'product_id': 25, 'qty': 3}, {'product_id': 11, 'qty': 2}]"
+ec-2025-09-19-13,2025-09-19T23:35:00,139,"32791 Mitchell Shoal Suite 691
+Port Douglas, TN 59814","[{'product_id': 47, 'qty': 1}, {'product_id': 14, 'qty': 1}]"
+ec-2025-09-19-14,2025-09-19T13:00:00,3,"25560 Theresa Run
+West Lisachester, LA 06721","[{'product_id': 44, 'qty': 1}, {'product_id': 28, 'qty': 4}, {'product_id': 39, 'qty': 2}]"
+ec-2025-09-19-15,2025-09-19T12:38:00,108,"8631 Jocelyn Green
+Shannonton, WV 71023","[{'product_id': 4, 'qty': 2}, {'product_id': 8, 'qty': 2}, {'product_id': 40, 'qty': 1}]"
+ec-2025-09-19-16,2025-09-19T12:36:00,196,"54084 Sarah Lights
+West Kevintown, UT 60290","[{'product_id': 14, 'qty': 1}, {'product_id': 1, 'qty': 3}, {'product_id': 5, 'qty': 2}]"
+ec-2025-09-19-17,2025-09-19T13:21:00,29,"375 Donald Estates
+New Randy, CT 86185","[{'product_id': 46, 'qty': 2}, {'product_id': 45, 'qty': 3}, {'product_id': 35, 'qty': 1}]"
+ec-2025-09-19-18,2025-09-19T01:39:00,56,"5333 Zachary Parkway
+New Aaronhaven, IL 43554","[{'product_id': 33, 'qty': 1}, {'product_id': 48, 'qty': 1}, {'product_id': 3, 'qty': 1}]"
+ec-2025-09-19-19,2025-09-19T02:05:00,73,"9683 Barry Ports
+Kennedychester, OK 67129","[{'product_id': 5, 'qty': 3}]"
+ec-2025-09-19-20,2025-09-19T11:53:00,104,"1171 Bird Brook Apt. 336
+Port Sheri, CO 60180","[{'product_id': 22, 'qty': 2}, {'product_id': 22, 'qty': 2}, {'product_id': 13, 'qty': 1}]"
+ec-2025-09-19-21,2025-09-19T09:22:00,132,"783 White Rapids Suite 219
+Lake Douglas, WA 74187","[{'product_id': 20, 'qty': 1}, {'product_id': 30, 'qty': 1}]"
+ec-2025-09-19-22,2025-09-19T06:43:00,11,"447 Rachel Curve
+Jacobland, SD 38069","[{'product_id': 7, 'qty': 3}]"
+ec-2025-09-19-23,2025-09-19T13:45:00,133,"8984 Kennedy Forges
+South Manuel, WA 94162","[{'product_id': 19, 'qty': 1}, {'product_id': 29, 'qty': 2}]"
+ec-2025-09-19-24,2025-09-19T18:44:00,68,,"[{'product_id': 3, 'qty': 2}, {'product_id': 43, 'qty': 2}, {'product_id': 7, 'qty': 1}]"
+ec-2025-09-19-25,2025-09-19T23:41:00,144,"70689 Stark Fort
+West Cindy, WV 56056","[{'product_id': 31, 'qty': 2}]"
+ec-2025-09-19-26,2025-09-19T23:57:00,27,"0000 Amy Harbor
+Jacksonhaven, LA 46709","[{'product_id': 24, 'qty': 1}]"
+ec-2025-09-19-27,2025-09-19T17:39:00,109,"62289 Williams Creek
+Charlesmouth, GU 64821","[{'product_id': 37, 'qty': 1}, {'product_id': 31, 'qty': 2}, {'product_id': 23, 'qty': 1}]"
+ec-2025-09-19-28,2025-09-19T19:46:00,189,"405 Hooper Prairie Suite 750
+New Seanhaven, CT 54996","[{'product_id': 43, 'qty': 2}]"
+ec-2025-09-19-29,2025-09-19T16:15:00,11,"USCGC Odonnell
+FPO AA 42901","[{'product_id': 22, 'qty': 2}]"
+ec-2025-09-19-30,2025-09-19T18:18:00,54,"01427 Cooper Estates Suite 295
+Smithton, MI 73655","[{'product_id': 23, 'qty': 1}, {'product_id': 23, 'qty': 1}]"
+ec-2025-09-19-31,2025-09-19T14:24:00,84,"4415 Tracy Lakes Apt. 243
+Thomasmouth, CO 68212","[{'product_id': 35, 'qty': 1}]"
+ec-2025-09-19-32,2025-09-19T08:10:00,64,"1334 Williams Inlet
+New Robert, CA 57849","[{'product_id': 50, 'qty': 2}, {'product_id': 49, 'qty': 1}, {'product_id': 25, 'qty': 1}]"

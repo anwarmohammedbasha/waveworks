@@ -1,0 +1,61 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-09-25-0,2025-09-25T20:40:00,121,"72404 Lauren Forest Apt. 567
+Haleyberg, WV 72496","[{'product_id': 23, 'qty': 3}, {'product_id': 22, 'qty': 1}]"
+ec-2025-09-25-1,2025-09-25T06:21:00,117,"14724 Kevin Loaf
+Kristinfurt, MS 87768","[{'product_id': 16, 'qty': 2}]"
+ec-2025-09-25-2,2025-09-25T14:59:00,115,"0412 Katherine Ports Apt. 683
+New Elizabeth, DC 49012","[{'product_id': 45, 'qty': 2}]"
+ec-2025-09-25-3,2025-09-25T14:10:00,193,"4823 Juan Passage Suite 388
+West Angela, VT 06254","[{'product_id': 16, 'qty': 1}, {'product_id': 38, 'qty': 1}]"
+ec-2025-09-25-4,2025-09-25T13:42:00,196,"USCGC Harrison
+FPO AP 28597","[{'product_id': 35, 'qty': 2}, {'product_id': 15, 'qty': 2}]"
+ec-2025-09-25-5,2025-09-25T16:52:00,54,"6044 Gutierrez Street Apt. 139
+West Richard, CA 59405","[{'product_id': 35, 'qty': 1}]"
+ec-2025-09-25-6,2025-09-25T17:54:00,123,"25085 Robert Forest Suite 186
+Marksfort, MI 98587","[{'product_id': 11, 'qty': 1}]"
+ec-2025-09-25-7,2025-09-25T22:22:00,184,"903 Victoria Isle Suite 652
+West Samanthamouth, MN 84798","[{'product_id': 43, 'qty': 1}, {'product_id': 25, 'qty': 2}]"
+ec-2025-09-25-8,2025-09-25T13:20:00,98,"10551 Harper Turnpike Apt. 502
+South Robertside, TX 43125","[{'product_id': 14, 'qty': 1}, {'product_id': 47, 'qty': 2}]"
+ec-2025-09-25-9,2025-09-25T23:12:00,29,"538 Williams Radial Suite 117
+West Paulstad, IN 96662","[{'product_id': 27, 'qty': 2}, {'product_id': 50, 'qty': 2}]"
+ec-2025-09-25-10,2025-09-25T21:22:00,172,"2381 Johnson Street Apt. 108
+New Rachelmouth, OK 51761","[{'product_id': 19, 'qty': 2}]"
+ec-2025-09-25-11,2025-09-25T17:27:00,59,"140 Michael Lakes
+North Ericfort, VI 69116","[{'product_id': 35, 'qty': 1}, {'product_id': 27, 'qty': 1}]"
+ec-2025-09-25-12,2025-09-25T08:56:00,123,,"[{'product_id': 25, 'qty': 1}, {'product_id': 37, 'qty': 3}]"
+ec-2025-09-25-13,2025-09-25T13:13:00,152,"26558 Mikayla Rapids
+West Daniellebury, ID 25093","[{'product_id': 2, 'qty': 2}, {'product_id': 50, 'qty': 3}]"
+ec-2025-09-25-14,2025-09-25T07:53:00,1,,"[{'product_id': 15, 'qty': 1}, {'product_id': 42, 'qty': 2}, {'product_id': 15, 'qty': 1}]"
+ec-2025-09-25-15,2025-09-25T02:41:00,196,"681 Mary Lakes Suite 806
+Leeburgh, NE 67444","[{'product_id': 48, 'qty': 2}]"
+ec-2025-09-25-16,2025-09-25T04:56:00,181,"037 Hamilton Freeway Suite 575
+Johnsonmouth, AK 58133","[{'product_id': 8, 'qty': 1}, {'product_id': 4, 'qty': 1}, {'product_id': 25, 'qty': 1}]"
+ec-2025-09-25-17,2025-09-25T02:11:00,12,"990 Sara Light
+New Christopherhaven, MP 38377","[{'product_id': 25, 'qty': 2}]"
+ec-2025-09-25-18,2025-09-25T23:24:00,38,"707 Seth Dale
+Port Kylemouth, AZ 32724","[{'product_id': 35, 'qty': 1}]"
+ec-2025-09-25-19,2025-09-25T05:21:00,72,"5888 Cynthia Burg
+West Jonathan, DC 87543","[{'product_id': 13, 'qty': 2}, {'product_id': 2, 'qty': 2}, {'product_id': 45, 'qty': 2}]"
+ec-2025-09-25-20,2025-09-25T19:54:00,198,"0810 Shawn Walk Suite 061
+Joshuafort, NM 84431","[{'product_id': 42, 'qty': 3}, {'product_id': 22, 'qty': 2}]"
+ec-2025-09-25-21,2025-09-25T23:06:00,115,"0962 Wright Shoal
+Martinezland, ND 48501","[{'product_id': 47, 'qty': 1}, {'product_id': 37, 'qty': 1}, {'product_id': 31, 'qty': 3}]"
+ec-2025-09-25-22,2025-09-25T15:19:00,160,"742 Kevin Mountain Suite 992
+New Megan, SC 06830","[{'product_id': 11, 'qty': 1}, {'product_id': 9, 'qty': 2}]"
+ec-2025-09-25-23,2025-09-25T09:31:00,140,"7981 Gates Burg Apt. 626
+Port Heidichester, NY 11469","[{'product_id': 27, 'qty': 2}, {'product_id': 23, 'qty': 1}]"
+ec-2025-09-25-24,2025-09-25T21:09:00,137,"Unit 7139 Box 2054
+DPO AP 46088","[{'product_id': 28, 'qty': 1}]"
+ec-2025-09-25-25,2025-09-25T02:37:00,127,"510 Erin Heights Suite 512
+Micheleside, PW 80739","[{'product_id': 46, 'qty': 1}, {'product_id': 7, 'qty': 3}, {'product_id': 27, 'qty': 2}]"
+ec-2025-09-25-26,2025-09-25T20:21:00,119,"42215 Brown Turnpike Apt. 458
+North Ericmouth, CT 66444","[{'product_id': 23, 'qty': 2}, {'product_id': 29, 'qty': 2}]"
+ec-2025-09-25-27,2025-09-25T14:08:00,27,"290 Haney Harbors Apt. 651
+North Robertburgh, VI 98006","[{'product_id': 39, 'qty': 1}, {'product_id': 27, 'qty': 2}]"
+ec-2025-09-25-28,2025-09-25T17:18:00,19,"56681 Raven Expressway Suite 309
+Port Kristin, HI 95845","[{'product_id': 34, 'qty': 4}]"
+ec-2025-09-25-29,2025-09-25T23:32:00,182,"02869 Sarah Cliff
+Port Christopherchester, ND 19637","[{'product_id': 38, 'qty': 3}, {'product_id': 11, 'qty': 2}, {'product_id': 45, 'qty': 3}]"
+ec-2025-09-25-30,2025-09-25T21:56:00,4,"5204 Porter Hills Suite 741
+Lake Francesmouth, MD 39308","[{'product_id': 32, 'qty': 2}, {'product_id': 23, 'qty': 2}]"

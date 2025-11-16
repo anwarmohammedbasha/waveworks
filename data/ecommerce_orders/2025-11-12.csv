@@ -1,0 +1,35 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-12-0,2025-11-12T19:48:00,31,"Unit 2780 Box 1259
+DPO AP 17157","[{'product_id': 27, 'qty': 1}]"
+ec-2025-11-12-1,2025-11-12T04:07:00,42,"11346 Ryan Route Suite 727
+East Seanview, VT 22597","[{'product_id': 7, 'qty': 2}]"
+ec-2025-11-12-2,2025-11-12T15:22:00,78,"2026 Tyler Center Apt. 242
+Pamelaton, NY 28441","[{'product_id': 4, 'qty': 1}]"
+ec-2025-11-12-3,2025-11-12T10:19:00,180,"549 Pierce Coves Suite 417
+Swansonbury, MH 43666","[{'product_id': 33, 'qty': 1}, {'product_id': 33, 'qty': 2}, {'product_id': 24, 'qty': 1}]"
+ec-2025-11-12-4,2025-11-12T21:18:00,77,"01393 Roberts Manor
+New Maureenshire, DC 86474","[{'product_id': 35, 'qty': 2}, {'product_id': 39, 'qty': 2}, {'product_id': 8, 'qty': 2}]"
+ec-2025-11-12-5,2025-11-12T22:48:00,84,"027 Judith Mission Suite 796
+Coreyfort, WY 84307","[{'product_id': 27, 'qty': 2}]"
+ec-2025-11-12-6,2025-11-12T10:39:00,70,"6520 Smith Ford
+Moorehaven, NJ 18465","[{'product_id': 8, 'qty': 4}, {'product_id': 13, 'qty': 1}, {'product_id': 10, 'qty': 1}]"
+ec-2025-11-12-7,2025-11-12T00:52:00,25,"069 Hays Lights Apt. 420
+Kellyfort, CA 60799","[{'product_id': 34, 'qty': 1}]"
+ec-2025-11-12-8,2025-11-12T10:44:00,36,"18688 Erik Mall
+Connorborough, WI 11288","[{'product_id': 26, 'qty': 2}, {'product_id': 11, 'qty': 1}]"
+ec-2025-11-12-9,2025-11-12T08:02:00,75,"92268 Gomez Alley
+West Robertshire, NV 83582","[{'product_id': 46, 'qty': 3}, {'product_id': 10, 'qty': 1}]"
+ec-2025-11-12-10,2025-11-12T08:35:00,102,"7118 Michelle Plaza Suite 854
+North Angelicamouth, HI 69103","[{'product_id': 31, 'qty': 2}, {'product_id': 50, 'qty': 1}]"
+ec-2025-11-12-11,2025-11-12T05:23:00,3,"442 Jacob Corners Suite 441
+South Jasmineport, GU 30518","[{'product_id': 16, 'qty': 4}, {'product_id': 17, 'qty': 1}]"
+ec-2025-11-12-12,2025-11-12T05:25:00,62,"980 Allen Field Apt. 146
+Kristichester, MA 12050","[{'product_id': 3, 'qty': 2}, {'product_id': 2, 'qty': 1}]"
+ec-2025-11-12-13,2025-11-12T10:36:00,198,"44702 Barajas Mountains
+Greenton, GU 43656","[{'product_id': 13, 'qty': 1}, {'product_id': 43, 'qty': 1}, {'product_id': 43, 'qty': 1}]"
+ec-2025-11-12-14,2025-11-12T21:50:00,181,"99390 Marsh Union
+Port Jessicashire, GA 51928","[{'product_id': 46, 'qty': 1}, {'product_id': 26, 'qty': 2}]"
+ec-2025-11-12-15,2025-11-12T18:24:00,180,"5538 Marquez Isle
+East Marcusfort, WY 02282","[{'product_id': 32, 'qty': 1}, {'product_id': 9, 'qty': 2}]"
+ec-2025-11-12-16,2025-11-12T11:32:00,46,"64041 Richard Streets Apt. 735
+Kristintown, CO 20068","[{'product_id': 4, 'qty': 2}, {'product_id': 2, 'qty': 2}, {'product_id': 3, 'qty': 2}]"

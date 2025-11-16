@@ -1,0 +1,46 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-09-22-0,2025-09-22T00:50:00,179,"888 Dominique Turnpike
+Liuside, AS 72313","[{'product_id': 45, 'qty': 2}, {'product_id': 6, 'qty': 2}]"
+ec-2025-09-22-1,2025-09-22T10:24:00,101,"930 Audrey Forks
+Port Richard, CA 12194","[{'product_id': 24, 'qty': 1}, {'product_id': 27, 'qty': 1}, {'product_id': 17, 'qty': 1}]"
+ec-2025-09-22-2,2025-09-22T01:41:00,185,"2651 Friedman Oval Suite 085
+New Sharon, PW 58590","[{'product_id': 14, 'qty': 1}, {'product_id': 24, 'qty': 2}]"
+ec-2025-09-22-3,2025-09-22T07:28:00,66,"8856 James Garden Suite 828
+Lisafort, NJ 48774","[{'product_id': 18, 'qty': 1}]"
+ec-2025-09-22-4,2025-09-22T18:44:00,138,"35856 West Canyon
+Grahamfurt, AR 01685","[{'product_id': 23, 'qty': 2}, {'product_id': 33, 'qty': 2}]"
+ec-2025-09-22-5,2025-09-22T09:08:00,130,"038 Jesse Via
+West Oliviaberg, CO 10909","[{'product_id': 36, 'qty': 3}, {'product_id': 48, 'qty': 2}]"
+ec-2025-09-22-6,2025-09-22T12:03:00,168,"27138 Mendoza Extension
+Port Andrew, MD 74679","[{'product_id': 41, 'qty': 1}, {'product_id': 11, 'qty': 3}]"
+ec-2025-09-22-7,2025-09-22T07:22:00,112,"543 Gregory Mountains Suite 769
+New Nicole, FL 40298","[{'product_id': 34, 'qty': 1}, {'product_id': 21, 'qty': 2}]"
+ec-2025-09-22-8,2025-09-22T22:37:00,118,"24061 Anne Forks Suite 092
+South Brian, MS 66775","[{'product_id': 31, 'qty': 2}, {'product_id': 1, 'qty': 3}, {'product_id': 19, 'qty': 1}]"
+ec-2025-09-22-9,2025-09-22T08:19:00,41,"8895 Stephanie Keys
+Gregoryhaven, GU 61705","[{'product_id': 27, 'qty': 2}, {'product_id': 14, 'qty': 1}, {'product_id': 43, 'qty': 2}]"
+ec-2025-09-22-10,2025-09-22T08:19:00,187,"758 Dickerson Street
+New Judy, MO 35005","[{'product_id': 45, 'qty': 1}, {'product_id': 22, 'qty': 2}, {'product_id': 2, 'qty': 1}]"
+ec-2025-09-22-11,2025-09-22T10:25:00,82,"427 Johnny Squares
+Carriemouth, SD 06530","[{'product_id': 47, 'qty': 2}, {'product_id': 18, 'qty': 2}]"
+ec-2025-09-22-12,2025-09-22T13:41:00,119,"4891 Jesse Cliffs
+Mcbridemouth, LA 71802","[{'product_id': 4, 'qty': 1}]"
+ec-2025-09-22-13,2025-09-22T20:35:00,195,"PSC 2555, Box 2941
+APO AP 82411","[{'product_id': 45, 'qty': 2}]"
+ec-2025-09-22-14,2025-09-22T15:57:00,115,"89804 Gary Parks
+North Allisonbury, NY 09498","[{'product_id': 32, 'qty': 3}, {'product_id': 38, 'qty': 1}, {'product_id': 21, 'qty': 1}]"
+ec-2025-09-22-15,2025-09-22T11:47:00,171,"696 Michael Lodge
+Bridgetshire, MI 38356","[{'product_id': 1, 'qty': 3}, {'product_id': 16, 'qty': 1}, {'product_id': 27, 'qty': 1}]"
+ec-2025-09-22-16,2025-09-22T04:42:00,86,"28065 Mendoza Way
+Lake Paul, NJ 34434","[{'product_id': 8, 'qty': 1}, {'product_id': 45, 'qty': 3}]"
+ec-2025-09-22-17,2025-09-22T23:47:00,163,,"[{'product_id': 2, 'qty': 1}, {'product_id': 7, 'qty': 1}]"
+ec-2025-09-22-18,2025-09-22T10:38:00,54,"829 Sarah Parks Apt. 868
+Butlermouth, PW 99713","[{'product_id': 9, 'qty': 3}]"
+ec-2025-09-22-19,2025-09-22T23:20:00,176,"Unit 1463 Box 7008
+DPO AE 56479","[{'product_id': 15, 'qty': 1}]"
+ec-2025-09-22-20,2025-09-22T16:46:00,159,"312 John Mills
+Floresport, PA 05431","[{'product_id': 13, 'qty': 3}, {'product_id': 7, 'qty': 2}]"
+ec-2025-09-22-21,2025-09-22T03:48:00,37,"258 Foley Port Apt. 608
+Port Randy, MN 98398","[{'product_id': 37, 'qty': 5}, {'product_id': 11, 'qty': 2}]"
+ec-2025-09-22-22,2025-09-22T13:41:00,92,"497 Johnson Vista
+Madelineton, ME 61758","[{'product_id': 17, 'qty': 2}, {'product_id': 44, 'qty': 2}]"

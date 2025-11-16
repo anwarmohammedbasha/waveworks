@@ -1,0 +1,70 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-09-0,2025-10-09T15:20:00,61,"698 Robin Common Suite 970
+East Erica, AS 09983","[{'product_id': 28, 'qty': 1}, {'product_id': 46, 'qty': 2}, {'product_id': 49, 'qty': 1}]"
+ec-2025-10-09-1,2025-10-09T08:48:00,77,"223 Tyler Ways
+Walkerville, NC 41551","[{'product_id': 13, 'qty': 1}, {'product_id': 20, 'qty': 1}]"
+ec-2025-10-09-2,2025-10-09T21:15:00,119,"Unit 9483 Box 8182
+DPO AA 30934","[{'product_id': 39, 'qty': 2}]"
+ec-2025-10-09-3,2025-10-09T16:15:00,29,"8249 Hinton Skyway Apt. 471
+New Justinberg, SD 13507","[{'product_id': 49, 'qty': 1}, {'product_id': 46, 'qty': 2}]"
+ec-2025-10-09-4,2025-10-09T17:41:00,174,"9780 Johnson Trace
+Barbermouth, CT 53098","[{'product_id': 40, 'qty': 1}]"
+ec-2025-10-09-5,2025-10-09T19:30:00,13,"901 Cohen Fort
+West Rickyfurt, MN 58158","[{'product_id': 18, 'qty': 3}]"
+ec-2025-10-09-6,2025-10-09T21:52:00,76,"567 Ashley Forge
+Woodston, AL 13437","[{'product_id': 38, 'qty': 1}, {'product_id': 27, 'qty': 3}]"
+ec-2025-10-09-7,2025-10-09T01:42:00,146,"USCGC Christensen
+FPO AE 97982","[{'product_id': 5, 'qty': 1}, {'product_id': 27, 'qty': 1}, {'product_id': 31, 'qty': 1}]"
+ec-2025-10-09-8,2025-10-09T14:10:00,33,"659 Beltran Springs
+New Scottport, CO 51522","[{'product_id': 26, 'qty': 1}]"
+ec-2025-10-09-9,2025-10-09T23:41:00,36,"76287 Brandi Haven
+Robinsonhaven, AS 45408","[{'product_id': 39, 'qty': 3}, {'product_id': 10, 'qty': 2}]"
+ec-2025-10-09-10,2025-10-09T20:27:00,60,"084 Neal Circle Suite 133
+North Renee, WV 31482","[{'product_id': 46, 'qty': 1}]"
+ec-2025-10-09-11,2025-10-09T09:09:00,162,"2398 Barnett Manor Apt. 433
+Lake Thomas, MS 63126","[{'product_id': 44, 'qty': 1}]"
+ec-2025-10-09-12,2025-10-09T03:42:00,182,"PSC 8059, Box 8281
+APO AP 77908","[{'product_id': 12, 'qty': 2}, {'product_id': 12, 'qty': 1}]"
+ec-2025-10-09-13,2025-10-09T08:49:00,126,"970 Sanders Meadows
+Jasonchester, AZ 68437","[{'product_id': 27, 'qty': 3}, {'product_id': 37, 'qty': 2}]"
+ec-2025-10-09-14,2025-10-09T00:23:00,163,"18362 Wolf Loaf
+North Diana, CO 62945","[{'product_id': 9, 'qty': 1}, {'product_id': 40, 'qty': 2}]"
+ec-2025-10-09-15,2025-10-09T11:15:00,157,"Unit 7222 Box 5427
+DPO AP 20675","[{'product_id': 18, 'qty': 1}, {'product_id': 29, 'qty': 2}, {'product_id': 37, 'qty': 1}]"
+ec-2025-10-09-16,2025-10-09T18:23:00,164,"USNS Wallace
+FPO AE 99241","[{'product_id': 49, 'qty': 1}, {'product_id': 27, 'qty': 2}, {'product_id': 45, 'qty': 1}]"
+ec-2025-10-09-17,2025-10-09T02:48:00,91,"0065 Kirk Flats Suite 733
+New Cherylport, DC 49087","[{'product_id': 2, 'qty': 2}, {'product_id': 11, 'qty': 2}, {'product_id': 11, 'qty': 3}]"
+ec-2025-10-09-18,2025-10-09T10:16:00,120,"USNV Price
+FPO AA 57946","[{'product_id': 26, 'qty': 1}]"
+ec-2025-10-09-19,2025-10-09T06:55:00,37,"7472 Serrano Crossing Suite 269
+New Karen, MA 53679","[{'product_id': 37, 'qty': 2}]"
+ec-2025-10-09-20,2025-10-09T01:17:00,181,"2562 Kyle Extensions
+West Andrew, AZ 73515","[{'product_id': 28, 'qty': 1}]"
+ec-2025-10-09-21,2025-10-09T02:18:00,166,"88758 Christopher Causeway Suite 934
+Lake Crystal, IL 48211","[{'product_id': 29, 'qty': 3}]"
+ec-2025-10-09-22,2025-10-09T17:10:00,126,"26664 Oconnor Turnpike
+East Maria, VI 66815","[{'product_id': 46, 'qty': 1}, {'product_id': 4, 'qty': 2}, {'product_id': 46, 'qty': 2}]"
+ec-2025-10-09-23,2025-10-09T08:29:00,32,"3185 Luna Cliffs Apt. 647
+Henryberg, WV 05902","[{'product_id': 39, 'qty': 1}, {'product_id': 10, 'qty': 1}]"
+ec-2025-10-09-24,2025-10-09T14:46:00,114,"18978 Michael Brooks Apt. 755
+Markmouth, MO 47098","[{'product_id': 37, 'qty': 1}, {'product_id': 15, 'qty': 1}]"
+ec-2025-10-09-25,2025-10-09T07:53:00,176,"7031 Orozco Meadow Apt. 662
+Kevintown, LA 93052","[{'product_id': 2, 'qty': 1}, {'product_id': 18, 'qty': 1}, {'product_id': 50, 'qty': 2}]"
+ec-2025-10-09-26,2025-10-09T22:55:00,152,"06379 Shawn Rue
+Nicoleborough, OH 25635","[{'product_id': 23, 'qty': 2}, {'product_id': 45, 'qty': 3}, {'product_id': 15, 'qty': 1}]"
+ec-2025-10-09-27,2025-10-09T17:26:00,26,"9397 Ramsey Fields
+Oliverstad, UT 49448","[{'product_id': 2, 'qty': 2}]"
+ec-2025-10-09-28,2025-10-09T16:25:00,60,"8469 Copeland Ridge
+Michaelhaven, CT 33971","[{'product_id': 41, 'qty': 3}]"
+ec-2025-10-09-29,2025-10-09T01:43:00,47,"3790 Stephen Villages Suite 047
+East Josephbury, NY 46749","[{'product_id': 20, 'qty': 1}, {'product_id': 7, 'qty': 2}]"
+ec-2025-10-09-30,2025-10-09T16:14:00,65,,"[{'product_id': 35, 'qty': 1}, {'product_id': 24, 'qty': 2}, {'product_id': 11, 'qty': 3}]"
+ec-2025-10-09-31,2025-10-09T01:52:00,62,"78518 Sean Greens
+South Ericmouth, ID 13437","[{'product_id': 21, 'qty': 2}]"
+ec-2025-10-09-32,2025-10-09T04:17:00,64,"2033 Robert Via
+Jamesfort, PA 09287","[{'product_id': 7, 'qty': 1}, {'product_id': 2, 'qty': 1}]"
+ec-2025-10-09-33,2025-10-09T12:10:00,84,"847 Mark Forest Apt. 907
+East Tanyahaven, SC 96396","[{'product_id': 4, 'qty': 2}, {'product_id': 38, 'qty': 2}]"
+ec-2025-10-09-34,2025-10-09T23:50:00,14,"USNS Clark
+FPO AA 89887","[{'product_id': 42, 'qty': 1}]"

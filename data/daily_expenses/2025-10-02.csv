@@ -1,0 +1,16 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-02-0,2025-10-02,3,802.29,"Jones, Owen and Padilla",2
+exp-2025-10-02-1,2025-10-02,5,1590.46,Alexander-Hernandez,1
+exp-2025-10-02-2,2025-10-02,4,1236.9,Berg Inc,4
+exp-2025-10-02-3,2025-10-02,4,34.02,Baker PLC,4
+exp-2025-10-02-4,2025-10-02,1,1623.61,Green LLC,3
+exp-2025-10-02-5,2025-10-02,5,851.88,"Porter, Harris and Obrien",3
+exp-2025-10-02-6,2025-10-02,4,1728.75,Carson-Rivera,4
+exp-2025-10-02-7,2025-10-02,4,41.91,Green Ltd,1
+exp-2025-10-02-8,2025-10-02,3,506.45,"Cox, Lopez and Lewis",3
+exp-2025-10-02-9,2025-10-02,2,1364.98,Brown-Watkins,2
+exp-2025-10-02-10,2025-10-02,1,852.09,"Wood, Conway and Aguirre",3
+exp-2025-10-02-11,2025-10-02,4,117.4,"Smith, Cooper and Gonzales",5
+exp-2025-10-02-12,2025-10-02,1,753.11,Harris and Sons,3
+exp-2025-10-02-13,2025-10-02,1,426.29,"Davis, Estrada and Frazier",3
+exp-2025-10-02-14,2025-10-02,4,1138.66,Horn LLC,4

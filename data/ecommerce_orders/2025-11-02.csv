@@ -1,0 +1,31 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-02-0,2025-11-02T04:02:00,8,"30325 Stacy Street
+Zacharychester, WI 50704","[{'product_id': 16, 'qty': 1}, {'product_id': 31, 'qty': 2}, {'product_id': 49, 'qty': 1}]"
+ec-2025-11-02-1,2025-11-02T07:41:00,97,"31900 Paul Club
+Kimberlychester, MH 99362","[{'product_id': 7, 'qty': 1}, {'product_id': 6, 'qty': 1}, {'product_id': 38, 'qty': 1}]"
+ec-2025-11-02-2,2025-11-02T11:56:00,93,"9857 Ashley Valleys Apt. 432
+Evansbury, NJ 09750","[{'product_id': 41, 'qty': 1}, {'product_id': 17, 'qty': 1}, {'product_id': 11, 'qty': 2}]"
+ec-2025-11-02-3,2025-11-02T19:35:00,194,"5416 Henson Cape
+New Elizabethview, OR 99442","[{'product_id': 14, 'qty': 2}]"
+ec-2025-11-02-4,2025-11-02T13:59:00,50,"373 Jennifer Gateway
+Hamiltonborough, MS 89302","[{'product_id': 22, 'qty': 1}, {'product_id': 26, 'qty': 1}]"
+ec-2025-11-02-5,2025-11-02T15:44:00,110,"41525 Atkinson Hill Apt. 217
+South Jeffrey, DC 36149","[{'product_id': 32, 'qty': 1}, {'product_id': 36, 'qty': 2}]"
+ec-2025-11-02-6,2025-11-02T14:30:00,19,"295 Becker Throughway Apt. 461
+Parrishside, FL 38303","[{'product_id': 6, 'qty': 1}, {'product_id': 5, 'qty': 2}]"
+ec-2025-11-02-7,2025-11-02T19:57:00,89,"60856 Jorge Knolls Suite 834
+North Leah, FM 27864","[{'product_id': 2, 'qty': 3}, {'product_id': 20, 'qty': 1}, {'product_id': 12, 'qty': 1}]"
+ec-2025-11-02-8,2025-11-02T04:26:00,50,"027 Brian Stream
+West Karen, AR 00502","[{'product_id': 1, 'qty': 2}, {'product_id': 44, 'qty': 2}, {'product_id': 8, 'qty': 1}]"
+ec-2025-11-02-9,2025-11-02T12:24:00,8,,"[{'product_id': 6, 'qty': 2}]"
+ec-2025-11-02-10,2025-11-02T10:30:00,135,"45785 Williams Junctions
+Port Oscarbury, MD 24790","[{'product_id': 19, 'qty': 2}, {'product_id': 12, 'qty': 1}]"
+ec-2025-11-02-11,2025-11-02T08:34:00,128,"3794 Sandra Wall Apt. 369
+East Debraton, WI 95737","[{'product_id': 17, 'qty': 1}]"
+ec-2025-11-02-12,2025-11-02T19:58:00,155,,"[{'product_id': 47, 'qty': 1}]"
+ec-2025-11-02-13,2025-11-02T13:07:00,199,"9528 Johnson Forges
+Jessicamouth, WA 38302","[{'product_id': 30, 'qty': 1}, {'product_id': 46, 'qty': 1}]"
+ec-2025-11-02-14,2025-11-02T21:27:00,169,"2236 Collins Lakes Suite 689
+Schmidtberg, OR 17000","[{'product_id': 22, 'qty': 1}]"
+ec-2025-11-02-15,2025-11-02T16:25:00,58,"Unit 5970 Box 0497
+DPO AE 83839","[{'product_id': 25, 'qty': 1}]"

@@ -1,0 +1,43 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-01-0,2025-10-01T06:58:00,10,"303 Brooke Trafficway Suite 863
+South Mark, MS 57347","[{'product_id': 22, 'qty': 1}, {'product_id': 9, 'qty': 1}]"
+ec-2025-10-01-1,2025-10-01T07:31:00,132,"6970 Erik Union
+North Christineshire, OK 76681","[{'product_id': 33, 'qty': 2}, {'product_id': 25, 'qty': 1}, {'product_id': 23, 'qty': 1}]"
+ec-2025-10-01-2,2025-10-01T20:56:00,160,"77196 Taylor Motorway
+Dyerview, MA 64284","[{'product_id': 14, 'qty': 3}]"
+ec-2025-10-01-3,2025-10-01T13:17:00,169,"911 Jason Knolls
+Judithstad, VA 75300","[{'product_id': 42, 'qty': 3}, {'product_id': 38, 'qty': 3}]"
+ec-2025-10-01-4,2025-10-01T00:47:00,23,"2827 Courtney View Suite 263
+North Elizabethfurt, IN 60674","[{'product_id': 13, 'qty': 1}, {'product_id': 18, 'qty': 1}, {'product_id': 31, 'qty': 2}]"
+ec-2025-10-01-5,2025-10-01T15:15:00,21,"46884 Soto Locks Apt. 919
+Teresaville, ME 01251","[{'product_id': 1, 'qty': 1}, {'product_id': 14, 'qty': 1}, {'product_id': 8, 'qty': 1}]"
+ec-2025-10-01-6,2025-10-01T08:45:00,134,"993 Sharon Path Apt. 098
+South Matthew, NE 48803","[{'product_id': 47, 'qty': 2}, {'product_id': 46, 'qty': 2}]"
+ec-2025-10-01-7,2025-10-01T19:26:00,75,"794 Hoover Rapid
+Port Connie, MI 52451","[{'product_id': 46, 'qty': 2}, {'product_id': 37, 'qty': 1}, {'product_id': 47, 'qty': 2}]"
+ec-2025-10-01-8,2025-10-01T10:30:00,113,"624 Vazquez Plaza Suite 782
+Lake Stephanie, TN 50943","[{'product_id': 38, 'qty': 2}]"
+ec-2025-10-01-9,2025-10-01T12:14:00,24,"28502 Hector Road
+New Ashlee, RI 44839","[{'product_id': 31, 'qty': 2}, {'product_id': 37, 'qty': 2}]"
+ec-2025-10-01-10,2025-10-01T11:18:00,187,"182 Cooper Hills
+Williammouth, CO 48792","[{'product_id': 47, 'qty': 1}, {'product_id': 36, 'qty': 2}, {'product_id': 17, 'qty': 3}]"
+ec-2025-10-01-11,2025-10-01T13:47:00,161,"USNV Thompson
+FPO AA 26331","[{'product_id': 22, 'qty': 1}, {'product_id': 25, 'qty': 1}]"
+ec-2025-10-01-12,2025-10-01T05:41:00,95,"635 Richardson Falls
+New Jamesshire, NH 27254","[{'product_id': 35, 'qty': 1}, {'product_id': 43, 'qty': 2}, {'product_id': 34, 'qty': 3}]"
+ec-2025-10-01-13,2025-10-01T05:37:00,184,"2990 John Creek
+Jamesstad, NE 15699","[{'product_id': 49, 'qty': 2}]"
+ec-2025-10-01-14,2025-10-01T05:15:00,63,"3317 Guerra Pines
+Longfort, AR 93000","[{'product_id': 28, 'qty': 1}]"
+ec-2025-10-01-15,2025-10-01T17:24:00,132,"51186 Palmer Lakes Suite 404
+South Robert, FM 74623","[{'product_id': 47, 'qty': 1}, {'product_id': 28, 'qty': 4}, {'product_id': 32, 'qty': 3}]"
+ec-2025-10-01-16,2025-10-01T17:08:00,5,"1131 Green Overpass Suite 799
+Lake Ashleyhaven, NJ 48448","[{'product_id': 18, 'qty': 1}, {'product_id': 21, 'qty': 2}]"
+ec-2025-10-01-17,2025-10-01T09:10:00,188,"31144 Cox Avenue Suite 471
+South Gina, AS 63193","[{'product_id': 37, 'qty': 1}, {'product_id': 31, 'qty': 1}]"
+ec-2025-10-01-18,2025-10-01T12:11:00,163,"2884 Hines Village
+Smithstad, IN 98537","[{'product_id': 21, 'qty': 2}, {'product_id': 23, 'qty': 1}]"
+ec-2025-10-01-19,2025-10-01T20:28:00,161,"1418 Charles Parkways Suite 750
+Lake Mark, WV 26746","[{'product_id': 45, 'qty': 1}, {'product_id': 40, 'qty': 1}, {'product_id': 30, 'qty': 2}]"
+ec-2025-10-01-20,2025-10-01T09:26:00,23,"Unit 5076 Box 1834
+DPO AA 56995","[{'product_id': 46, 'qty': 1}]"

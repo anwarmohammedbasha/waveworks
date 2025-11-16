@@ -1,0 +1,59 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-03-0,2025-10-03T23:41:00,62,"0206 Anderson Drive Apt. 810
+Longberg, FL 51110","[{'product_id': 23, 'qty': 2}]"
+ec-2025-10-03-1,2025-10-03T15:55:00,32,"94392 Seth Viaduct
+New Aaron, MD 67293","[{'product_id': 4, 'qty': 3}, {'product_id': 8, 'qty': 2}, {'product_id': 17, 'qty': 2}]"
+ec-2025-10-03-2,2025-10-03T15:46:00,117,"898 William Junctions
+Perezport, ME 14162","[{'product_id': 40, 'qty': 2}, {'product_id': 5, 'qty': 1}]"
+ec-2025-10-03-3,2025-10-03T22:30:00,68,"PSC 9663, Box 3656
+APO AE 54945","[{'product_id': 9, 'qty': 3}, {'product_id': 30, 'qty': 4}]"
+ec-2025-10-03-4,2025-10-03T17:04:00,87,"253 Holmes Landing Suite 855
+Lake Todd, NJ 24794","[{'product_id': 15, 'qty': 1}]"
+ec-2025-10-03-5,2025-10-03T21:38:00,125,"95183 Barbara Cape
+Annahaven, PA 69518","[{'product_id': 35, 'qty': 3}, {'product_id': 22, 'qty': 2}]"
+ec-2025-10-03-6,2025-10-03T07:18:00,159,"3227 Ricky Drive
+Christyville, MH 17703","[{'product_id': 16, 'qty': 1}]"
+ec-2025-10-03-7,2025-10-03T04:56:00,138,"4223 Thomas Knolls
+New Nicolefurt, KS 56494","[{'product_id': 23, 'qty': 1}, {'product_id': 44, 'qty': 1}]"
+ec-2025-10-03-8,2025-10-03T19:52:00,89,"Unit 3354 Box 3871
+DPO AE 85390","[{'product_id': 20, 'qty': 2}, {'product_id': 33, 'qty': 1}, {'product_id': 7, 'qty': 1}]"
+ec-2025-10-03-9,2025-10-03T05:18:00,136,"004 Tiffany Path
+Ingrammouth, AS 47171","[{'product_id': 41, 'qty': 1}, {'product_id': 41, 'qty': 2}]"
+ec-2025-10-03-10,2025-10-03T05:43:00,62,"216 Davis Highway
+Tammyview, NC 09292","[{'product_id': 42, 'qty': 2}, {'product_id': 41, 'qty': 1}, {'product_id': 2, 'qty': 2}]"
+ec-2025-10-03-11,2025-10-03T15:52:00,27,"661 Moore Extensions Suite 152
+Shannonshire, MN 36385","[{'product_id': 29, 'qty': 1}, {'product_id': 47, 'qty': 1}, {'product_id': 32, 'qty': 1}]"
+ec-2025-10-03-12,2025-10-03T23:40:00,63,"058 Cantrell Via Suite 957
+Elliotthaven, AR 85529","[{'product_id': 36, 'qty': 1}]"
+ec-2025-10-03-13,2025-10-03T11:55:00,183,"1093 Sanders Inlet
+West Brendanhaven, AZ 10036","[{'product_id': 3, 'qty': 1}, {'product_id': 19, 'qty': 1}]"
+ec-2025-10-03-14,2025-10-03T12:43:00,183,"PSC 3105, Box 5373
+APO AE 99064","[{'product_id': 8, 'qty': 1}]"
+ec-2025-10-03-15,2025-10-03T13:15:00,26,,"[{'product_id': 23, 'qty': 2}, {'product_id': 40, 'qty': 1}]"
+ec-2025-10-03-16,2025-10-03T01:20:00,195,"1181 Schultz Groves
+Victortown, AZ 27571","[{'product_id': 3, 'qty': 1}, {'product_id': 25, 'qty': 1}, {'product_id': 18, 'qty': 2}]"
+ec-2025-10-03-17,2025-10-03T19:36:00,9,"899 Ryan Ridges
+Richardland, MT 29030","[{'product_id': 45, 'qty': 1}, {'product_id': 21, 'qty': 1}]"
+ec-2025-10-03-18,2025-10-03T10:42:00,175,"209 Lopez Square
+Port Stephenland, MO 19779","[{'product_id': 10, 'qty': 3}, {'product_id': 38, 'qty': 3}, {'product_id': 50, 'qty': 2}]"
+ec-2025-10-03-19,2025-10-03T19:58:00,109,"740 Rebecca Wall Apt. 822
+Holmeschester, PA 95997","[{'product_id': 16, 'qty': 3}, {'product_id': 23, 'qty': 3}, {'product_id': 32, 'qty': 1}]"
+ec-2025-10-03-20,2025-10-03T08:11:00,95,"346 Ross Islands
+Ericfurt, NJ 07571","[{'product_id': 46, 'qty': 1}, {'product_id': 32, 'qty': 1}]"
+ec-2025-10-03-21,2025-10-03T01:58:00,117,"689 Gonzalez Knolls
+North Andrewborough, IL 89551","[{'product_id': 35, 'qty': 2}, {'product_id': 14, 'qty': 3}, {'product_id': 15, 'qty': 2}]"
+ec-2025-10-03-22,2025-10-03T06:37:00,157,,"[{'product_id': 13, 'qty': 1}, {'product_id': 4, 'qty': 1}]"
+ec-2025-10-03-23,2025-10-03T10:34:00,43,"6263 Hanson Creek
+New Kaylamouth, FL 91503","[{'product_id': 40, 'qty': 1}, {'product_id': 15, 'qty': 1}]"
+ec-2025-10-03-24,2025-10-03T07:40:00,81,"024 Fitzpatrick Ferry Suite 693
+Patrickville, MH 72200","[{'product_id': 37, 'qty': 2}, {'product_id': 27, 'qty': 1}, {'product_id': 5, 'qty': 2}]"
+ec-2025-10-03-25,2025-10-03T23:42:00,69,"23550 Morales Manor Apt. 582
+New Erica, CA 98529","[{'product_id': 13, 'qty': 1}]"
+ec-2025-10-03-26,2025-10-03T22:47:00,3,"471 Alex Shore
+Conwayside, MA 43039","[{'product_id': 44, 'qty': 1}, {'product_id': 47, 'qty': 2}]"
+ec-2025-10-03-27,2025-10-03T21:27:00,112,"6437 David Inlet
+East James, HI 59166","[{'product_id': 10, 'qty': 2}, {'product_id': 25, 'qty': 2}, {'product_id': 22, 'qty': 1}]"
+ec-2025-10-03-28,2025-10-03T06:11:00,172,"Unit 6879 Box 7550
+DPO AA 94341","[{'product_id': 31, 'qty': 2}, {'product_id': 46, 'qty': 1}, {'product_id': 50, 'qty': 2}]"
+ec-2025-10-03-29,2025-10-03T17:17:00,196,"659 Smith Valley
+Lake Shannon, DC 77156","[{'product_id': 38, 'qty': 1}, {'product_id': 7, 'qty': 2}]"

@@ -1,0 +1,14 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-09-23-0,2025-09-23,3,499.55,"Carlson, Clark and Shelton",4
+exp-2025-09-23-1,2025-09-23,5,822.9,Thompson LLC,5
+exp-2025-09-23-2,2025-09-23,4,1148.02,"Hicks, Hodges and Bell",2
+exp-2025-09-23-3,2025-09-23,3,850.33,Sandoval-Becker,2
+exp-2025-09-23-4,2025-09-23,3,986.6,Pierce Inc,2
+exp-2025-09-23-5,2025-09-23,3,458.82,Guzman-Smith,2
+exp-2025-09-23-6,2025-09-23,4,1324.35,"Christensen, Lopez and Howard",4
+exp-2025-09-23-7,2025-09-23,1,35.34,Le PLC,4
+exp-2025-09-23-8,2025-09-23,2,1288.3,Jacobs-Perkins,3
+exp-2025-09-23-9,2025-09-23,1,459.25,Taylor Group,5
+exp-2025-09-23-10,2025-09-23,2,1932.34,"Jackson, Blanchard and Lawson",3
+exp-2025-09-23-11,2025-09-23,5,1490.98,"Robinson, Jones and Smith",1
+exp-2025-09-23-12,2025-09-23,5,404.57,Jackson-Montgomery,2

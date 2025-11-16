@@ -1,0 +1,8 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-03-0,2025-10-03,3,435.45,King Ltd,3
+exp-2025-10-03-1,2025-10-03,4,1171.21,Johnston-Adams,4
+exp-2025-10-03-2,2025-10-03,1,1149.61,Peterson Ltd,5
+exp-2025-10-03-3,2025-10-03,5,1067.72,Nguyen Inc,3
+exp-2025-10-03-4,2025-10-03,4,1165.67,Watson-Davis,4
+exp-2025-10-03-5,2025-10-03,1,1111.92,"Clements, Gilbert and Williams",3
+exp-2025-10-03-6,2025-10-03,5,994.84,Torres-Kelley,5

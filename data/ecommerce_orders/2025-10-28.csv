@@ -1,0 +1,60 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-28-0,2025-10-28T05:23:00,192,"76026 Zachary Spurs
+Erikville, MH 31056","[{'product_id': 16, 'qty': 1}]"
+ec-2025-10-28-1,2025-10-28T01:32:00,131,"698 Taylor Prairie
+Christopherland, PR 70348","[{'product_id': 38, 'qty': 2}, {'product_id': 26, 'qty': 1}, {'product_id': 39, 'qty': 2}]"
+ec-2025-10-28-2,2025-10-28T07:35:00,77,"612 Elliott Fork Apt. 679
+Lake John, WV 99215","[{'product_id': 23, 'qty': 1}]"
+ec-2025-10-28-3,2025-10-28T08:34:00,136,"3111 Tran Village
+Huntertown, WI 49546","[{'product_id': 12, 'qty': 2}, {'product_id': 7, 'qty': 1}]"
+ec-2025-10-28-4,2025-10-28T23:24:00,92,"89239 Kara Path
+Sandersmouth, AL 50472","[{'product_id': 33, 'qty': 1}]"
+ec-2025-10-28-5,2025-10-28T18:38:00,12,"734 Rogers Inlet
+Port Robert, UT 79132","[{'product_id': 27, 'qty': 2}, {'product_id': 40, 'qty': 1}]"
+ec-2025-10-28-6,2025-10-28T10:13:00,151,"8781 Mclaughlin Expressway
+Careystad, PA 74047","[{'product_id': 31, 'qty': 3}]"
+ec-2025-10-28-7,2025-10-28T13:44:00,67,"643 Kramer Inlet
+East Amandafurt, NV 77809","[{'product_id': 28, 'qty': 1}, {'product_id': 43, 'qty': 1}]"
+ec-2025-10-28-8,2025-10-28T02:47:00,110,"2435 Hunt Rue Apt. 003
+Lake Amberton, PR 02565","[{'product_id': 8, 'qty': 2}]"
+ec-2025-10-28-9,2025-10-28T08:06:00,187,"4276 Gonzalez Fords Apt. 898
+Port Jon, CA 63466","[{'product_id': 26, 'qty': 1}, {'product_id': 45, 'qty': 1}, {'product_id': 27, 'qty': 2}]"
+ec-2025-10-28-10,2025-10-28T17:09:00,183,"353 Burns Corner
+New Lauren, PR 73434","[{'product_id': 41, 'qty': 1}]"
+ec-2025-10-28-11,2025-10-28T01:26:00,78,"00659 Denise Point
+Andrewmouth, NH 13268","[{'product_id': 39, 'qty': 1}, {'product_id': 15, 'qty': 2}, {'product_id': 35, 'qty': 2}]"
+ec-2025-10-28-12,2025-10-28T14:11:00,183,"4051 Juan Cape
+Garciamouth, IA 33186","[{'product_id': 1, 'qty': 2}, {'product_id': 21, 'qty': 2}]"
+ec-2025-10-28-13,2025-10-28T10:46:00,192,,"[{'product_id': 11, 'qty': 1}]"
+ec-2025-10-28-14,2025-10-28T16:26:00,50,"Unit 0518 Box 0198
+DPO AE 64162","[{'product_id': 7, 'qty': 1}]"
+ec-2025-10-28-15,2025-10-28T01:03:00,18,"841 Johnson Street
+Ramirezton, MH 40172","[{'product_id': 23, 'qty': 2}, {'product_id': 35, 'qty': 1}]"
+ec-2025-10-28-16,2025-10-28T03:09:00,96,"66047 Ian Terrace
+New Marcusland, OR 69597","[{'product_id': 48, 'qty': 3}, {'product_id': 39, 'qty': 1}]"
+ec-2025-10-28-17,2025-10-28T10:04:00,156,"38006 Kelly Mill
+West Craig, MO 59042","[{'product_id': 8, 'qty': 2}, {'product_id': 47, 'qty': 2}, {'product_id': 24, 'qty': 2}]"
+ec-2025-10-28-18,2025-10-28T04:07:00,148,"33539 David Lodge
+Medinahaven, TN 62084","[{'product_id': 38, 'qty': 2}, {'product_id': 15, 'qty': 2}, {'product_id': 35, 'qty': 1}]"
+ec-2025-10-28-19,2025-10-28T14:57:00,21,"76471 Ryan Wells
+Millerbury, WV 25878","[{'product_id': 32, 'qty': 2}, {'product_id': 1, 'qty': 2}, {'product_id': 42, 'qty': 1}]"
+ec-2025-10-28-20,2025-10-28T20:23:00,53,"7383 Anita Terrace
+Cathyburgh, AZ 66661","[{'product_id': 46, 'qty': 4}, {'product_id': 24, 'qty': 4}, {'product_id': 45, 'qty': 2}]"
+ec-2025-10-28-21,2025-10-28T03:27:00,154,"094 Wells Highway
+West Melvin, MN 27796","[{'product_id': 38, 'qty': 2}]"
+ec-2025-10-28-22,2025-10-28T02:32:00,196,"20270 Knapp Parkway
+Matthewhaven, AS 56634","[{'product_id': 23, 'qty': 3}, {'product_id': 11, 'qty': 2}, {'product_id': 50, 'qty': 1}]"
+ec-2025-10-28-23,2025-10-28T09:03:00,11,"551 Walker Drive
+North Sarahton, TN 65337","[{'product_id': 31, 'qty': 2}]"
+ec-2025-10-28-24,2025-10-28T16:04:00,127,"PSC 8517, Box 0097
+APO AA 86625","[{'product_id': 23, 'qty': 1}, {'product_id': 25, 'qty': 2}, {'product_id': 35, 'qty': 2}]"
+ec-2025-10-28-25,2025-10-28T00:14:00,100,"01816 Eric Keys
+Leehaven, ME 51703","[{'product_id': 45, 'qty': 4}]"
+ec-2025-10-28-26,2025-10-28T06:11:00,107,"707 Bradford Centers
+Lopezfort, NV 90952","[{'product_id': 9, 'qty': 1}, {'product_id': 47, 'qty': 2}, {'product_id': 4, 'qty': 2}]"
+ec-2025-10-28-27,2025-10-28T13:15:00,152,"4019 Kim Dale Apt. 346
+Port Douglasfort, ME 32291","[{'product_id': 5, 'qty': 1}, {'product_id': 6, 'qty': 2}]"
+ec-2025-10-28-28,2025-10-28T05:44:00,29,"170 Erin Spring Apt. 529
+Mirandachester, WY 44367","[{'product_id': 4, 'qty': 2}, {'product_id': 6, 'qty': 1}]"
+ec-2025-10-28-29,2025-10-28T04:08:00,171,"62527 Jonathan Coves Apt. 278
+Kevinburgh, NJ 07489","[{'product_id': 46, 'qty': 1}, {'product_id': 44, 'qty': 1}, {'product_id': 40, 'qty': 3}]"

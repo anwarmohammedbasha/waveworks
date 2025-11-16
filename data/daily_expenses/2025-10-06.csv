@@ -1,0 +1,14 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-06-0,2025-10-06,2,376.77,Smith-Ortiz,2
+exp-2025-10-06-1,2025-10-06,2,990.6,Adkins-Harris,2
+exp-2025-10-06-2,2025-10-06,2,1879.07,Cooper and Sons,5
+exp-2025-10-06-3,2025-10-06,1,1910.33,"Smith, Becker and Marks",3
+exp-2025-10-06-4,2025-10-06,4,66.27,Acevedo LLC,1
+exp-2025-10-06-5,2025-10-06,2,1121.44,Harris-Hammond,4
+exp-2025-10-06-6,2025-10-06,1,676.77,"Mann, Conley and Olson",5
+exp-2025-10-06-7,2025-10-06,5,1594.34,"Miller, Livingston and Foster",3
+exp-2025-10-06-8,2025-10-06,1,729.29,"Gonzalez, Alexander and Moore",4
+exp-2025-10-06-9,2025-10-06,3,1458.57,"Castillo, Johnson and Torres",4
+exp-2025-10-06-10,2025-10-06,3,46.82,"Clark, Wilcox and Rowland",4
+exp-2025-10-06-11,2025-10-06,4,1565.19,Jones Group,2
+exp-2025-10-06-12,2025-10-06,4,912.35,"Barnett, Kim and Clark",5

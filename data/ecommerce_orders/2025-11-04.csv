@@ -1,0 +1,26 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-04-0,2025-11-04T01:49:00,182,"29303 Kathy Stravenue
+North Bradleyton, KS 03698","[{'product_id': 19, 'qty': 2}, {'product_id': 6, 'qty': 1}, {'product_id': 2, 'qty': 2}]"
+ec-2025-11-04-1,2025-11-04T01:31:00,124,"297 Kimberly Via
+Jillfurt, GA 85159","[{'product_id': 44, 'qty': 3}]"
+ec-2025-11-04-2,2025-11-04T20:21:00,84,"PSC 1543, Box 1784
+APO AA 21620","[{'product_id': 34, 'qty': 1}, {'product_id': 31, 'qty': 4}]"
+ec-2025-11-04-3,2025-11-04T19:18:00,163,"8348 Betty Pines Suite 373
+Laurenstad, AK 82246","[{'product_id': 13, 'qty': 3}, {'product_id': 2, 'qty': 1}, {'product_id': 28, 'qty': 2}]"
+ec-2025-11-04-4,2025-11-04T10:58:00,115,"7877 Rice Ferry
+Elizabethside, ND 21921","[{'product_id': 18, 'qty': 2}, {'product_id': 46, 'qty': 3}]"
+ec-2025-11-04-5,2025-11-04T07:10:00,88,,"[{'product_id': 43, 'qty': 1}, {'product_id': 49, 'qty': 2}]"
+ec-2025-11-04-6,2025-11-04T13:59:00,9,"7054 Stephanie Turnpike Apt. 137
+Seanfurt, WA 29600","[{'product_id': 2, 'qty': 1}, {'product_id': 47, 'qty': 1}]"
+ec-2025-11-04-7,2025-11-04T11:24:00,111,"67928 Clark Mill Suite 157
+Fullershire, AS 61468","[{'product_id': 31, 'qty': 2}]"
+ec-2025-11-04-8,2025-11-04T02:54:00,163,"3968 Oneal Points Apt. 654
+East James, MN 46398","[{'product_id': 35, 'qty': 1}, {'product_id': 11, 'qty': 1}, {'product_id': 39, 'qty': 2}]"
+ec-2025-11-04-9,2025-11-04T13:37:00,25,"99236 Elliott Mews
+Stephenside, VI 48709","[{'product_id': 8, 'qty': 3}, {'product_id': 9, 'qty': 2}, {'product_id': 24, 'qty': 3}]"
+ec-2025-11-04-10,2025-11-04T20:25:00,166,"695 Paul Pines
+East Amanda, ME 46914","[{'product_id': 44, 'qty': 3}, {'product_id': 14, 'qty': 2}]"
+ec-2025-11-04-11,2025-11-04T08:28:00,128,"62571 Johnson Plains Apt. 789
+Ferrellfurt, OK 60343","[{'product_id': 29, 'qty': 4}, {'product_id': 33, 'qty': 2}, {'product_id': 50, 'qty': 3}]"
+ec-2025-11-04-12,2025-11-04T02:15:00,195,,"[{'product_id': 42, 'qty': 1}, {'product_id': 24, 'qty': 2}]"
+ec-2025-11-04-13,2025-11-04T14:35:00,69,,"[{'product_id': 30, 'qty': 2}]"

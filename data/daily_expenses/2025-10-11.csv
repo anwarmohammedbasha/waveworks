@@ -1,0 +1,11 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-11-0,2025-10-11,3,208.75,"Rosales, Dillon and Johnston",3
+exp-2025-10-11-1,2025-10-11,4,433.8,Garza PLC,1
+exp-2025-10-11-2,2025-10-11,4,1052.31,Nelson Group,4
+exp-2025-10-11-3,2025-10-11,5,1713.11,"Williams, Murphy and Lee",1
+exp-2025-10-11-4,2025-10-11,3,151.87,"Cochran, Woodward and Cox",3
+exp-2025-10-11-5,2025-10-11,3,221.96,Daniel Ltd,3
+exp-2025-10-11-6,2025-10-11,3,527.42,"Erickson, Evans and Horn",5
+exp-2025-10-11-7,2025-10-11,5,949.9,Beck Inc,2
+exp-2025-10-11-8,2025-10-11,2,411.17,Leonard-Fry,5
+exp-2025-10-11-9,2025-10-11,4,43.81,Trevino Group,3

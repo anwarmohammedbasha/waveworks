@@ -1,0 +1,11 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-12-0,2025-10-12,1,1463.08,Lloyd-Torres,2
+exp-2025-10-12-1,2025-10-12,4,396.03,"Adams, Anderson and Stokes",3
+exp-2025-10-12-2,2025-10-12,3,316.23,"Meadows, Sims and Cole",4
+exp-2025-10-12-3,2025-10-12,1,354.98,"Nguyen, Phelps and Rose",3
+exp-2025-10-12-4,2025-10-12,1,1085.71,Peters-Floyd,2
+exp-2025-10-12-5,2025-10-12,1,1966.41,Myers-Cohen,3
+exp-2025-10-12-6,2025-10-12,1,433.06,Miller-Deleon,1
+exp-2025-10-12-7,2025-10-12,5,1542.61,Robinson LLC,5
+exp-2025-10-12-8,2025-10-12,4,1196.79,"Hart, Padilla and Rodriguez",5
+exp-2025-10-12-9,2025-10-12,4,278.51,Moran Group,2

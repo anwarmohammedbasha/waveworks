@@ -1,0 +1,10 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-10-0,2025-10-10,4,1250.83,Navarro LLC,4
+exp-2025-10-10-1,2025-10-10,2,1768.35,"Wright, Gonzales and Thornton",1
+exp-2025-10-10-2,2025-10-10,5,1717.58,Malone and Sons,2
+exp-2025-10-10-3,2025-10-10,4,1609.93,Chandler PLC,5
+exp-2025-10-10-4,2025-10-10,1,1152.12,Miller-Clark,1
+exp-2025-10-10-5,2025-10-10,4,403.77,Allen-Mccoy,4
+exp-2025-10-10-6,2025-10-10,3,719.09,Meyer-Rosario,4
+exp-2025-10-10-7,2025-10-10,5,818.64,Young and Sons,4
+exp-2025-10-10-8,2025-10-10,5,1894.57,Kelley-Duarte,3

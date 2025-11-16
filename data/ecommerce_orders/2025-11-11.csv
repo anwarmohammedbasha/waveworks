@@ -1,0 +1,41 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-11-0,2025-11-11T12:37:00,115,"3435 Griffin Rest
+Port Melanie, WY 58758","[{'product_id': 14, 'qty': 1}, {'product_id': 34, 'qty': 1}]"
+ec-2025-11-11-1,2025-11-11T21:38:00,20,"8202 Walton Port
+Jamieburgh, LA 22108","[{'product_id': 46, 'qty': 3}, {'product_id': 32, 'qty': 2}]"
+ec-2025-11-11-2,2025-11-11T15:38:00,95,"138 Vaughn Summit Suite 789
+Angelfurt, AK 38072","[{'product_id': 6, 'qty': 2}, {'product_id': 27, 'qty': 1}, {'product_id': 44, 'qty': 4}]"
+ec-2025-11-11-3,2025-11-11T05:30:00,99,"Unit 5268 Box 7380
+DPO AA 10811","[{'product_id': 21, 'qty': 1}, {'product_id': 1, 'qty': 4}]"
+ec-2025-11-11-4,2025-11-11T06:04:00,32,"76215 Ware Causeway
+Port Kenneth, WV 98761","[{'product_id': 46, 'qty': 1}, {'product_id': 46, 'qty': 2}]"
+ec-2025-11-11-5,2025-11-11T23:44:00,44,"8720 Martin Underpass Suite 303
+Stewartstad, SD 35180","[{'product_id': 37, 'qty': 1}]"
+ec-2025-11-11-6,2025-11-11T02:50:00,193,"3644 Raymond Drive Apt. 263
+Hollyburgh, KY 96376","[{'product_id': 19, 'qty': 3}, {'product_id': 15, 'qty': 1}, {'product_id': 4, 'qty': 2}]"
+ec-2025-11-11-7,2025-11-11T21:18:00,88,"Unit 4405 Box 0328
+DPO AE 84927","[{'product_id': 31, 'qty': 1}, {'product_id': 4, 'qty': 1}]"
+ec-2025-11-11-8,2025-11-11T14:14:00,13,"991 Brittany Estates
+Matthewmouth, VA 05782","[{'product_id': 37, 'qty': 1}]"
+ec-2025-11-11-9,2025-11-11T01:45:00,114,"747 James Union
+Lake Melanieshire, TX 50043","[{'product_id': 7, 'qty': 1}, {'product_id': 26, 'qty': 2}]"
+ec-2025-11-11-10,2025-11-11T08:51:00,162,"99203 Lisa Mountains
+West Johnhaven, MS 72729","[{'product_id': 48, 'qty': 2}]"
+ec-2025-11-11-11,2025-11-11T06:03:00,1,"7067 Patrick Glen Apt. 013
+East Katherine, NY 71645","[{'product_id': 19, 'qty': 1}]"
+ec-2025-11-11-12,2025-11-11T13:37:00,18,"Unit 1960 Box 2177
+DPO AP 47093","[{'product_id': 39, 'qty': 1}]"
+ec-2025-11-11-13,2025-11-11T11:31:00,112,"87709 Jones Ford
+South Kaitlynshire, FL 03226","[{'product_id': 34, 'qty': 1}]"
+ec-2025-11-11-14,2025-11-11T09:12:00,32,"53197 Scott Rapid Suite 849
+Robertborough, NH 82279","[{'product_id': 13, 'qty': 1}, {'product_id': 28, 'qty': 1}, {'product_id': 1, 'qty': 3}]"
+ec-2025-11-11-15,2025-11-11T04:47:00,133,"6219 Kelly Ville
+North Taylor, MS 12509","[{'product_id': 5, 'qty': 1}, {'product_id': 49, 'qty': 2}, {'product_id': 21, 'qty': 1}]"
+ec-2025-11-11-16,2025-11-11T20:54:00,26,"460 Ryan Mountain
+Holderhaven, NY 13091","[{'product_id': 31, 'qty': 1}, {'product_id': 36, 'qty': 2}, {'product_id': 22, 'qty': 2}]"
+ec-2025-11-11-17,2025-11-11T06:03:00,189,"3583 Jason Knolls Suite 815
+Lake Teresastad, AS 36772","[{'product_id': 12, 'qty': 2}, {'product_id': 8, 'qty': 3}, {'product_id': 42, 'qty': 1}]"
+ec-2025-11-11-18,2025-11-11T05:27:00,147,"058 Garcia Roads
+Bakertown, VT 83648","[{'product_id': 18, 'qty': 1}, {'product_id': 33, 'qty': 2}, {'product_id': 1, 'qty': 2}]"
+ec-2025-11-11-19,2025-11-11T02:52:00,56,"85924 Jacob Forges
+Ashleyton, WV 93897","[{'product_id': 45, 'qty': 1}, {'product_id': 38, 'qty': 1}]"

@@ -1,0 +1,81 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-09-30-0,2025-09-30T20:09:00,24,"503 Patricia Orchard
+East Brandonmouth, MT 60151","[{'product_id': 48, 'qty': 1}, {'product_id': 30, 'qty': 1}, {'product_id': 20, 'qty': 3}]"
+ec-2025-09-30-1,2025-09-30T00:05:00,49,"919 Paul Mall Apt. 783
+East Tim, AS 88621","[{'product_id': 19, 'qty': 1}, {'product_id': 7, 'qty': 4}]"
+ec-2025-09-30-2,2025-09-30T22:56:00,43,"5174 Angela Alley Suite 138
+Sallybury, MP 95873","[{'product_id': 33, 'qty': 2}]"
+ec-2025-09-30-3,2025-09-30T16:24:00,166,"73092 Tyler Unions Suite 946
+Jameston, CT 59740","[{'product_id': 6, 'qty': 1}, {'product_id': 45, 'qty': 1}]"
+ec-2025-09-30-4,2025-09-30T13:52:00,106,"7121 Boyer Stravenue
+Courtneyburgh, GU 31431","[{'product_id': 31, 'qty': 1}, {'product_id': 14, 'qty': 2}]"
+ec-2025-09-30-5,2025-09-30T12:30:00,20,"697 Collier Port Apt. 250
+North Melaniehaven, GU 30143","[{'product_id': 1, 'qty': 2}]"
+ec-2025-09-30-6,2025-09-30T06:40:00,69,"328 White Mountains Apt. 942
+East Melissaville, TN 42413","[{'product_id': 50, 'qty': 2}, {'product_id': 21, 'qty': 1}]"
+ec-2025-09-30-7,2025-09-30T07:10:00,160,"Unit 6021 Box 2330
+DPO AA 23138","[{'product_id': 24, 'qty': 1}, {'product_id': 41, 'qty': 2}, {'product_id': 36, 'qty': 2}]"
+ec-2025-09-30-8,2025-09-30T20:33:00,84,"78828 Evelyn Highway Apt. 313
+East Amy, OK 78600","[{'product_id': 40, 'qty': 3}, {'product_id': 20, 'qty': 2}, {'product_id': 46, 'qty': 3}]"
+ec-2025-09-30-9,2025-09-30T02:35:00,44,"19154 Connie Path Suite 968
+South David, FM 05307","[{'product_id': 25, 'qty': 1}, {'product_id': 22, 'qty': 1}, {'product_id': 8, 'qty': 2}]"
+ec-2025-09-30-10,2025-09-30T12:51:00,118,"3700 Garcia Ford
+Elizabethport, HI 56963","[{'product_id': 12, 'qty': 2}, {'product_id': 7, 'qty': 2}, {'product_id': 38, 'qty': 2}]"
+ec-2025-09-30-11,2025-09-30T19:31:00,24,"73846 Sarah Alley Apt. 475
+Davisview, RI 07308","[{'product_id': 49, 'qty': 3}, {'product_id': 3, 'qty': 1}, {'product_id': 35, 'qty': 1}]"
+ec-2025-09-30-12,2025-09-30T02:13:00,67,"72762 Donna Haven
+Port Kenneth, VI 62628","[{'product_id': 17, 'qty': 2}]"
+ec-2025-09-30-13,2025-09-30T05:54:00,80,"USNS Stevens
+FPO AP 30516","[{'product_id': 45, 'qty': 2}]"
+ec-2025-09-30-14,2025-09-30T20:45:00,95,"34100 Mary Springs
+Lake Dakota, CA 44363","[{'product_id': 16, 'qty': 3}, {'product_id': 38, 'qty': 1}, {'product_id': 48, 'qty': 2}]"
+ec-2025-09-30-15,2025-09-30T17:34:00,81,"86288 Cheryl Common
+Gonzalezberg, TN 92429","[{'product_id': 19, 'qty': 1}]"
+ec-2025-09-30-16,2025-09-30T03:05:00,23,"964 Levy Valleys
+North Mark, IN 57230","[{'product_id': 6, 'qty': 2}, {'product_id': 42, 'qty': 2}]"
+ec-2025-09-30-17,2025-09-30T12:09:00,93,"81358 Howard Spring Apt. 137
+West Patrick, PA 29756","[{'product_id': 5, 'qty': 1}]"
+ec-2025-09-30-18,2025-09-30T02:00:00,79,"9931 Smith Grove
+Port Samanthaborough, NE 92184","[{'product_id': 29, 'qty': 2}, {'product_id': 35, 'qty': 3}]"
+ec-2025-09-30-19,2025-09-30T01:37:00,158,"24885 Robinson Cape Apt. 135
+Melissaberg, CO 41584","[{'product_id': 27, 'qty': 2}, {'product_id': 24, 'qty': 1}, {'product_id': 50, 'qty': 1}]"
+ec-2025-09-30-20,2025-09-30T10:40:00,82,"346 Matthew Burg Suite 878
+Melissashire, MN 20062","[{'product_id': 46, 'qty': 1}, {'product_id': 20, 'qty': 2}, {'product_id': 21, 'qty': 2}]"
+ec-2025-09-30-21,2025-09-30T19:03:00,190,"92043 Lisa Parkways Suite 198
+South Manuelburgh, GU 64001","[{'product_id': 38, 'qty': 1}, {'product_id': 7, 'qty': 3}, {'product_id': 39, 'qty': 3}]"
+ec-2025-09-30-22,2025-09-30T09:06:00,88,"9029 Jones Parkway Suite 169
+Port Patty, OH 99662","[{'product_id': 20, 'qty': 1}, {'product_id': 47, 'qty': 1}]"
+ec-2025-09-30-23,2025-09-30T03:30:00,6,"34165 Connie Corners Suite 274
+East Emily, WI 74135","[{'product_id': 45, 'qty': 1}]"
+ec-2025-09-30-24,2025-09-30T12:59:00,177,"02287 Clark Parks
+Wilsonburgh, TN 59668","[{'product_id': 4, 'qty': 1}]"
+ec-2025-09-30-25,2025-09-30T23:58:00,187,"54814 Charles Walks
+Clarkland, NC 80556","[{'product_id': 11, 'qty': 1}]"
+ec-2025-09-30-26,2025-09-30T04:12:00,104,"94524 Matthew Valleys Suite 462
+Port Angela, AS 00937","[{'product_id': 33, 'qty': 1}, {'product_id': 9, 'qty': 2}]"
+ec-2025-09-30-27,2025-09-30T17:02:00,92,"0942 Elizabeth Forks
+Port Phillip, NY 81489","[{'product_id': 11, 'qty': 2}, {'product_id': 42, 'qty': 2}]"
+ec-2025-09-30-28,2025-09-30T19:24:00,98,"2305 Cole Plains
+Amandachester, VT 89252","[{'product_id': 34, 'qty': 1}]"
+ec-2025-09-30-29,2025-09-30T06:36:00,162,"7808 Fuller Mount Suite 416
+North Edwardmouth, DE 40978","[{'product_id': 46, 'qty': 2}, {'product_id': 23, 'qty': 2}, {'product_id': 37, 'qty': 2}]"
+ec-2025-09-30-30,2025-09-30T21:38:00,163,"014 Shannon Valleys Apt. 632
+Kathrynchester, DC 52925","[{'product_id': 23, 'qty': 3}, {'product_id': 32, 'qty': 2}, {'product_id': 41, 'qty': 2}]"
+ec-2025-09-30-31,2025-09-30T15:33:00,13,"336 Orozco Track Apt. 044
+North Nicole, MH 75928","[{'product_id': 10, 'qty': 4}]"
+ec-2025-09-30-32,2025-09-30T22:33:00,119,"6570 Mallory Skyway Suite 855
+Garciafurt, CA 30374","[{'product_id': 36, 'qty': 2}, {'product_id': 22, 'qty': 1}]"
+ec-2025-09-30-33,2025-09-30T08:40:00,49,"22530 Brian Shoal Apt. 166
+Davidside, OH 98150","[{'product_id': 10, 'qty': 1}]"
+ec-2025-09-30-34,2025-09-30T20:49:00,90,"7754 Pham Hollow
+Farmerstad, CT 96833","[{'product_id': 12, 'qty': 3}, {'product_id': 22, 'qty': 1}]"
+ec-2025-09-30-35,2025-09-30T23:06:00,132,"5923 Jones Lake
+Port Brookeport, ND 45063","[{'product_id': 2, 'qty': 1}, {'product_id': 41, 'qty': 1}, {'product_id': 34, 'qty': 1}]"
+ec-2025-09-30-36,2025-09-30T01:29:00,74,"8288 Flores Rapids Apt. 175
+Lake Gina, GA 90402","[{'product_id': 12, 'qty': 3}]"
+ec-2025-09-30-37,2025-09-30T08:56:00,4,"83849 Zachary Stream Apt. 765
+East Craigborough, PW 16900","[{'product_id': 20, 'qty': 2}, {'product_id': 26, 'qty': 1}]"
+ec-2025-09-30-38,2025-09-30T23:38:00,156,"50123 Dominguez Haven Suite 618
+West Taraton, RI 47845","[{'product_id': 46, 'qty': 1}]"
+ec-2025-09-30-39,2025-09-30T02:50:00,163,"582 Benjamin Coves
+Clarketown, ME 31105","[{'product_id': 38, 'qty': 1}, {'product_id': 33, 'qty': 1}, {'product_id': 45, 'qty': 2}]"

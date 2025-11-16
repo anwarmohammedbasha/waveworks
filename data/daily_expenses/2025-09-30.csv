@@ -1,0 +1,8 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-09-30-0,2025-09-30,1,1251.45,Floyd and Sons,1
+exp-2025-09-30-1,2025-09-30,2,1177.42,"Cisneros, Hunt and Golden",2
+exp-2025-09-30-2,2025-09-30,1,1612.93,"Yang, Patel and Morse",1
+exp-2025-09-30-3,2025-09-30,2,368.01,Romero-Boone,3
+exp-2025-09-30-4,2025-09-30,3,324.58,"Santana, Dixon and Thompson",4
+exp-2025-09-30-5,2025-09-30,3,1141.16,Miller-Sanford,3
+exp-2025-09-30-6,2025-09-30,2,1716.36,"Rodriguez, Miller and Montes",2

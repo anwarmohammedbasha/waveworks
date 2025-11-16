@@ -1,0 +1,73 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-17-0,2025-10-17T21:41:00,148,"98683 Gardner Island Suite 748
+Port Gregory, PW 26214","[{'product_id': 40, 'qty': 1}, {'product_id': 32, 'qty': 1}, {'product_id': 18, 'qty': 1}]"
+ec-2025-10-17-1,2025-10-17T03:59:00,192,"8085 Rodney Crescent
+Lake David, MD 63975","[{'product_id': 39, 'qty': 2}, {'product_id': 49, 'qty': 1}, {'product_id': 39, 'qty': 1}]"
+ec-2025-10-17-2,2025-10-17T04:19:00,120,"49753 Miller Expressway Suite 083
+West Tylerstad, FM 66533","[{'product_id': 45, 'qty': 1}, {'product_id': 15, 'qty': 2}]"
+ec-2025-10-17-3,2025-10-17T07:12:00,134,"56042 Ball Locks
+West Davidbury, FL 17143","[{'product_id': 35, 'qty': 3}, {'product_id': 10, 'qty': 1}, {'product_id': 33, 'qty': 1}]"
+ec-2025-10-17-4,2025-10-17T19:08:00,158,"30036 Adams Islands Suite 964
+Nelsonbury, IN 55346","[{'product_id': 42, 'qty': 3}, {'product_id': 7, 'qty': 1}, {'product_id': 50, 'qty': 1}]"
+ec-2025-10-17-5,2025-10-17T08:00:00,148,"59919 Jamie Creek
+Hicksborough, AK 41273","[{'product_id': 16, 'qty': 4}, {'product_id': 37, 'qty': 2}, {'product_id': 1, 'qty': 1}]"
+ec-2025-10-17-6,2025-10-17T16:56:00,151,"498 Anthony Ports Suite 121
+Lake Jonathanport, FM 85913","[{'product_id': 40, 'qty': 1}, {'product_id': 47, 'qty': 1}, {'product_id': 18, 'qty': 1}]"
+ec-2025-10-17-7,2025-10-17T10:40:00,119,"0899 Barnett Drive
+West Stanleyfurt, UT 56792","[{'product_id': 43, 'qty': 1}, {'product_id': 18, 'qty': 3}, {'product_id': 8, 'qty': 2}]"
+ec-2025-10-17-8,2025-10-17T13:45:00,149,"19916 Henry Village
+Port Brandon, NE 69270","[{'product_id': 48, 'qty': 1}]"
+ec-2025-10-17-9,2025-10-17T14:32:00,35,"3118 Pierce Estate Apt. 242
+Melissachester, MA 49598","[{'product_id': 19, 'qty': 1}, {'product_id': 29, 'qty': 1}]"
+ec-2025-10-17-10,2025-10-17T12:06:00,146,"3709 Melissa Islands
+West Marcusport, MA 17693","[{'product_id': 2, 'qty': 3}, {'product_id': 16, 'qty': 1}]"
+ec-2025-10-17-11,2025-10-17T11:38:00,149,"0991 Jay Green
+Lydiastad, IL 92792","[{'product_id': 14, 'qty': 3}, {'product_id': 41, 'qty': 1}, {'product_id': 41, 'qty': 1}]"
+ec-2025-10-17-12,2025-10-17T01:50:00,119,"821 Susan Green
+Lake Staceymouth, WA 15506","[{'product_id': 37, 'qty': 1}, {'product_id': 28, 'qty': 1}, {'product_id': 29, 'qty': 3}]"
+ec-2025-10-17-13,2025-10-17T17:19:00,194,"20300 Selena Turnpike Apt. 437
+Jeremyshire, NE 93644","[{'product_id': 32, 'qty': 1}, {'product_id': 36, 'qty': 3}, {'product_id': 5, 'qty': 1}]"
+ec-2025-10-17-14,2025-10-17T07:26:00,79,"49263 Edward Inlet Apt. 458
+Debbiechester, OR 68561","[{'product_id': 45, 'qty': 2}, {'product_id': 14, 'qty': 3}]"
+ec-2025-10-17-15,2025-10-17T22:52:00,26,"2804 Amy Key Apt. 256
+Matthewmouth, IN 24232","[{'product_id': 30, 'qty': 2}, {'product_id': 25, 'qty': 3}]"
+ec-2025-10-17-16,2025-10-17T21:44:00,50,"7738 Jason Motorway
+Arellanoborough, MS 65880","[{'product_id': 42, 'qty': 3}]"
+ec-2025-10-17-17,2025-10-17T21:22:00,1,"65487 Smith Village
+West Veronica, PW 23833","[{'product_id': 14, 'qty': 1}, {'product_id': 13, 'qty': 2}, {'product_id': 13, 'qty': 1}]"
+ec-2025-10-17-18,2025-10-17T09:38:00,4,"8602 Poole Roads Apt. 351
+Jasonside, ME 44427","[{'product_id': 27, 'qty': 1}]"
+ec-2025-10-17-19,2025-10-17T19:51:00,151,"120 Martinez Extension
+Cisneroston, OH 93525","[{'product_id': 36, 'qty': 1}]"
+ec-2025-10-17-20,2025-10-17T06:23:00,58,"95998 Barber Roads Suite 864
+East Randy, OK 91207","[{'product_id': 44, 'qty': 3}]"
+ec-2025-10-17-21,2025-10-17T13:24:00,81,"22224 Mcgee Village Suite 301
+Harrismouth, WA 78987","[{'product_id': 16, 'qty': 1}, {'product_id': 22, 'qty': 3}]"
+ec-2025-10-17-22,2025-10-17T04:03:00,73,"27573 Martin Loop Apt. 310
+Littleburgh, MI 61199","[{'product_id': 17, 'qty': 1}]"
+ec-2025-10-17-23,2025-10-17T04:46:00,33,"62629 Snyder Lakes
+Alexanderburgh, CT 25813","[{'product_id': 32, 'qty': 1}, {'product_id': 5, 'qty': 1}]"
+ec-2025-10-17-24,2025-10-17T11:15:00,9,"7837 Kathleen Fields
+New Paulland, PA 48721","[{'product_id': 23, 'qty': 3}, {'product_id': 21, 'qty': 1}, {'product_id': 3, 'qty': 3}]"
+ec-2025-10-17-25,2025-10-17T05:04:00,10,,"[{'product_id': 31, 'qty': 1}]"
+ec-2025-10-17-26,2025-10-17T10:33:00,68,"9035 Juarez Turnpike
+New Jeremyshire, ND 40716","[{'product_id': 37, 'qty': 2}, {'product_id': 18, 'qty': 2}]"
+ec-2025-10-17-27,2025-10-17T03:47:00,197,"89911 Mccarthy Prairie
+Lake Susanmouth, VI 49299","[{'product_id': 37, 'qty': 1}, {'product_id': 16, 'qty': 3}, {'product_id': 41, 'qty': 1}]"
+ec-2025-10-17-28,2025-10-17T05:02:00,123,"457 Angela River
+South David, TX 96437","[{'product_id': 27, 'qty': 1}]"
+ec-2025-10-17-29,2025-10-17T13:49:00,27,"Unit 1102 Box 3788
+DPO AP 45952","[{'product_id': 10, 'qty': 2}]"
+ec-2025-10-17-30,2025-10-17T18:28:00,167,"6812 Victoria Harbor Apt. 795
+Cheyenneview, PR 89875","[{'product_id': 41, 'qty': 2}, {'product_id': 19, 'qty': 2}, {'product_id': 27, 'qty': 1}]"
+ec-2025-10-17-31,2025-10-17T22:54:00,2,"3580 Case Plain Suite 914
+East Ashleyview, IA 62832","[{'product_id': 24, 'qty': 1}, {'product_id': 21, 'qty': 2}]"
+ec-2025-10-17-32,2025-10-17T11:21:00,14,"763 Miller Walk Apt. 399
+Landryfort, DE 20490","[{'product_id': 14, 'qty': 1}, {'product_id': 46, 'qty': 1}]"
+ec-2025-10-17-33,2025-10-17T17:00:00,125,"13334 Thompson Mountain Suite 721
+Monicastad, VA 06879","[{'product_id': 44, 'qty': 2}, {'product_id': 20, 'qty': 2}, {'product_id': 42, 'qty': 1}]"
+ec-2025-10-17-34,2025-10-17T04:40:00,125,"80396 Brandi Mill
+Kimberlyport, TX 82627","[{'product_id': 37, 'qty': 1}]"
+ec-2025-10-17-35,2025-10-17T23:09:00,106,,"[{'product_id': 12, 'qty': 1}, {'product_id': 45, 'qty': 1}, {'product_id': 37, 'qty': 1}]"
+ec-2025-10-17-36,2025-10-17T12:52:00,185,"3497 Jerome Branch Suite 120
+Butlerland, PR 96694","[{'product_id': 28, 'qty': 2}]"

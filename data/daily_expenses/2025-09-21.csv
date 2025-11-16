@@ -1,0 +1,8 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-09-21-0,2025-09-21,5,150.73,"Mcdonald, Herrera and Thompson",1
+exp-2025-09-21-1,2025-09-21,2,1038.01,Trevino-Miller,3
+exp-2025-09-21-2,2025-09-21,2,1803.26,Duran Group,4
+exp-2025-09-21-3,2025-09-21,2,76.01,Horn Ltd,4
+exp-2025-09-21-4,2025-09-21,3,1667.32,King-Chang,2
+exp-2025-09-21-5,2025-09-21,2,300.37,"Mccall, Harris and Craig",5
+exp-2025-09-21-6,2025-09-21,2,120.67,Young-Williams,3

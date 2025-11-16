@@ -1,0 +1,9 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-15-0,2025-10-15,5,1748.85,"Avery, Mendez and Estrada",3
+exp-2025-10-15-1,2025-10-15,1,1145.4,Gonzales Inc,2
+exp-2025-10-15-2,2025-10-15,2,1942.44,Bradley Ltd,3
+exp-2025-10-15-3,2025-10-15,5,759.72,Gordon and Sons,3
+exp-2025-10-15-4,2025-10-15,2,923.9,Coleman Ltd,3
+exp-2025-10-15-5,2025-10-15,5,427.48,"Carey, Gibson and Turner",4
+exp-2025-10-15-6,2025-10-15,2,1402.59,"Garcia, Mills and Snyder",2
+exp-2025-10-15-7,2025-10-15,5,435.14,Reese and Sons,1

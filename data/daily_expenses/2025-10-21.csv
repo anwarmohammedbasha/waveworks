@@ -1,0 +1,9 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-21-0,2025-10-21,4,1029.63,"Boyd, Norris and Munoz",4
+exp-2025-10-21-1,2025-10-21,5,811.15,"Long, Jones and Perez",2
+exp-2025-10-21-2,2025-10-21,4,1454.0,Williamson Group,3
+exp-2025-10-21-3,2025-10-21,1,142.12,Johnson Ltd,2
+exp-2025-10-21-4,2025-10-21,5,645.4,Allen Group,4
+exp-2025-10-21-5,2025-10-21,5,1327.19,"Waters, White and Sanchez",3
+exp-2025-10-21-6,2025-10-21,5,1890.36,"Jordan, Riddle and Martinez",2
+exp-2025-10-21-7,2025-10-21,5,1820.92,"Taylor, Hughes and Vasquez",4

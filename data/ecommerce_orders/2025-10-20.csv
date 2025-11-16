@@ -1,0 +1,77 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-20-0,2025-10-20T16:31:00,141,"910 Thomas Pine Suite 548
+East Michelle, VA 61626","[{'product_id': 40, 'qty': 2}, {'product_id': 49, 'qty': 2}, {'product_id': 19, 'qty': 1}]"
+ec-2025-10-20-1,2025-10-20T20:46:00,187,"USNV Gray
+FPO AA 60963","[{'product_id': 20, 'qty': 2}, {'product_id': 25, 'qty': 2}]"
+ec-2025-10-20-2,2025-10-20T08:27:00,117,"94526 Sandra Hill
+Helenstad, PR 07005","[{'product_id': 47, 'qty': 2}, {'product_id': 36, 'qty': 3}]"
+ec-2025-10-20-3,2025-10-20T06:09:00,21,"06330 Joel Garden
+Andersonport, NY 46698","[{'product_id': 30, 'qty': 1}]"
+ec-2025-10-20-4,2025-10-20T06:15:00,128,"51231 Robert Hills
+Callahanberg, VA 88833","[{'product_id': 18, 'qty': 1}]"
+ec-2025-10-20-5,2025-10-20T06:10:00,109,"74627 Henry Divide
+New Tiffany, NH 74551","[{'product_id': 40, 'qty': 2}, {'product_id': 33, 'qty': 1}]"
+ec-2025-10-20-6,2025-10-20T20:07:00,139,"Unit 2729 Box 6452
+DPO AA 62827","[{'product_id': 22, 'qty': 1}, {'product_id': 19, 'qty': 1}]"
+ec-2025-10-20-7,2025-10-20T15:25:00,195,"285 Noah Bridge Suite 573
+Elliottport, KS 07491","[{'product_id': 16, 'qty': 3}]"
+ec-2025-10-20-8,2025-10-20T09:28:00,2,"8412 Bradley Wells
+Haleyhaven, OR 95969","[{'product_id': 9, 'qty': 1}, {'product_id': 45, 'qty': 1}, {'product_id': 14, 'qty': 1}]"
+ec-2025-10-20-9,2025-10-20T00:06:00,177,"870 Desiree Lodge Suite 823
+Port Deborahmouth, WY 75230","[{'product_id': 28, 'qty': 3}, {'product_id': 12, 'qty': 1}, {'product_id': 5, 'qty': 1}]"
+ec-2025-10-20-10,2025-10-20T23:50:00,149,"05143 King Trail Apt. 184
+Lake Cynthia, SC 58371","[{'product_id': 16, 'qty': 1}, {'product_id': 10, 'qty': 1}]"
+ec-2025-10-20-11,2025-10-20T09:30:00,136,"8580 Samuel Coves Apt. 140
+Adamston, VT 00665","[{'product_id': 31, 'qty': 1}, {'product_id': 43, 'qty': 1}]"
+ec-2025-10-20-12,2025-10-20T11:55:00,105,"166 James Camp
+Port Lori, DE 60659","[{'product_id': 24, 'qty': 1}]"
+ec-2025-10-20-13,2025-10-20T04:38:00,181,"24698 Thomas Cape
+East Alejandro, KS 11499","[{'product_id': 4, 'qty': 2}]"
+ec-2025-10-20-14,2025-10-20T15:53:00,8,"6137 Willis Path Suite 320
+Lake Jenniferton, AS 35264","[{'product_id': 40, 'qty': 1}, {'product_id': 21, 'qty': 2}]"
+ec-2025-10-20-15,2025-10-20T07:55:00,27,"9076 Sandra Valleys
+Port Cheryl, IL 03366","[{'product_id': 46, 'qty': 2}]"
+ec-2025-10-20-16,2025-10-20T10:13:00,62,"8328 Klein Via Suite 058
+Port Robert, KS 52067","[{'product_id': 29, 'qty': 3}]"
+ec-2025-10-20-17,2025-10-20T23:02:00,46,"48795 Gregory Points
+East Casey, NC 62663","[{'product_id': 46, 'qty': 2}, {'product_id': 35, 'qty': 1}, {'product_id': 27, 'qty': 1}]"
+ec-2025-10-20-18,2025-10-20T10:10:00,117,"6408 Quinn Mountains
+Jacksonberg, ND 05043","[{'product_id': 27, 'qty': 1}, {'product_id': 13, 'qty': 3}]"
+ec-2025-10-20-19,2025-10-20T03:35:00,34,"386 Mike Gardens Suite 375
+Charlesfurt, WI 79346","[{'product_id': 35, 'qty': 1}]"
+ec-2025-10-20-20,2025-10-20T23:50:00,4,"026 Rodriguez Hollow Suite 055
+Kellyton, CA 05882","[{'product_id': 36, 'qty': 3}]"
+ec-2025-10-20-21,2025-10-20T01:37:00,102,"82479 Jill Glens Apt. 095
+Brettshire, IN 87257","[{'product_id': 45, 'qty': 1}, {'product_id': 20, 'qty': 1}]"
+ec-2025-10-20-22,2025-10-20T11:18:00,132,"72620 Curtis Street Suite 047
+North Emilystad, RI 05519","[{'product_id': 23, 'qty': 3}]"
+ec-2025-10-20-23,2025-10-20T14:46:00,84,"4869 Timothy Prairie Suite 282
+East Jennifertown, GU 45397","[{'product_id': 6, 'qty': 1}, {'product_id': 41, 'qty': 1}]"
+ec-2025-10-20-24,2025-10-20T18:48:00,175,"3812 Fuller Branch
+Lake Donaldshire, NV 11897","[{'product_id': 9, 'qty': 2}, {'product_id': 43, 'qty': 2}]"
+ec-2025-10-20-25,2025-10-20T17:51:00,181,"95129 Cox Harbors Apt. 857
+Port Donnafort, ME 74035","[{'product_id': 38, 'qty': 4}, {'product_id': 40, 'qty': 2}]"
+ec-2025-10-20-26,2025-10-20T09:18:00,100,"798 Wright Canyon Suite 571
+South Stephenhaven, AK 04681","[{'product_id': 39, 'qty': 1}, {'product_id': 35, 'qty': 1}, {'product_id': 33, 'qty': 4}]"
+ec-2025-10-20-27,2025-10-20T18:10:00,74,"8142 Hodges Pass Suite 429
+Port Robert, NM 93602","[{'product_id': 22, 'qty': 1}]"
+ec-2025-10-20-28,2025-10-20T05:15:00,12,"752 Michael Tunnel
+Port Nicole, AS 93956","[{'product_id': 15, 'qty': 2}, {'product_id': 40, 'qty': 1}, {'product_id': 35, 'qty': 1}]"
+ec-2025-10-20-29,2025-10-20T03:06:00,188,"35764 Brandi Flat Apt. 381
+West Yesenia, VT 87690","[{'product_id': 14, 'qty': 1}]"
+ec-2025-10-20-30,2025-10-20T05:26:00,5,"987 Diaz Center Apt. 894
+Flynnside, AK 88876","[{'product_id': 25, 'qty': 1}, {'product_id': 9, 'qty': 1}]"
+ec-2025-10-20-31,2025-10-20T15:06:00,192,"39931 Park Bypass Suite 211
+Port Alec, VT 79524","[{'product_id': 9, 'qty': 1}, {'product_id': 43, 'qty': 2}]"
+ec-2025-10-20-32,2025-10-20T11:32:00,48,"45982 Amber Manors
+Rodriguezchester, DC 38176","[{'product_id': 30, 'qty': 1}, {'product_id': 47, 'qty': 1}, {'product_id': 16, 'qty': 2}]"
+ec-2025-10-20-33,2025-10-20T16:29:00,115,"PSC 7939, Box 0290
+APO AP 22910","[{'product_id': 29, 'qty': 2}, {'product_id': 6, 'qty': 2}]"
+ec-2025-10-20-34,2025-10-20T06:12:00,171,"84279 White Way
+Williamsbury, MT 98225","[{'product_id': 18, 'qty': 1}]"
+ec-2025-10-20-35,2025-10-20T21:46:00,163,"9984 Bernard Creek
+Matthewtown, NY 08367","[{'product_id': 46, 'qty': 1}, {'product_id': 28, 'qty': 2}, {'product_id': 12, 'qty': 2}]"
+ec-2025-10-20-36,2025-10-20T15:27:00,128,"377 Taylor Throughway Apt. 469
+West Denisemouth, RI 89663","[{'product_id': 4, 'qty': 3}]"
+ec-2025-10-20-37,2025-10-20T08:41:00,85,"3030 Donald Mount
+Port Susan, PW 79318","[{'product_id': 23, 'qty': 1}, {'product_id': 4, 'qty': 1}, {'product_id': 9, 'qty': 2}]"

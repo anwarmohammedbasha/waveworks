@@ -1,0 +1,9 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-16-0,2025-10-16,1,1963.63,"Ortiz, Edwards and Perry",1
+exp-2025-10-16-1,2025-10-16,4,1086.36,"Weaver, Peterson and Ruiz",2
+exp-2025-10-16-2,2025-10-16,4,1648.42,Sawyer-King,5
+exp-2025-10-16-3,2025-10-16,3,834.5,Lang-Miller,1
+exp-2025-10-16-4,2025-10-16,4,1856.42,"Hernandez, Lee and Norman",4
+exp-2025-10-16-5,2025-10-16,2,447.93,Adams-Wagner,4
+exp-2025-10-16-6,2025-10-16,5,1010.15,Ortega Ltd,2
+exp-2025-10-16-7,2025-10-16,2,463.72,Norris-Sherman,5

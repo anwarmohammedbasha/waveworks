@@ -1,0 +1,76 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-05-0,2025-11-05T06:59:00,195,"PSC 6806, Box 3707
+APO AE 96579","[{'product_id': 20, 'qty': 1}, {'product_id': 33, 'qty': 2}, {'product_id': 13, 'qty': 2}]"
+ec-2025-11-05-1,2025-11-05T17:39:00,197,"152 Melissa Dale Apt. 061
+Sharonport, TN 69678","[{'product_id': 28, 'qty': 1}]"
+ec-2025-11-05-2,2025-11-05T11:12:00,169,"628 Patterson Inlet
+Brendaburgh, MD 63470","[{'product_id': 1, 'qty': 3}, {'product_id': 40, 'qty': 1}, {'product_id': 9, 'qty': 1}]"
+ec-2025-11-05-3,2025-11-05T20:58:00,3,"2829 Michael Field Apt. 260
+New Teresamouth, MD 42498","[{'product_id': 36, 'qty': 2}, {'product_id': 33, 'qty': 2}]"
+ec-2025-11-05-4,2025-11-05T13:18:00,66,"30109 Brandon Fields Suite 045
+Justinberg, MD 75642","[{'product_id': 28, 'qty': 3}]"
+ec-2025-11-05-5,2025-11-05T16:48:00,191,"0170 Stephanie Points
+East Cindy, PR 53346","[{'product_id': 40, 'qty': 1}, {'product_id': 17, 'qty': 1}, {'product_id': 18, 'qty': 2}]"
+ec-2025-11-05-6,2025-11-05T22:29:00,147,"9169 Selena Ferry Apt. 665
+Port Robertside, CA 65638","[{'product_id': 38, 'qty': 1}, {'product_id': 14, 'qty': 5}, {'product_id': 41, 'qty': 2}]"
+ec-2025-11-05-7,2025-11-05T01:08:00,119,"2492 Alvarez Manors Apt. 898
+North Williamchester, VT 38676","[{'product_id': 28, 'qty': 3}, {'product_id': 22, 'qty': 2}]"
+ec-2025-11-05-8,2025-11-05T05:16:00,109,"752 Graves Valleys
+East Rebecca, SD 74407","[{'product_id': 8, 'qty': 1}]"
+ec-2025-11-05-9,2025-11-05T22:09:00,10,"USCGC Case
+FPO AA 02673","[{'product_id': 39, 'qty': 1}, {'product_id': 43, 'qty': 1}, {'product_id': 15, 'qty': 1}]"
+ec-2025-11-05-10,2025-11-05T00:43:00,154,"Unit 7120 Box 4777
+DPO AE 06718","[{'product_id': 16, 'qty': 1}]"
+ec-2025-11-05-11,2025-11-05T12:02:00,68,"052 Adams Fort
+Pollardshire, NY 31047","[{'product_id': 2, 'qty': 4}]"
+ec-2025-11-05-12,2025-11-05T15:01:00,153,"2049 Kelly Corner
+Dorseyfort, NY 43476","[{'product_id': 23, 'qty': 1}]"
+ec-2025-11-05-13,2025-11-05T02:03:00,47,"7248 Douglas Stream
+Bethfort, NY 16665","[{'product_id': 11, 'qty': 3}]"
+ec-2025-11-05-14,2025-11-05T00:52:00,31,"9864 Melissa Stravenue
+Pruittchester, CO 85690","[{'product_id': 39, 'qty': 1}, {'product_id': 21, 'qty': 2}, {'product_id': 1, 'qty': 2}]"
+ec-2025-11-05-15,2025-11-05T02:40:00,171,"6428 Clark Village
+New Stephen, VI 28608","[{'product_id': 45, 'qty': 2}]"
+ec-2025-11-05-16,2025-11-05T01:19:00,195,"04528 Laura Extension Suite 968
+Myersfurt, MD 86361","[{'product_id': 34, 'qty': 3}, {'product_id': 20, 'qty': 3}]"
+ec-2025-11-05-17,2025-11-05T18:02:00,32,"826 Crane Cliff
+Amandaburgh, MP 54048","[{'product_id': 37, 'qty': 2}]"
+ec-2025-11-05-18,2025-11-05T11:49:00,77,"5196 Norris Ports Apt. 530
+Tommyshire, ME 96522","[{'product_id': 29, 'qty': 4}, {'product_id': 14, 'qty': 2}, {'product_id': 49, 'qty': 1}]"
+ec-2025-11-05-19,2025-11-05T16:34:00,154,"9406 Amy River
+Maddoxhaven, WY 61099","[{'product_id': 38, 'qty': 2}]"
+ec-2025-11-05-20,2025-11-05T05:07:00,70,"9087 Wood Stream
+Nelsonville, IN 55828","[{'product_id': 41, 'qty': 1}, {'product_id': 44, 'qty': 1}]"
+ec-2025-11-05-21,2025-11-05T03:34:00,96,"027 Samuel Prairie
+Lake Melissafurt, AL 07623","[{'product_id': 11, 'qty': 3}, {'product_id': 32, 'qty': 2}, {'product_id': 49, 'qty': 3}]"
+ec-2025-11-05-22,2025-11-05T17:35:00,36,"84046 Thomas Motorway Suite 795
+Lake Michaelstad, HI 34443","[{'product_id': 9, 'qty': 1}, {'product_id': 7, 'qty': 1}]"
+ec-2025-11-05-23,2025-11-05T17:13:00,88,"38178 George Fort Apt. 208
+Lake Rebeccaberg, FL 31523","[{'product_id': 24, 'qty': 1}, {'product_id': 50, 'qty': 1}]"
+ec-2025-11-05-24,2025-11-05T18:01:00,135,"97644 Williams Lodge Suite 340
+South Vickitown, AK 73366","[{'product_id': 22, 'qty': 3}]"
+ec-2025-11-05-25,2025-11-05T08:19:00,14,"19005 Christopher Row
+Bobbyborough, LA 22413","[{'product_id': 37, 'qty': 1}]"
+ec-2025-11-05-26,2025-11-05T14:26:00,187,"2099 Harris Vista Suite 213
+New Amandaville, WI 35970","[{'product_id': 22, 'qty': 2}, {'product_id': 33, 'qty': 1}, {'product_id': 30, 'qty': 1}]"
+ec-2025-11-05-27,2025-11-05T11:33:00,4,"2336 Lopez Ranch Apt. 328
+New Nancytown, NH 66345","[{'product_id': 33, 'qty': 2}, {'product_id': 36, 'qty': 1}]"
+ec-2025-11-05-28,2025-11-05T11:06:00,189,,"[{'product_id': 9, 'qty': 3}, {'product_id': 42, 'qty': 1}, {'product_id': 19, 'qty': 3}]"
+ec-2025-11-05-29,2025-11-05T01:24:00,61,"6547 Garcia Ramp
+North Alishabury, MH 31554","[{'product_id': 29, 'qty': 2}]"
+ec-2025-11-05-30,2025-11-05T12:19:00,89,"76035 Edward Alley Apt. 024
+South Lisa, AR 16571","[{'product_id': 45, 'qty': 1}, {'product_id': 50, 'qty': 2}, {'product_id': 22, 'qty': 1}]"
+ec-2025-11-05-31,2025-11-05T17:21:00,131,"0652 Travis Terrace Suite 551
+Robinsonburgh, WY 44301","[{'product_id': 33, 'qty': 2}]"
+ec-2025-11-05-32,2025-11-05T05:12:00,115,"55316 Shane Light
+East Andreamouth, GU 74277","[{'product_id': 20, 'qty': 1}, {'product_id': 29, 'qty': 2}]"
+ec-2025-11-05-33,2025-11-05T16:57:00,127,"05530 Schmitt Drive
+South Joseph, ME 29007","[{'product_id': 12, 'qty': 1}, {'product_id': 24, 'qty': 1}, {'product_id': 9, 'qty': 3}]"
+ec-2025-11-05-34,2025-11-05T07:24:00,132,"74637 Audrey Place Apt. 076
+Sherryside, AR 52263","[{'product_id': 48, 'qty': 1}, {'product_id': 31, 'qty': 1}]"
+ec-2025-11-05-35,2025-11-05T20:20:00,121,"PSC 9363, Box 3522
+APO AE 39633","[{'product_id': 32, 'qty': 2}]"
+ec-2025-11-05-36,2025-11-05T11:17:00,94,"75215 Bennett Bridge Apt. 538
+South Josephton, IA 97711","[{'product_id': 36, 'qty': 2}, {'product_id': 20, 'qty': 1}]"
+ec-2025-11-05-37,2025-11-05T15:45:00,68,"3073 Amy Coves
+Smithmouth, MT 28450","[{'product_id': 28, 'qty': 1}]"

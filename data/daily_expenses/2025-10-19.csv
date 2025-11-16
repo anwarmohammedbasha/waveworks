@@ -1,0 +1,14 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-19-0,2025-10-19,1,1026.38,Green Ltd,1
+exp-2025-10-19-1,2025-10-19,4,24.02,Murray LLC,5
+exp-2025-10-19-2,2025-10-19,1,873.71,"Bowers, Roy and Macdonald",5
+exp-2025-10-19-3,2025-10-19,2,446.7,Long Inc,5
+exp-2025-10-19-4,2025-10-19,5,296.52,"Wright, Whitaker and White",2
+exp-2025-10-19-5,2025-10-19,2,557.05,Murphy Ltd,4
+exp-2025-10-19-6,2025-10-19,3,1218.87,"Bell, Blair and Diaz",1
+exp-2025-10-19-7,2025-10-19,2,715.28,Baker Group,4
+exp-2025-10-19-8,2025-10-19,3,925.88,"Holmes, Brown and Gonzalez",5
+exp-2025-10-19-9,2025-10-19,2,1993.12,Lewis-Jenkins,3
+exp-2025-10-19-10,2025-10-19,4,36.41,Ford-Gardner,2
+exp-2025-10-19-11,2025-10-19,1,1534.22,Adams-Maxwell,2
+exp-2025-10-19-12,2025-10-19,1,652.58,Potter Group,1

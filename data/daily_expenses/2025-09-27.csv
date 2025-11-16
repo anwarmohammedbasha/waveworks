@@ -1,0 +1,16 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-09-27-0,2025-09-27,1,484.71,Howell Group,5
+exp-2025-09-27-1,2025-09-27,5,804.69,"Riggs, Anderson and Buchanan",1
+exp-2025-09-27-2,2025-09-27,4,536.51,"Reynolds, Lindsey and Vaughn",4
+exp-2025-09-27-3,2025-09-27,3,323.32,"Howard, Kelly and Hoover",1
+exp-2025-09-27-4,2025-09-27,4,572.14,Parker Inc,5
+exp-2025-09-27-5,2025-09-27,2,1735.23,Thomas-Williams,3
+exp-2025-09-27-6,2025-09-27,4,272.98,"Rivera, Wheeler and Rivera",2
+exp-2025-09-27-7,2025-09-27,5,1971.05,"Fowler, Hanson and King",1
+exp-2025-09-27-8,2025-09-27,5,1816.69,Rivers-Mason,4
+exp-2025-09-27-9,2025-09-27,4,94.72,Vasquez-Webster,5
+exp-2025-09-27-10,2025-09-27,5,971.11,"Dyer, Smith and Perry",5
+exp-2025-09-27-11,2025-09-27,2,91.64,"Smith, Jones and Hancock",1
+exp-2025-09-27-12,2025-09-27,5,1401.59,Clark-Pham,3
+exp-2025-09-27-13,2025-09-27,2,166.93,Brown LLC,2
+exp-2025-09-27-14,2025-09-27,4,763.36,Ewing-Ramos,5

@@ -1,0 +1,11 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-31-0,2025-10-31,1,215.16,Miller-Vaughn,3
+exp-2025-10-31-1,2025-10-31,5,568.56,Werner-Ortega,4
+exp-2025-10-31-2,2025-10-31,4,1786.74,Sanders-Alvarado,5
+exp-2025-10-31-3,2025-10-31,2,266.16,"Hunt, Clark and Cooley",3
+exp-2025-10-31-4,2025-10-31,1,72.7,Leonard Group,5
+exp-2025-10-31-5,2025-10-31,2,376.54,"Rosales, Davis and Lawrence",3
+exp-2025-10-31-6,2025-10-31,4,144.14,Cox and Sons,5
+exp-2025-10-31-7,2025-10-31,1,1702.17,Johns-Mitchell,2
+exp-2025-10-31-8,2025-10-31,3,1073.03,Rocha-Parker,5
+exp-2025-10-31-9,2025-10-31,1,392.96,"Powell, Romero and Powell",3

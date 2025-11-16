@@ -1,0 +1,12 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-23-0,2025-10-23,2,1170.33,"Love, Burke and Stevens",1
+exp-2025-10-23-1,2025-10-23,4,1821.66,Nelson Group,4
+exp-2025-10-23-2,2025-10-23,4,1420.95,Clark-Bird,1
+exp-2025-10-23-3,2025-10-23,3,1488.59,"Ryan, White and Ramirez",5
+exp-2025-10-23-4,2025-10-23,3,1304.1,Harrington and Sons,4
+exp-2025-10-23-5,2025-10-23,3,1484.04,Anderson LLC,5
+exp-2025-10-23-6,2025-10-23,1,855.14,Evans and Sons,3
+exp-2025-10-23-7,2025-10-23,1,1897.13,Wolfe-Young,1
+exp-2025-10-23-8,2025-10-23,5,1332.16,Smith-Vazquez,5
+exp-2025-10-23-9,2025-10-23,1,1294.61,Oliver-Santos,1
+exp-2025-10-23-10,2025-10-23,2,1577.59,"May, Larson and Francis",3

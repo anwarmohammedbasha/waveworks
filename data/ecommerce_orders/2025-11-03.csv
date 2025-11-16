@@ -1,0 +1,55 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-03-0,2025-11-03T15:45:00,171,"367 Nolan Heights Apt. 740
+Timothyton, CA 66038","[{'product_id': 12, 'qty': 2}, {'product_id': 3, 'qty': 1}]"
+ec-2025-11-03-1,2025-11-03T01:32:00,47,"958 Smith Square Apt. 292
+South Edgarfort, LA 63238","[{'product_id': 12, 'qty': 1}, {'product_id': 28, 'qty': 1}]"
+ec-2025-11-03-2,2025-11-03T01:57:00,94,"0338 Andrea Summit
+New Noah, KS 71088","[{'product_id': 37, 'qty': 3}, {'product_id': 37, 'qty': 1}]"
+ec-2025-11-03-3,2025-11-03T09:06:00,93,"35926 Debra Roads
+East Shannon, IA 93810","[{'product_id': 7, 'qty': 2}, {'product_id': 43, 'qty': 2}]"
+ec-2025-11-03-4,2025-11-03T12:21:00,175,"104 Jessica Place
+Karenview, HI 51465","[{'product_id': 11, 'qty': 1}]"
+ec-2025-11-03-5,2025-11-03T16:41:00,120,,"[{'product_id': 44, 'qty': 1}]"
+ec-2025-11-03-6,2025-11-03T03:16:00,120,"74409 Hoover Camp
+Timothyland, VI 39634","[{'product_id': 41, 'qty': 3}]"
+ec-2025-11-03-7,2025-11-03T06:14:00,187,"697 Shawn Light Apt. 116
+Tatemouth, MI 99014","[{'product_id': 1, 'qty': 2}, {'product_id': 33, 'qty': 1}]"
+ec-2025-11-03-8,2025-11-03T11:36:00,105,"849 Gina Isle
+Flynnborough, MO 94104","[{'product_id': 35, 'qty': 3}, {'product_id': 27, 'qty': 1}, {'product_id': 49, 'qty': 4}]"
+ec-2025-11-03-9,2025-11-03T17:52:00,88,"5198 Alex Station
+Port Alexander, MT 90929","[{'product_id': 13, 'qty': 2}, {'product_id': 23, 'qty': 1}]"
+ec-2025-11-03-10,2025-11-03T16:20:00,152,"79114 Gregory Harbors
+Katherineport, WI 64348","[{'product_id': 45, 'qty': 1}]"
+ec-2025-11-03-11,2025-11-03T06:38:00,106,"3046 Smith Inlet
+North Nicholas, MT 68667","[{'product_id': 4, 'qty': 2}, {'product_id': 32, 'qty': 2}]"
+ec-2025-11-03-12,2025-11-03T13:30:00,127,"912 Romero Bridge
+Kathychester, KS 07844","[{'product_id': 39, 'qty': 1}, {'product_id': 17, 'qty': 3}]"
+ec-2025-11-03-13,2025-11-03T11:25:00,133,"2331 Thornton Motorway
+Darrellchester, MP 90329","[{'product_id': 25, 'qty': 1}, {'product_id': 38, 'qty': 2}, {'product_id': 41, 'qty': 1}]"
+ec-2025-11-03-14,2025-11-03T02:40:00,90,"USNV Bond
+FPO AE 29608","[{'product_id': 48, 'qty': 3}, {'product_id': 16, 'qty': 1}, {'product_id': 17, 'qty': 3}]"
+ec-2025-11-03-15,2025-11-03T10:54:00,166,,"[{'product_id': 9, 'qty': 1}, {'product_id': 16, 'qty': 3}, {'product_id': 29, 'qty': 1}]"
+ec-2025-11-03-16,2025-11-03T00:11:00,144,"USNV Martin
+FPO AE 87403","[{'product_id': 48, 'qty': 2}, {'product_id': 34, 'qty': 1}, {'product_id': 15, 'qty': 1}]"
+ec-2025-11-03-17,2025-11-03T21:54:00,160,"980 Karen Underpass Suite 847
+North Edwardmouth, TX 83076","[{'product_id': 16, 'qty': 1}]"
+ec-2025-11-03-18,2025-11-03T09:32:00,142,"0568 Kristina Walks
+Brownview, LA 17888","[{'product_id': 50, 'qty': 2}]"
+ec-2025-11-03-19,2025-11-03T16:27:00,135,,"[{'product_id': 35, 'qty': 2}]"
+ec-2025-11-03-20,2025-11-03T12:41:00,104,"368 Kathryn Junction Apt. 057
+Jonesview, TX 91729","[{'product_id': 47, 'qty': 3}]"
+ec-2025-11-03-21,2025-11-03T20:43:00,31,"1032 Daniel Inlet Apt. 673
+East Johnborough, MO 40193","[{'product_id': 25, 'qty': 1}, {'product_id': 3, 'qty': 3}, {'product_id': 45, 'qty': 3}]"
+ec-2025-11-03-22,2025-11-03T00:59:00,122,"6409 William Common
+Joseshire, MA 01145","[{'product_id': 4, 'qty': 1}]"
+ec-2025-11-03-23,2025-11-03T09:22:00,23,"95930 Gomez Prairie Suite 272
+Vanessaburgh, CA 28835","[{'product_id': 25, 'qty': 2}, {'product_id': 46, 'qty': 3}, {'product_id': 17, 'qty': 2}]"
+ec-2025-11-03-24,2025-11-03T01:33:00,189,"0375 John Hill
+North Shawna, ME 62481","[{'product_id': 24, 'qty': 1}, {'product_id': 34, 'qty': 2}]"
+ec-2025-11-03-25,2025-11-03T21:33:00,149,"71020 Shawn Branch
+Maldonadoview, NM 52338","[{'product_id': 19, 'qty': 3}]"
+ec-2025-11-03-26,2025-11-03T13:28:00,120,"45297 Clark Plaza Suite 537
+West Robertton, MD 16722","[{'product_id': 18, 'qty': 1}, {'product_id': 26, 'qty': 1}]"
+ec-2025-11-03-27,2025-11-03T14:44:00,191,,"[{'product_id': 9, 'qty': 2}]"
+ec-2025-11-03-28,2025-11-03T19:28:00,159,"99856 Ashley Glens
+Christineshire, VI 20579","[{'product_id': 22, 'qty': 1}]"

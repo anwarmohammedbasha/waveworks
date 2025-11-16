@@ -1,0 +1,6 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-25-0,2025-10-25,2,275.94,"Boyd, Brown and Mcdaniel",2
+exp-2025-10-25-1,2025-10-25,3,1231.3,Romero Group,1
+exp-2025-10-25-2,2025-10-25,2,1453.14,Murillo-Fernandez,5
+exp-2025-10-25-3,2025-10-25,2,1783.3,Dominguez LLC,5
+exp-2025-10-25-4,2025-10-25,1,196.64,"Ayala, Douglas and Walsh",5

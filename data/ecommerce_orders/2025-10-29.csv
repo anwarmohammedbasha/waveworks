@@ -1,0 +1,35 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-29-0,2025-10-29T02:01:00,47,"017 Kimberly Turnpike
+New Heather, DC 51874","[{'product_id': 48, 'qty': 1}, {'product_id': 33, 'qty': 2}, {'product_id': 9, 'qty': 1}]"
+ec-2025-10-29-1,2025-10-29T02:01:00,110,"44016 Palmer Ford
+New Kaitlin, IA 15033","[{'product_id': 8, 'qty': 2}]"
+ec-2025-10-29-2,2025-10-29T11:38:00,154,"82581 Jones Square
+Johnview, WY 03786","[{'product_id': 45, 'qty': 1}, {'product_id': 33, 'qty': 1}, {'product_id': 7, 'qty': 1}]"
+ec-2025-10-29-3,2025-10-29T00:41:00,150,"89390 Higgins Lodge
+Lake Bruce, IL 70675","[{'product_id': 7, 'qty': 1}, {'product_id': 36, 'qty': 1}, {'product_id': 4, 'qty': 2}]"
+ec-2025-10-29-4,2025-10-29T11:44:00,42,"451 Baker Overpass
+Hollandside, OH 45299","[{'product_id': 49, 'qty': 1}]"
+ec-2025-10-29-5,2025-10-29T01:40:00,56,"36771 Burton Bridge
+East Victoria, AK 96997","[{'product_id': 34, 'qty': 3}]"
+ec-2025-10-29-6,2025-10-29T03:31:00,177,"5381 Theresa Manor
+Kylieview, OH 56261","[{'product_id': 17, 'qty': 3}]"
+ec-2025-10-29-7,2025-10-29T08:42:00,192,"53868 Gerald Trace
+New Ericstad, NM 66417","[{'product_id': 3, 'qty': 3}, {'product_id': 45, 'qty': 1}]"
+ec-2025-10-29-8,2025-10-29T20:51:00,128,"Unit 3796 Box 3990
+DPO AE 70174","[{'product_id': 3, 'qty': 2}, {'product_id': 16, 'qty': 1}]"
+ec-2025-10-29-9,2025-10-29T09:19:00,109,"6653 Kelly Meadow Suite 740
+Brownberg, MT 70503","[{'product_id': 18, 'qty': 1}, {'product_id': 26, 'qty': 1}]"
+ec-2025-10-29-10,2025-10-29T00:23:00,152,"475 Lopez Circles
+West Michaelview, AS 59112","[{'product_id': 22, 'qty': 3}, {'product_id': 3, 'qty': 1}, {'product_id': 27, 'qty': 2}]"
+ec-2025-10-29-11,2025-10-29T15:35:00,68,"Unit 2412 Box 7056
+DPO AA 64403","[{'product_id': 39, 'qty': 1}, {'product_id': 36, 'qty': 2}]"
+ec-2025-10-29-12,2025-10-29T18:38:00,90,"0094 Blanchard Knoll
+Port Marcia, NC 36537","[{'product_id': 32, 'qty': 3}]"
+ec-2025-10-29-13,2025-10-29T08:48:00,37,"620 April Ports Apt. 767
+Walshmouth, MA 38312","[{'product_id': 6, 'qty': 1}, {'product_id': 43, 'qty': 3}]"
+ec-2025-10-29-14,2025-10-29T00:32:00,75,"104 Kathryn Drives
+Denisehaven, NM 43925","[{'product_id': 42, 'qty': 1}, {'product_id': 21, 'qty': 2}]"
+ec-2025-10-29-15,2025-10-29T06:30:00,173,"485 Anthony Forges Suite 752
+South Christine, FM 61588","[{'product_id': 19, 'qty': 1}, {'product_id': 39, 'qty': 2}, {'product_id': 6, 'qty': 3}]"
+ec-2025-10-29-16,2025-10-29T06:39:00,12,"29400 Simmons Loop Apt. 930
+Rodriguezstad, KS 57006","[{'product_id': 32, 'qty': 1}, {'product_id': 9, 'qty': 1}]"

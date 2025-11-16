@@ -1,0 +1,8 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-14-0,2025-10-14,5,842.32,"Romero, Moon and Wilkerson",2
+exp-2025-10-14-1,2025-10-14,3,315.59,Baker-Flores,5
+exp-2025-10-14-2,2025-10-14,4,1333.33,Lyons and Sons,5
+exp-2025-10-14-3,2025-10-14,4,925.95,Velasquez-James,1
+exp-2025-10-14-4,2025-10-14,3,142.72,"Ferrell, Davis and Lowery",3
+exp-2025-10-14-5,2025-10-14,5,1446.05,Moran Inc,5
+exp-2025-10-14-6,2025-10-14,5,1511.68,Gardner Group,5

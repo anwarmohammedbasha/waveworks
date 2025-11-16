@@ -1,0 +1,16 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-18-0,2025-10-18,4,1969.02,Mccormick Ltd,3
+exp-2025-10-18-1,2025-10-18,1,1257.97,"Rubio, Stewart and Chavez",4
+exp-2025-10-18-2,2025-10-18,3,634.61,Campbell-Noble,1
+exp-2025-10-18-3,2025-10-18,5,1086.17,Perez-Phelps,4
+exp-2025-10-18-4,2025-10-18,2,930.91,"Jennings, Sandoval and Dixon",5
+exp-2025-10-18-5,2025-10-18,1,647.61,Love Ltd,5
+exp-2025-10-18-6,2025-10-18,5,611.97,Simmons and Sons,5
+exp-2025-10-18-7,2025-10-18,4,343.62,Pearson-Snow,2
+exp-2025-10-18-8,2025-10-18,5,534.51,Manning-Marshall,4
+exp-2025-10-18-9,2025-10-18,2,1055.0,Richardson-Martin,1
+exp-2025-10-18-10,2025-10-18,4,803.2,Chapman-Nash,5
+exp-2025-10-18-11,2025-10-18,4,1365.7,"Bishop, Thornton and Decker",5
+exp-2025-10-18-12,2025-10-18,1,1267.75,"Mejia, Dudley and Payne",1
+exp-2025-10-18-13,2025-10-18,5,1758.2,Adams-Armstrong,2
+exp-2025-10-18-14,2025-10-18,5,1297.61,"Rose, Owens and Cuevas",4

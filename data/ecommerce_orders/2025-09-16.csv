@@ -1,0 +1,47 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-09-16-0,2025-09-16T04:00:00,164,"5345 Watkins Hollow Apt. 083
+Port Clayton, MN 16603","[{'product_id': 24, 'qty': 1}, {'product_id': 32, 'qty': 1}, {'product_id': 49, 'qty': 1}]"
+ec-2025-09-16-1,2025-09-16T15:51:00,135,"273 Tammy Unions Suite 561
+South Victoriaview, LA 84296","[{'product_id': 35, 'qty': 2}]"
+ec-2025-09-16-2,2025-09-16T10:14:00,27,"3001 Monica Alley
+Coreyshire, AK 57177","[{'product_id': 22, 'qty': 2}, {'product_id': 16, 'qty': 1}, {'product_id': 49, 'qty': 3}]"
+ec-2025-09-16-3,2025-09-16T04:18:00,196,"21184 Daniel Key Suite 350
+Port Shane, TN 34019","[{'product_id': 42, 'qty': 1}]"
+ec-2025-09-16-4,2025-09-16T13:59:00,117,"3071 Mcbride Lodge Suite 798
+North Miguel, FM 80787","[{'product_id': 9, 'qty': 3}, {'product_id': 36, 'qty': 2}, {'product_id': 33, 'qty': 2}]"
+ec-2025-09-16-5,2025-09-16T23:00:00,143,"USNS Ruiz
+FPO AE 80658","[{'product_id': 2, 'qty': 1}]"
+ec-2025-09-16-6,2025-09-16T16:59:00,144,"979 Sandra Orchard Apt. 343
+Port Erin, VA 50395","[{'product_id': 44, 'qty': 3}]"
+ec-2025-09-16-7,2025-09-16T07:45:00,119,"99774 Bond Rapid
+New Laurenburgh, FL 77288","[{'product_id': 43, 'qty': 2}]"
+ec-2025-09-16-8,2025-09-16T22:33:00,159,"50034 Barbara Squares Suite 156
+New Kevinberg, PR 07285","[{'product_id': 29, 'qty': 2}, {'product_id': 17, 'qty': 3}, {'product_id': 47, 'qty': 1}]"
+ec-2025-09-16-9,2025-09-16T13:44:00,153,"0453 Ward Tunnel Suite 136
+Port Gloria, OH 83601","[{'product_id': 22, 'qty': 1}, {'product_id': 32, 'qty': 1}]"
+ec-2025-09-16-10,2025-09-16T12:42:00,152,"632 Ashley Lodge Suite 035
+Hornchester, WV 33877","[{'product_id': 50, 'qty': 3}, {'product_id': 12, 'qty': 2}, {'product_id': 37, 'qty': 2}]"
+ec-2025-09-16-11,2025-09-16T14:18:00,155,"789 Michelle Street Suite 469
+East Carlosbury, SC 34053","[{'product_id': 41, 'qty': 1}, {'product_id': 4, 'qty': 1}, {'product_id': 10, 'qty': 1}]"
+ec-2025-09-16-12,2025-09-16T17:44:00,156,"70815 William Parkways Suite 212
+Kellyland, NH 01700","[{'product_id': 1, 'qty': 1}, {'product_id': 25, 'qty': 3}]"
+ec-2025-09-16-13,2025-09-16T11:19:00,108,"90343 Maria Trail Suite 403
+Schmittstad, AS 60125","[{'product_id': 29, 'qty': 2}]"
+ec-2025-09-16-14,2025-09-16T01:28:00,22,"USNS Bryant
+FPO AE 03115","[{'product_id': 29, 'qty': 1}]"
+ec-2025-09-16-15,2025-09-16T14:08:00,24,"91784 Kristen Springs Apt. 916
+North Frank, IA 52507","[{'product_id': 43, 'qty': 1}, {'product_id': 36, 'qty': 1}]"
+ec-2025-09-16-16,2025-09-16T01:59:00,36,"89941 Richard Drives
+West Carrie, CA 08638","[{'product_id': 2, 'qty': 1}, {'product_id': 47, 'qty': 1}, {'product_id': 26, 'qty': 1}]"
+ec-2025-09-16-17,2025-09-16T20:55:00,102,"223 Michael Highway Apt. 711
+South Howard, MS 82222","[{'product_id': 30, 'qty': 1}, {'product_id': 50, 'qty': 3}]"
+ec-2025-09-16-18,2025-09-16T06:09:00,83,"69926 Jackson Course
+Banksborough, OH 42819","[{'product_id': 35, 'qty': 1}]"
+ec-2025-09-16-19,2025-09-16T09:37:00,173,"4857 Jeffrey Hills Apt. 939
+Lake Josephville, ND 56645","[{'product_id': 10, 'qty': 2}, {'product_id': 20, 'qty': 1}, {'product_id': 33, 'qty': 2}]"
+ec-2025-09-16-20,2025-09-16T02:43:00,117,"9626 Chavez Orchard Apt. 726
+Jacksontown, ND 62601","[{'product_id': 8, 'qty': 2}, {'product_id': 47, 'qty': 1}]"
+ec-2025-09-16-21,2025-09-16T13:35:00,154,"309 Jonathan Pass
+East Shawnberg, MH 28376","[{'product_id': 22, 'qty': 2}, {'product_id': 21, 'qty': 1}, {'product_id': 38, 'qty': 2}]"
+ec-2025-09-16-22,2025-09-16T00:58:00,99,"USS Copeland
+FPO AP 67829","[{'product_id': 37, 'qty': 2}, {'product_id': 18, 'qty': 1}]"

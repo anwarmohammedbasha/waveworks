@@ -1,0 +1,31 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-12-0,2025-10-12T07:25:00,149,"0565 Paige Vista Apt. 110
+Haneyton, MO 68998","[{'product_id': 36, 'qty': 1}, {'product_id': 19, 'qty': 2}, {'product_id': 40, 'qty': 1}]"
+ec-2025-10-12-1,2025-10-12T01:08:00,150,"0052 French Meadow Suite 440
+Parksfurt, HI 49244","[{'product_id': 27, 'qty': 2}]"
+ec-2025-10-12-2,2025-10-12T13:20:00,157,"939 Brennan Walks
+Curtisview, VT 43015","[{'product_id': 19, 'qty': 2}, {'product_id': 20, 'qty': 1}, {'product_id': 11, 'qty': 2}]"
+ec-2025-10-12-3,2025-10-12T08:51:00,178,"045 Robinson Mill Apt. 502
+Christinachester, DC 81065","[{'product_id': 35, 'qty': 1}, {'product_id': 47, 'qty': 1}]"
+ec-2025-10-12-4,2025-10-12T02:24:00,63,"09690 Sarah Squares
+Johnsonmouth, OH 62609","[{'product_id': 30, 'qty': 2}]"
+ec-2025-10-12-5,2025-10-12T07:43:00,19,"767 James Ports
+South Shaneborough, KY 61627","[{'product_id': 35, 'qty': 2}]"
+ec-2025-10-12-6,2025-10-12T01:04:00,179,"8822 Singh Tunnel Apt. 302
+South Susanfurt, MT 42761","[{'product_id': 25, 'qty': 1}, {'product_id': 17, 'qty': 1}, {'product_id': 8, 'qty': 1}]"
+ec-2025-10-12-7,2025-10-12T19:35:00,105,,"[{'product_id': 2, 'qty': 1}]"
+ec-2025-10-12-8,2025-10-12T09:00:00,117,"314 Robinson Glens
+North Stacyhaven, NE 57210","[{'product_id': 33, 'qty': 1}]"
+ec-2025-10-12-9,2025-10-12T03:28:00,149,"PSC 1126, Box 3110
+APO AA 24337","[{'product_id': 9, 'qty': 1}, {'product_id': 47, 'qty': 1}, {'product_id': 43, 'qty': 4}]"
+ec-2025-10-12-10,2025-10-12T23:05:00,154,"5980 Wright Ranch Suite 326
+Jamesside, UT 08756","[{'product_id': 47, 'qty': 1}, {'product_id': 43, 'qty': 2}]"
+ec-2025-10-12-11,2025-10-12T07:12:00,75,"480 Hawkins Throughway Apt. 326
+Paulfort, AZ 38898","[{'product_id': 15, 'qty': 1}]"
+ec-2025-10-12-12,2025-10-12T06:45:00,194,"9723 Ochoa Fort
+West Kenneth, MP 18423","[{'product_id': 8, 'qty': 2}]"
+ec-2025-10-12-13,2025-10-12T19:11:00,163,"798 Anthony Island Suite 717
+New Ericburgh, PW 37357","[{'product_id': 22, 'qty': 3}]"
+ec-2025-10-12-14,2025-10-12T07:54:00,41,"0537 Christensen Passage
+Port David, KS 88914","[{'product_id': 29, 'qty': 1}]"
+ec-2025-10-12-15,2025-10-12T20:02:00,172,,"[{'product_id': 29, 'qty': 2}, {'product_id': 1, 'qty': 2}]"

@@ -1,0 +1,15 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-10-0,2025-11-10,1,1583.52,Navarro and Sons,2
+exp-2025-11-10-1,2025-11-10,1,1170.1,"Barron, Richardson and Watson",1
+exp-2025-11-10-2,2025-11-10,2,613.88,Washington Group,1
+exp-2025-11-10-3,2025-11-10,2,1941.59,White-Fox,1
+exp-2025-11-10-4,2025-11-10,3,193.11,"Matthews, Mclean and Simpson",5
+exp-2025-11-10-5,2025-11-10,4,1703.66,Erickson and Sons,2
+exp-2025-11-10-6,2025-11-10,4,1868.43,"Neal, Johnson and Jacobs",5
+exp-2025-11-10-7,2025-11-10,2,1939.81,"Carter, Nash and Miller",5
+exp-2025-11-10-8,2025-11-10,3,986.81,"James, Villanueva and Flores",4
+exp-2025-11-10-9,2025-11-10,2,1214.34,"Dean, Park and Smith",1
+exp-2025-11-10-10,2025-11-10,1,1836.76,Carter-Ramos,5
+exp-2025-11-10-11,2025-11-10,1,1318.67,"Blake, Jackson and Christensen",5
+exp-2025-11-10-12,2025-11-10,3,346.95,Jordan-French,1
+exp-2025-11-10-13,2025-11-10,3,287.54,Perez-Moreno,2

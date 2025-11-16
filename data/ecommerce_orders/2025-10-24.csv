@@ -1,0 +1,21 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-24-0,2025-10-24T13:52:00,175,"7654 Martinez Mission
+North Lorraineland, MD 09876","[{'product_id': 3, 'qty': 2}, {'product_id': 35, 'qty': 2}]"
+ec-2025-10-24-1,2025-10-24T23:39:00,67,"Unit 7170 Box 2589
+DPO AA 45195","[{'product_id': 16, 'qty': 2}]"
+ec-2025-10-24-2,2025-10-24T09:23:00,136,"0015 Banks Flats
+North Deanna, SD 19347","[{'product_id': 18, 'qty': 2}, {'product_id': 31, 'qty': 3}, {'product_id': 30, 'qty': 3}]"
+ec-2025-10-24-3,2025-10-24T05:53:00,125,"21515 Debra Motorway Suite 201
+Jamesfurt, GU 66931","[{'product_id': 46, 'qty': 2}, {'product_id': 43, 'qty': 1}]"
+ec-2025-10-24-4,2025-10-24T04:14:00,79,"9379 Brad Heights Apt. 125
+South Christopherhaven, WI 67720","[{'product_id': 23, 'qty': 1}, {'product_id': 17, 'qty': 1}, {'product_id': 28, 'qty': 3}]"
+ec-2025-10-24-5,2025-10-24T19:39:00,85,"PSC 2228, Box 9826
+APO AE 49975","[{'product_id': 48, 'qty': 2}]"
+ec-2025-10-24-6,2025-10-24T23:44:00,179,"4076 Chase Forks
+Nicholeville, MI 60916","[{'product_id': 9, 'qty': 1}, {'product_id': 31, 'qty': 1}]"
+ec-2025-10-24-7,2025-10-24T00:24:00,29,"970 Heather Hills Apt. 824
+Michaelton, OH 78369","[{'product_id': 46, 'qty': 2}, {'product_id': 5, 'qty': 1}, {'product_id': 18, 'qty': 1}]"
+ec-2025-10-24-8,2025-10-24T10:26:00,119,"416 Megan Fields Suite 907
+Nelsonfort, OK 63541","[{'product_id': 45, 'qty': 2}, {'product_id': 15, 'qty': 1}]"
+ec-2025-10-24-9,2025-10-24T10:41:00,173,"066 Cooke Valley
+North Nathaniel, TX 09278","[{'product_id': 46, 'qty': 2}, {'product_id': 11, 'qty': 2}]"

@@ -1,0 +1,71 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-23-0,2025-10-23T15:29:00,89,"28379 Michael Road
+Ashleestad, GA 68861","[{'product_id': 23, 'qty': 1}]"
+ec-2025-10-23-1,2025-10-23T05:11:00,58,"964 Johnson Union
+Hernandezmouth, MI 84889","[{'product_id': 49, 'qty': 1}, {'product_id': 48, 'qty': 2}]"
+ec-2025-10-23-2,2025-10-23T06:41:00,170,"2784 Duncan Brooks Apt. 873
+Carsonbury, OK 78879","[{'product_id': 33, 'qty': 2}, {'product_id': 47, 'qty': 3}, {'product_id': 43, 'qty': 2}]"
+ec-2025-10-23-3,2025-10-23T01:52:00,81,"PSC 6208, Box 2966
+APO AE 97827","[{'product_id': 49, 'qty': 1}, {'product_id': 2, 'qty': 2}, {'product_id': 13, 'qty': 2}]"
+ec-2025-10-23-4,2025-10-23T12:56:00,198,"2117 Robert Light Suite 994
+Meyerchester, CO 33630","[{'product_id': 26, 'qty': 1}, {'product_id': 30, 'qty': 2}]"
+ec-2025-10-23-5,2025-10-23T20:44:00,72,"07014 Lynch Way Suite 278
+Ayalatown, RI 62027","[{'product_id': 26, 'qty': 2}, {'product_id': 26, 'qty': 1}, {'product_id': 46, 'qty': 1}]"
+ec-2025-10-23-6,2025-10-23T04:40:00,197,"USNV Schwartz
+FPO AE 56945","[{'product_id': 30, 'qty': 3}, {'product_id': 48, 'qty': 2}, {'product_id': 44, 'qty': 1}]"
+ec-2025-10-23-7,2025-10-23T00:54:00,149,"8372 James Walk
+Lake Karaborough, AS 37237","[{'product_id': 18, 'qty': 3}]"
+ec-2025-10-23-8,2025-10-23T22:23:00,13,"86580 Bennett Mall
+West Kristineburgh, RI 84462","[{'product_id': 16, 'qty': 2}]"
+ec-2025-10-23-9,2025-10-23T01:02:00,193,"0511 Hernandez Forge
+Lake Melissa, PA 87444","[{'product_id': 50, 'qty': 2}, {'product_id': 32, 'qty': 1}, {'product_id': 35, 'qty': 3}]"
+ec-2025-10-23-10,2025-10-23T23:40:00,135,"Unit 0581 Box 2242
+DPO AP 89305","[{'product_id': 42, 'qty': 2}, {'product_id': 39, 'qty': 2}, {'product_id': 47, 'qty': 3}]"
+ec-2025-10-23-11,2025-10-23T06:21:00,37,"69129 Grace Mews
+Lake Katie, WA 21677","[{'product_id': 35, 'qty': 2}, {'product_id': 45, 'qty': 2}]"
+ec-2025-10-23-12,2025-10-23T11:31:00,191,"08411 Sean Stravenue Apt. 864
+Katiechester, WV 12989","[{'product_id': 8, 'qty': 2}, {'product_id': 14, 'qty': 1}]"
+ec-2025-10-23-13,2025-10-23T19:39:00,108,"1524 Laura Valley
+Jaredburgh, MH 06554","[{'product_id': 20, 'qty': 1}]"
+ec-2025-10-23-14,2025-10-23T17:43:00,43,"0320 Larry Lodge
+Carolynchester, MD 39880","[{'product_id': 28, 'qty': 1}]"
+ec-2025-10-23-15,2025-10-23T07:02:00,141,"9229 Mark Field
+Jeremyhaven, AR 92540","[{'product_id': 26, 'qty': 2}]"
+ec-2025-10-23-16,2025-10-23T19:12:00,163,"3350 Miller Underpass Suite 067
+Robertport, CA 77125","[{'product_id': 35, 'qty': 2}]"
+ec-2025-10-23-17,2025-10-23T08:02:00,106,"PSC 8977, Box 5219
+APO AA 95100","[{'product_id': 34, 'qty': 2}, {'product_id': 20, 'qty': 1}]"
+ec-2025-10-23-18,2025-10-23T09:20:00,133,"49209 Traci View Apt. 954
+North Jessica, OK 84478","[{'product_id': 46, 'qty': 3}, {'product_id': 18, 'qty': 2}]"
+ec-2025-10-23-19,2025-10-23T03:00:00,34,,"[{'product_id': 7, 'qty': 2}]"
+ec-2025-10-23-20,2025-10-23T15:36:00,86,"1527 Stephanie Village
+Bowersview, NH 76212","[{'product_id': 37, 'qty': 1}]"
+ec-2025-10-23-21,2025-10-23T04:09:00,67,"USNS Forbes
+FPO AP 07855","[{'product_id': 1, 'qty': 2}, {'product_id': 33, 'qty': 3}]"
+ec-2025-10-23-22,2025-10-23T09:11:00,65,"5993 Green Motorway
+Washingtonborough, VI 73232","[{'product_id': 29, 'qty': 3}, {'product_id': 12, 'qty': 1}]"
+ec-2025-10-23-23,2025-10-23T07:18:00,180,"7768 Fernandez Way
+South Shannon, PW 30537","[{'product_id': 5, 'qty': 1}]"
+ec-2025-10-23-24,2025-10-23T14:08:00,138,"USCGC Gonzalez
+FPO AP 40482","[{'product_id': 20, 'qty': 1}]"
+ec-2025-10-23-25,2025-10-23T06:46:00,97,"8735 Nicholas Lights Suite 915
+South Frances, WY 15985","[{'product_id': 39, 'qty': 2}, {'product_id': 11, 'qty': 1}, {'product_id': 22, 'qty': 2}]"
+ec-2025-10-23-26,2025-10-23T11:39:00,87,"674 Eric Heights Suite 374
+Scottberg, IA 14465","[{'product_id': 25, 'qty': 4}, {'product_id': 12, 'qty': 1}]"
+ec-2025-10-23-27,2025-10-23T13:35:00,129,"88217 Berry Junction
+South Elainemouth, RI 61139","[{'product_id': 33, 'qty': 2}, {'product_id': 50, 'qty': 1}]"
+ec-2025-10-23-28,2025-10-23T07:54:00,128,"607 Christopher Landing Apt. 908
+Patriciaton, FL 55942","[{'product_id': 2, 'qty': 2}, {'product_id': 44, 'qty': 3}]"
+ec-2025-10-23-29,2025-10-23T09:18:00,162,"980 Miller Grove
+Williamport, ID 39635","[{'product_id': 22, 'qty': 2}, {'product_id': 27, 'qty': 1}]"
+ec-2025-10-23-30,2025-10-23T14:28:00,8,,"[{'product_id': 6, 'qty': 4}]"
+ec-2025-10-23-31,2025-10-23T21:57:00,36,"86528 Anita Oval
+Timothyside, PA 81542","[{'product_id': 15, 'qty': 3}]"
+ec-2025-10-23-32,2025-10-23T17:50:00,97,"2613 Ferguson Avenue
+North Jared, MA 44509","[{'product_id': 18, 'qty': 1}, {'product_id': 42, 'qty': 1}]"
+ec-2025-10-23-33,2025-10-23T15:11:00,191,"03272 Sean Ramp
+Michaelfurt, CT 18613","[{'product_id': 25, 'qty': 2}]"
+ec-2025-10-23-34,2025-10-23T12:32:00,169,"04020 Taylor Way
+Joneston, HI 16368","[{'product_id': 38, 'qty': 1}]"
+ec-2025-10-23-35,2025-10-23T11:05:00,174,"053 Monica Rue Apt. 467
+Staceyville, NY 86880","[{'product_id': 38, 'qty': 2}]"

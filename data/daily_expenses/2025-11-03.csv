@@ -1,0 +1,13 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-03-0,2025-11-03,1,542.35,"White, Bennett and Carr",4
+exp-2025-11-03-1,2025-11-03,2,745.77,"Macias, Cole and Humphrey",5
+exp-2025-11-03-2,2025-11-03,1,1242.98,Duarte-Phillips,3
+exp-2025-11-03-3,2025-11-03,1,540.54,"Meyers, Mcgrath and Jackson",3
+exp-2025-11-03-4,2025-11-03,2,505.94,Hurst-Adams,3
+exp-2025-11-03-5,2025-11-03,2,584.2,"Santiago, Freeman and Gonzalez",3
+exp-2025-11-03-6,2025-11-03,4,874.26,Johnson-Hines,2
+exp-2025-11-03-7,2025-11-03,3,424.67,Turner-Williams,4
+exp-2025-11-03-8,2025-11-03,2,1526.16,Chan Group,5
+exp-2025-11-03-9,2025-11-03,5,1777.57,Chang-Aguilar,2
+exp-2025-11-03-10,2025-11-03,3,413.07,"Haas, Harris and Woodward",4
+exp-2025-11-03-11,2025-11-03,4,1848.32,Dennis LLC,1

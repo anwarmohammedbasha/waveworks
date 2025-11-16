@@ -1,0 +1,7 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-09-22-0,2025-09-22,1,1144.75,Martin Ltd,4
+exp-2025-09-22-1,2025-09-22,4,1221.18,Robinson-Palmer,5
+exp-2025-09-22-2,2025-09-22,3,1121.81,Anderson Inc,2
+exp-2025-09-22-3,2025-09-22,5,1880.93,Hinton-Cunningham,5
+exp-2025-09-22-4,2025-09-22,1,1301.58,Santos Group,4
+exp-2025-09-22-5,2025-09-22,5,136.05,"White, Chan and Gardner",4

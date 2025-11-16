@@ -1,0 +1,14 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-20-0,2025-10-20,3,885.56,"Sanders, Bennett and Wilson",3
+exp-2025-10-20-1,2025-10-20,2,1290.98,"Chang, Brown and Carter",5
+exp-2025-10-20-2,2025-10-20,5,1354.25,Lee PLC,5
+exp-2025-10-20-3,2025-10-20,3,1424.71,Coleman Inc,1
+exp-2025-10-20-4,2025-10-20,3,741.61,Martin-Krause,2
+exp-2025-10-20-5,2025-10-20,1,1944.0,"Mitchell, Rios and Maxwell",3
+exp-2025-10-20-6,2025-10-20,4,1902.44,Mckee Ltd,1
+exp-2025-10-20-7,2025-10-20,2,1873.06,Rhodes-Wilkins,3
+exp-2025-10-20-8,2025-10-20,1,404.92,Smith Group,4
+exp-2025-10-20-9,2025-10-20,1,655.36,Donovan-Oneill,5
+exp-2025-10-20-10,2025-10-20,5,79.27,Harper-Daniel,4
+exp-2025-10-20-11,2025-10-20,4,1239.64,"Silva, Gray and Gibson",2
+exp-2025-10-20-12,2025-10-20,2,1281.23,"Wiley, Ford and Hall",3

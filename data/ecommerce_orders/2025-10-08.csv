@@ -1,0 +1,29 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-08-0,2025-10-08T13:50:00,175,"965 Daniel Prairie Apt. 545
+North Erinview, DC 36550","[{'product_id': 17, 'qty': 2}, {'product_id': 18, 'qty': 2}]"
+ec-2025-10-08-1,2025-10-08T13:35:00,15,"USS Hartman
+FPO AP 16049","[{'product_id': 19, 'qty': 2}, {'product_id': 48, 'qty': 1}]"
+ec-2025-10-08-2,2025-10-08T06:26:00,52,,"[{'product_id': 33, 'qty': 1}, {'product_id': 32, 'qty': 2}]"
+ec-2025-10-08-3,2025-10-08T18:57:00,56,"3781 Michael Islands
+Kevinbury, AZ 33010","[{'product_id': 42, 'qty': 2}, {'product_id': 1, 'qty': 1}, {'product_id': 17, 'qty': 2}]"
+ec-2025-10-08-4,2025-10-08T11:27:00,115,"0892 Kelly Ridge Apt. 266
+East David, AS 75292","[{'product_id': 15, 'qty': 2}]"
+ec-2025-10-08-5,2025-10-08T09:08:00,190,"USNV Flores
+FPO AA 47480","[{'product_id': 33, 'qty': 2}, {'product_id': 46, 'qty': 3}]"
+ec-2025-10-08-6,2025-10-08T00:14:00,25,"201 Fletcher Port
+South Carlosport, AZ 66069","[{'product_id': 7, 'qty': 2}, {'product_id': 37, 'qty': 1}, {'product_id': 31, 'qty': 2}]"
+ec-2025-10-08-7,2025-10-08T22:50:00,34,,"[{'product_id': 23, 'qty': 2}]"
+ec-2025-10-08-8,2025-10-08T04:04:00,144,"13295 Michael Spur
+Nicholasstad, SC 42365","[{'product_id': 47, 'qty': 2}, {'product_id': 23, 'qty': 2}, {'product_id': 10, 'qty': 2}]"
+ec-2025-10-08-9,2025-10-08T19:17:00,116,"PSC 4340, Box 9627
+APO AP 19377","[{'product_id': 37, 'qty': 1}, {'product_id': 31, 'qty': 1}]"
+ec-2025-10-08-10,2025-10-08T19:59:00,88,"664 Aaron Cove Apt. 552
+Lake Timothy, NM 40405","[{'product_id': 7, 'qty': 1}, {'product_id': 41, 'qty': 4}, {'product_id': 24, 'qty': 3}]"
+ec-2025-10-08-11,2025-10-08T02:38:00,110,"67830 Small Underpass Apt. 709
+Moralesborough, MO 25281","[{'product_id': 42, 'qty': 1}, {'product_id': 29, 'qty': 3}, {'product_id': 2, 'qty': 2}]"
+ec-2025-10-08-12,2025-10-08T15:55:00,86,"871 Jacob Underpass Suite 297
+West Jeanland, AK 90042","[{'product_id': 20, 'qty': 1}, {'product_id': 20, 'qty': 1}]"
+ec-2025-10-08-13,2025-10-08T06:15:00,77,"2303 King Trail Apt. 678
+South Kathleenview, WA 30450","[{'product_id': 16, 'qty': 1}, {'product_id': 9, 'qty': 1}]"
+ec-2025-10-08-14,2025-10-08T11:48:00,154,"34038 Charles Extension Suite 286
+Lake Frank, MA 78386","[{'product_id': 16, 'qty': 1}, {'product_id': 42, 'qty': 1}, {'product_id': 37, 'qty': 4}]"

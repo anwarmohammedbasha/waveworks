@@ -1,0 +1,9 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-05-0,2025-11-05,2,1350.88,Manning PLC,1
+exp-2025-11-05-1,2025-11-05,4,1794.91,Sutton Inc,2
+exp-2025-11-05-2,2025-11-05,4,185.89,"Lozano, Vaughn and Barnes",4
+exp-2025-11-05-3,2025-11-05,2,953.23,Russell-Arnold,4
+exp-2025-11-05-4,2025-11-05,2,1552.28,"Schneider, Wade and Morgan",1
+exp-2025-11-05-5,2025-11-05,3,1077.25,Lewis-Key,4
+exp-2025-11-05-6,2025-11-05,5,904.32,"Knight, Allen and Moore",2
+exp-2025-11-05-7,2025-11-05,4,1466.51,Mitchell Inc,1

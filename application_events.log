@@ -1,0 +1,220 @@
+2025-11-16 11:48:54,943 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 11:48:54,943 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 11:50:44,963 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 11:50:44,963 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 11:51:54,812 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 11:51:54,812 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 11:51:54,814 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 11:51:54,962 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 11:52:13,759 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 11:52:13,760 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 11:52:13,761 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 11:52:13,890 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 11:52:33,867 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 11:52:33,867 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 11:52:33,868 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 11:52:33,963 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 11:58:25,387 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 11:58:25,388 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 11:58:25,388 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 11:58:25,390 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 11:58:25,534 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:01:17,889 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:01:17,889 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:01:17,889 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:01:17,891 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:01:18,024 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:01:48,074 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:01:48,074 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:01:48,074 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:01:48,075 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:01:48,184 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:03:24,151 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:03:24,152 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:03:24,152 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:03:24,152 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:03:24,267 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:03:38,520 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:03:38,520 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:03:38,520 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:03:38,521 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:03:38,622 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:05:59,777 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:05:59,777 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:05:59,777 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:05:59,779 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:05:59,967 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:05:59,993 - INFO - ETL_Logger - Transformed data 554351.9
+2025-11-16 12:06:54,979 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:06:54,980 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:06:54,980 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:06:54,982 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:06:55,114 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:06:55,142 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:14:29,724 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:14:29,725 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:14:29,725 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:14:29,727 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:14:29,924 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:14:29,953 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:18:43,287 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:18:43,287 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:18:43,287 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:18:43,289 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:18:43,422 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:18:43,447 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:19:05,911 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:19:05,912 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:19:05,913 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:19:05,914 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:19:06,080 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:19:06,112 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:19:40,529 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:19:40,532 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:19:40,532 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:19:40,535 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:19:40,869 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:19:40,918 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:20:10,630 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:20:10,631 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:20:10,631 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:20:10,631 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:20:10,776 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:20:10,805 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:21:33,949 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:21:33,951 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:21:33,951 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:21:33,954 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:21:34,394 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:21:34,436 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:21:35,054 - INFO - ETL_Logger - Successfully loaded data
+2025-11-16 12:22:25,194 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:22:25,195 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:22:25,195 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:22:25,196 - INFO - ETL_Logger - Found 30 files in data/daily_expenses
+2025-11-16 12:22:25,279 - INFO - ETL_Logger - Found 296 rows in data/daily_expenses
+2025-11-16 12:22:25,317 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:22:25,898 - INFO - ETL_Logger - Successfully loaded data
+2025-11-16 12:23:13,205 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:23:13,205 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:23:13,205 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:23:13,206 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:23:13,346 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:23:13,404 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:23:13,925 - INFO - ETL_Logger - Successfully loaded data
+2025-11-16 12:23:27,396 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:23:27,397 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:23:27,397 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:23:27,397 - INFO - ETL_Logger - Found 56 files in data/daily_expenses
+2025-11-16 12:23:27,502 - INFO - ETL_Logger - Found 533 rows in data/daily_expenses
+2025-11-16 12:23:27,509 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:23:27,808 - INFO - ETL_Logger - Successfully loaded data
+2025-11-16 12:23:45,380 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:23:45,381 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:23:45,381 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:23:45,381 - INFO - ETL_Logger - Found 57 files in data/daily_expenses
+2025-11-16 12:23:45,482 - INFO - ETL_Logger - Found 541 rows in data/daily_expenses
+2025-11-16 12:23:45,489 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:23:45,945 - INFO - ETL_Logger - Successfully loaded data
+2025-11-16 12:24:08,012 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:24:08,013 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:24:08,013 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:24:08,014 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:24:08,139 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:24:08,173 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:24:08,610 - INFO - ETL_Logger - Successfully loaded data
+2025-11-16 12:29:17,607 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:29:17,608 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:29:17,608 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:29:17,609 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:29:17,784 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:29:17,819 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:29:18,394 - INFO - ETL_Logger - Successfully loaded data
+2025-11-16 12:33:56,117 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:33:56,118 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:33:56,119 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:33:56,120 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:33:56,282 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:33:56,320 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:34:07,166 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:34:07,166 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:34:07,166 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:34:07,167 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:34:07,313 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:34:07,324 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:34:29,568 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:34:29,568 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:34:29,568 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:34:29,569 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:34:29,698 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:34:29,729 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:34:30,081 - INFO - ETL_Logger - Successfully loaded data
+2025-11-16 12:35:37,620 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:35:37,621 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:35:37,621 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:35:37,621 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:35:37,740 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:35:37,765 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:35:38,035 - INFO - ETL_Logger - Successfully loaded data
+2025-11-16 12:36:32,213 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:36:32,214 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:36:32,214 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:36:32,216 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:36:32,731 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:36:32,814 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:37:02,279 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:37:02,279 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:37:02,279 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:37:02,280 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:37:02,500 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:37:02,548 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:37:03,042 - INFO - ETL_Logger - Successfully loaded data
+2025-11-16 12:37:25,795 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:37:25,796 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:37:25,796 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:37:25,797 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:37:25,954 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:37:25,990 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:37:26,554 - INFO - ETL_Logger - Successfully loaded data
+2025-11-16 12:38:01,680 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:38:01,681 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:38:01,681 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:38:01,681 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:38:01,872 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:38:01,905 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:38:02,356 - INFO - ETL_Logger - Successfully loaded data
+2025-11-16 12:38:41,250 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:38:41,252 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:38:41,253 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:38:41,255 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:38:41,696 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:38:41,760 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:38:42,421 - INFO - ETL_Logger - Successfully loaded data
+2025-11-16 12:39:01,644 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:39:01,644 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:39:01,644 - INFO - ETL_Logger - Extracting data from source system.
+2025-11-16 12:39:01,645 - INFO - ETL_Logger - Found 60 files in data/daily_expenses
+2025-11-16 12:39:01,809 - INFO - ETL_Logger - Found 567 rows in data/daily_expenses
+2025-11-16 12:39:01,838 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:39:02,126 - INFO - ETL_Logger - Successfully loaded data
+2025-11-16 12:52:04,956 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:52:04,957 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:52:23,315 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:52:23,315 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:52:54,732 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:52:54,732 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:54:37,668 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:54:37,668 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:54:37,778 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:54:38,120 - INFO - ETL_Logger - Successfully loaded data
+2025-11-16 12:56:59,791 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:56:59,792 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:57:17,207 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:57:17,207 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:57:17,304 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:57:17,728 - INFO - ETL_Logger - Successfully loaded data
+2025-11-16 12:58:54,659 - INFO - ETL_Logger - Centralized logging system initialized.
+2025-11-16 12:58:54,659 - INFO - ETL_Logger - Main job execution started.
+2025-11-16 12:58:54,725 - INFO - ETL_Logger - Imported 261 rows from db
+2025-11-16 12:58:54,752 - INFO - ETL_Logger - Transformed data
+2025-11-16 12:58:55,196 - INFO - ETL_Logger - Successfully loaded data

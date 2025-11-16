@@ -1,0 +1,4 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-17-0,2025-10-17,1,1419.77,Hurst Ltd,4
+exp-2025-10-17-1,2025-10-17,3,1649.6,Hines-Nash,5
+exp-2025-10-17-2,2025-10-17,4,120.7,"Washington, Jones and Clark",3

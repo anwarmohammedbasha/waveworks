@@ -1,0 +1,55 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-26-0,2025-10-26T15:07:00,58,"PSC 5468, Box 7801
+APO AA 72674","[{'product_id': 46, 'qty': 2}, {'product_id': 30, 'qty': 1}, {'product_id': 49, 'qty': 2}]"
+ec-2025-10-26-1,2025-10-26T01:20:00,188,"3948 Damon Passage Suite 832
+Dustinbury, LA 02885","[{'product_id': 6, 'qty': 1}, {'product_id': 28, 'qty': 1}]"
+ec-2025-10-26-2,2025-10-26T05:04:00,70,"592 Joseph Landing
+West Denise, MA 44632","[{'product_id': 31, 'qty': 1}, {'product_id': 24, 'qty': 2}, {'product_id': 36, 'qty': 2}]"
+ec-2025-10-26-3,2025-10-26T06:49:00,124,"7244 Wilson Prairie Apt. 354
+Williamburgh, IA 87836","[{'product_id': 38, 'qty': 2}, {'product_id': 23, 'qty': 1}, {'product_id': 14, 'qty': 1}]"
+ec-2025-10-26-4,2025-10-26T13:55:00,154,"667 Pratt Pine Suite 651
+West Christopher, MH 45830","[{'product_id': 9, 'qty': 3}]"
+ec-2025-10-26-5,2025-10-26T16:48:00,112,"527 Pollard Coves Apt. 216
+Martinezland, OR 33559","[{'product_id': 9, 'qty': 3}, {'product_id': 45, 'qty': 3}]"
+ec-2025-10-26-6,2025-10-26T13:39:00,41,"69249 Nicholas Coves Suite 502
+East Jamesview, WY 32331","[{'product_id': 15, 'qty': 1}, {'product_id': 15, 'qty': 2}, {'product_id': 32, 'qty': 1}]"
+ec-2025-10-26-7,2025-10-26T19:47:00,54,"20339 Jessica Forest Suite 251
+South Rossville, SC 49507","[{'product_id': 15, 'qty': 1}]"
+ec-2025-10-26-8,2025-10-26T16:05:00,197,"1098 Clark Ranch
+Warrenborough, VT 28850","[{'product_id': 4, 'qty': 3}, {'product_id': 20, 'qty': 2}, {'product_id': 10, 'qty': 1}]"
+ec-2025-10-26-9,2025-10-26T01:09:00,53,"74971 Kenneth Walk Apt. 369
+Karenside, LA 86920","[{'product_id': 18, 'qty': 1}]"
+ec-2025-10-26-10,2025-10-26T06:44:00,49,"49537 Nicole Fords Suite 863
+Lake Sarah, IN 68272","[{'product_id': 44, 'qty': 3}]"
+ec-2025-10-26-11,2025-10-26T17:33:00,54,"9190 Ryan Ridge Suite 740
+Shaunburgh, NH 01965","[{'product_id': 26, 'qty': 2}, {'product_id': 41, 'qty': 2}]"
+ec-2025-10-26-12,2025-10-26T12:17:00,166,"178 Andrew Alley Apt. 008
+Mclaughlinside, KS 16975","[{'product_id': 41, 'qty': 1}, {'product_id': 1, 'qty': 1}, {'product_id': 7, 'qty': 2}]"
+ec-2025-10-26-13,2025-10-26T20:13:00,135,"14049 Sharp Stream
+Gailfort, IA 64624","[{'product_id': 41, 'qty': 1}, {'product_id': 44, 'qty': 3}, {'product_id': 8, 'qty': 1}]"
+ec-2025-10-26-14,2025-10-26T22:29:00,99,"6231 Judy Pines
+New Lisa, OR 75217","[{'product_id': 41, 'qty': 2}, {'product_id': 25, 'qty': 1}, {'product_id': 23, 'qty': 3}]"
+ec-2025-10-26-15,2025-10-26T10:29:00,78,"01019 Bush Ridge Suite 175
+Robinville, VT 61930","[{'product_id': 10, 'qty': 2}, {'product_id': 45, 'qty': 2}, {'product_id': 35, 'qty': 2}]"
+ec-2025-10-26-16,2025-10-26T22:49:00,41,"92881 Dwayne Expressway Suite 062
+Port Steven, NC 18921","[{'product_id': 21, 'qty': 1}]"
+ec-2025-10-26-17,2025-10-26T07:02:00,183,"Unit 8975 Box 0578
+DPO AE 68387","[{'product_id': 13, 'qty': 1}, {'product_id': 39, 'qty': 1}]"
+ec-2025-10-26-18,2025-10-26T14:37:00,134,"1235 Christopher Brook Suite 924
+Fernandezburgh, PR 66192","[{'product_id': 14, 'qty': 1}, {'product_id': 34, 'qty': 4}, {'product_id': 36, 'qty': 2}]"
+ec-2025-10-26-19,2025-10-26T01:17:00,57,"003 Nicole Pine Apt. 530
+New Eddieburgh, CT 49345","[{'product_id': 39, 'qty': 3}, {'product_id': 30, 'qty': 3}, {'product_id': 34, 'qty': 1}]"
+ec-2025-10-26-20,2025-10-26T07:25:00,174,"25844 Carlos Mills
+Woodsfurt, WV 86830","[{'product_id': 24, 'qty': 2}, {'product_id': 39, 'qty': 2}, {'product_id': 33, 'qty': 1}]"
+ec-2025-10-26-21,2025-10-26T23:00:00,108,"904 Shelby Square
+East Michael, KY 34036","[{'product_id': 50, 'qty': 2}, {'product_id': 6, 'qty': 1}]"
+ec-2025-10-26-22,2025-10-26T04:21:00,85,,"[{'product_id': 28, 'qty': 1}, {'product_id': 48, 'qty': 1}]"
+ec-2025-10-26-23,2025-10-26T22:54:00,197,,"[{'product_id': 30, 'qty': 1}, {'product_id': 15, 'qty': 3}, {'product_id': 31, 'qty': 1}]"
+ec-2025-10-26-24,2025-10-26T03:11:00,77,"USCGC Graham
+FPO AE 61896","[{'product_id': 44, 'qty': 1}, {'product_id': 36, 'qty': 1}, {'product_id': 38, 'qty': 1}]"
+ec-2025-10-26-25,2025-10-26T00:01:00,60,"40619 Julie Valleys
+Gibsonfort, DC 06779","[{'product_id': 20, 'qty': 3}]"
+ec-2025-10-26-26,2025-10-26T05:00:00,121,"68935 Adams Lane
+Jessicaberg, AL 25178","[{'product_id': 7, 'qty': 1}]"
+ec-2025-10-26-27,2025-10-26T13:40:00,62,"8051 Nicholas Park
+North Josephview, AR 59193","[{'product_id': 19, 'qty': 3}, {'product_id': 14, 'qty': 1}]"

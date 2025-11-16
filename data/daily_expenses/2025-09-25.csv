@@ -1,0 +1,10 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-09-25-0,2025-09-25,2,971.74,"Fowler, George and Jackson",1
+exp-2025-09-25-1,2025-09-25,5,1591.62,"Yang, Flores and King",3
+exp-2025-09-25-2,2025-09-25,3,1093.77,Rivera-Nelson,1
+exp-2025-09-25-3,2025-09-25,3,1791.44,Murphy Group,3
+exp-2025-09-25-4,2025-09-25,5,790.88,Kaiser Inc,5
+exp-2025-09-25-5,2025-09-25,1,922.22,Johnson PLC,4
+exp-2025-09-25-6,2025-09-25,4,15.36,"Hickman, Lamb and Stewart",5
+exp-2025-09-25-7,2025-09-25,2,1785.6,"Maldonado, Miller and Sutton",3
+exp-2025-09-25-8,2025-09-25,3,1786.65,"Wilson, Lewis and Wood",3

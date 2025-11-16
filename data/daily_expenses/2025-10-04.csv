@@ -1,0 +1,11 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-04-0,2025-10-04,4,549.2,Nelson-Esparza,4
+exp-2025-10-04-1,2025-10-04,1,1546.27,"Harrison, Roman and Berry",4
+exp-2025-10-04-2,2025-10-04,4,1604.56,Green PLC,3
+exp-2025-10-04-3,2025-10-04,2,1712.52,Ball-Hicks,1
+exp-2025-10-04-4,2025-10-04,5,189.68,Rogers Ltd,3
+exp-2025-10-04-5,2025-10-04,4,982.85,Morton-Alvarez,2
+exp-2025-10-04-6,2025-10-04,5,1400.22,Wilson-Stone,2
+exp-2025-10-04-7,2025-10-04,2,1135.39,Morris LLC,3
+exp-2025-10-04-8,2025-10-04,3,89.44,Smith-Ryan,2
+exp-2025-10-04-9,2025-10-04,3,487.75,Wood-Goodwin,4

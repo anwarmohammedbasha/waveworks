@@ -1,0 +1,26 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-04-0,2025-10-04T06:41:00,43,"14548 Garza Plaza Suite 279
+North Mikayla, LA 34815","[{'product_id': 43, 'qty': 2}, {'product_id': 11, 'qty': 1}, {'product_id': 25, 'qty': 2}]"
+ec-2025-10-04-1,2025-10-04T02:49:00,28,"14201 John Ford
+New Anthony, GU 67962","[{'product_id': 35, 'qty': 1}, {'product_id': 22, 'qty': 1}, {'product_id': 40, 'qty': 2}]"
+ec-2025-10-04-2,2025-10-04T10:52:00,116,"393 Andrew Extension Apt. 235
+Burgessview, GA 14392","[{'product_id': 41, 'qty': 1}, {'product_id': 18, 'qty': 1}, {'product_id': 14, 'qty': 2}]"
+ec-2025-10-04-3,2025-10-04T06:10:00,96,"8718 Brian Groves
+Johnhaven, PR 04833","[{'product_id': 18, 'qty': 1}, {'product_id': 34, 'qty': 2}]"
+ec-2025-10-04-4,2025-10-04T03:19:00,198,"9069 Kristy Circles
+South Brenda, UT 01047","[{'product_id': 49, 'qty': 2}, {'product_id': 14, 'qty': 1}, {'product_id': 25, 'qty': 2}]"
+ec-2025-10-04-5,2025-10-04T00:37:00,176,"68706 Jacob Summit
+Schwartzshire, AR 96700","[{'product_id': 14, 'qty': 1}]"
+ec-2025-10-04-6,2025-10-04T18:51:00,166,"935 Andrea Junction
+Eatontown, MA 26394","[{'product_id': 45, 'qty': 1}]"
+ec-2025-10-04-7,2025-10-04T14:38:00,132,"297 Jean Stream
+Williamsstad, NY 02301","[{'product_id': 35, 'qty': 1}]"
+ec-2025-10-04-8,2025-10-04T09:32:00,128,"820 Brian Inlet Suite 305
+Weaverside, MI 55640","[{'product_id': 25, 'qty': 1}, {'product_id': 5, 'qty': 1}]"
+ec-2025-10-04-9,2025-10-04T08:54:00,170,"15369 Mark Locks Suite 048
+South Travisport, MP 41393","[{'product_id': 16, 'qty': 1}]"
+ec-2025-10-04-10,2025-10-04T03:19:00,29,"4687 Larry Street
+New Bradley, AK 91166","[{'product_id': 35, 'qty': 4}]"
+ec-2025-10-04-11,2025-10-04T07:04:00,100,,"[{'product_id': 33, 'qty': 1}]"
+ec-2025-10-04-12,2025-10-04T09:56:00,120,"Unit 0210 Box 4600
+DPO AA 93578","[{'product_id': 47, 'qty': 2}]"

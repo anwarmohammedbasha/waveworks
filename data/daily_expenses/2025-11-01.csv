@@ -1,0 +1,6 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-01-0,2025-11-01,5,763.88,"Anderson, Allen and Powell",2
+exp-2025-11-01-1,2025-11-01,2,494.08,Murphy-Bell,3
+exp-2025-11-01-2,2025-11-01,4,1361.76,Craig-Hogan,2
+exp-2025-11-01-3,2025-11-01,3,379.48,Ray-Johnson,3
+exp-2025-11-01-4,2025-11-01,5,891.01,"Cook, Hudson and Craig",2

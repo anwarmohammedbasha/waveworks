@@ -1,0 +1,12 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-09-16-0,2025-09-16,3,753.5,Hernandez-Rodriguez,1
+exp-2025-09-16-1,2025-09-16,4,303.14,George LLC,5
+exp-2025-09-16-2,2025-09-16,3,1903.3,"Wright, Hickman and Cruz",4
+exp-2025-09-16-3,2025-09-16,3,186.75,"Robinson, Terry and Hayes",1
+exp-2025-09-16-4,2025-09-16,4,1874.75,"Johnston, Roman and Moss",5
+exp-2025-09-16-5,2025-09-16,4,1718.57,Jensen-Brown,4
+exp-2025-09-16-6,2025-09-16,4,394.95,Ramos LLC,1
+exp-2025-09-16-7,2025-09-16,5,137.8,Bowers-Smith,5
+exp-2025-09-16-8,2025-09-16,1,918.02,Martinez-Boyd,2
+exp-2025-09-16-9,2025-09-16,4,397.29,"Smith, Guerrero and Freeman",3
+exp-2025-09-16-10,2025-09-16,3,545.95,Le and Sons,5

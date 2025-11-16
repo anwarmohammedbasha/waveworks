@@ -1,0 +1,30 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-09-17-0,2025-09-17T12:35:00,116,"8478 Koch River Suite 696
+Harrisonland, AR 81521","[{'product_id': 15, 'qty': 1}]"
+ec-2025-09-17-1,2025-09-17T11:32:00,173,"5572 Christine Island
+Pittsfurt, OR 62741","[{'product_id': 12, 'qty': 1}, {'product_id': 15, 'qty': 2}]"
+ec-2025-09-17-2,2025-09-17T18:21:00,36,"28674 Hannah Creek
+South Katrinahaven, UT 09221","[{'product_id': 3, 'qty': 1}]"
+ec-2025-09-17-3,2025-09-17T09:32:00,6,"93672 Katherine Landing
+Schneiderchester, FM 37819","[{'product_id': 39, 'qty': 1}]"
+ec-2025-09-17-4,2025-09-17T23:33:00,159,"41075 Joshua Islands
+Amandafort, PA 67108","[{'product_id': 11, 'qty': 2}, {'product_id': 7, 'qty': 1}]"
+ec-2025-09-17-5,2025-09-17T20:29:00,36,"377 Henry Squares
+Joeland, KS 92789","[{'product_id': 20, 'qty': 2}]"
+ec-2025-09-17-6,2025-09-17T02:58:00,105,"Unit 6751 Box 5607
+DPO AA 24224","[{'product_id': 8, 'qty': 1}]"
+ec-2025-09-17-7,2025-09-17T06:00:00,104,"779 Gray Station Apt. 898
+Kleinland, WY 11065","[{'product_id': 31, 'qty': 2}]"
+ec-2025-09-17-8,2025-09-17T00:10:00,102,"349 Brent Manor Suite 828
+Lake Janetburgh, VT 58687","[{'product_id': 23, 'qty': 2}]"
+ec-2025-09-17-9,2025-09-17T04:08:00,60,"74171 Carson Motorway Suite 816
+South Bradleyville, IL 11014","[{'product_id': 3, 'qty': 1}, {'product_id': 20, 'qty': 1}, {'product_id': 23, 'qty': 1}]"
+ec-2025-09-17-10,2025-09-17T00:15:00,48,"9183 Lynn Haven
+Scottstad, TN 93577","[{'product_id': 7, 'qty': 1}, {'product_id': 37, 'qty': 1}]"
+ec-2025-09-17-11,2025-09-17T08:10:00,165,"45064 Kristin Summit
+North Brenda, MP 23828","[{'product_id': 40, 'qty': 2}, {'product_id': 6, 'qty': 3}]"
+ec-2025-09-17-12,2025-09-17T20:36:00,16,,"[{'product_id': 2, 'qty': 2}, {'product_id': 22, 'qty': 3}, {'product_id': 28, 'qty': 2}]"
+ec-2025-09-17-13,2025-09-17T11:37:00,97,"951 Peters Parkway Suite 124
+Port Carlside, VI 76752","[{'product_id': 18, 'qty': 2}, {'product_id': 45, 'qty': 1}, {'product_id': 24, 'qty': 2}]"
+ec-2025-09-17-14,2025-09-17T12:04:00,154,"PSC 2998, Box 9535
+APO AA 82482","[{'product_id': 29, 'qty': 1}, {'product_id': 10, 'qty': 1}, {'product_id': 15, 'qty': 3}]"

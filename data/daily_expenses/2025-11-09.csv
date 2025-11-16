@@ -1,0 +1,13 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-09-0,2025-11-09,5,1329.2,Hancock-Wright,1
+exp-2025-11-09-1,2025-11-09,1,1698.36,Allen and Sons,2
+exp-2025-11-09-2,2025-11-09,1,309.54,"Hancock, Hensley and Hall",4
+exp-2025-11-09-3,2025-11-09,4,1852.4,Thompson LLC,5
+exp-2025-11-09-4,2025-11-09,1,1498.5,Sanders-Meyer,5
+exp-2025-11-09-5,2025-11-09,5,88.72,King Inc,1
+exp-2025-11-09-6,2025-11-09,2,523.06,Porter Group,3
+exp-2025-11-09-7,2025-11-09,3,1111.5,Acosta-Davis,1
+exp-2025-11-09-8,2025-11-09,2,645.31,Huerta-Forbes,1
+exp-2025-11-09-9,2025-11-09,4,1135.29,Frye-Wilson,4
+exp-2025-11-09-10,2025-11-09,5,208.38,Mayo-Daniel,4
+exp-2025-11-09-11,2025-11-09,1,168.88,Gray-Stephens,1

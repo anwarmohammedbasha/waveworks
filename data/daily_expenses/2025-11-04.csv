@@ -1,0 +1,9 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-04-0,2025-11-04,4,172.77,Jackson-Davis,4
+exp-2025-11-04-1,2025-11-04,2,1492.44,"Blackwell, Jones and Meyers",2
+exp-2025-11-04-2,2025-11-04,3,550.19,"Estrada, Lopez and Hurley",3
+exp-2025-11-04-3,2025-11-04,4,1101.57,Brady-Swanson,4
+exp-2025-11-04-4,2025-11-04,2,670.41,"Wilson, Taylor and Gray",1
+exp-2025-11-04-5,2025-11-04,4,1464.15,"Carter, Kelly and Hill",5
+exp-2025-11-04-6,2025-11-04,4,1184.57,"Walker, Nielsen and Evans",5
+exp-2025-11-04-7,2025-11-04,5,1576.78,Williams-Henry,1

@@ -1,0 +1,16 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-05-0,2025-10-05,4,758.36,Clements-Wilson,2
+exp-2025-10-05-1,2025-10-05,3,339.02,Bailey-Adams,2
+exp-2025-10-05-2,2025-10-05,5,1866.77,Hughes-Gamble,5
+exp-2025-10-05-3,2025-10-05,3,653.45,Berry-Hendrix,2
+exp-2025-10-05-4,2025-10-05,2,53.17,Walls-Ramos,1
+exp-2025-10-05-5,2025-10-05,1,852.33,Perez-Odom,2
+exp-2025-10-05-6,2025-10-05,5,565.01,White Group,3
+exp-2025-10-05-7,2025-10-05,4,1323.09,West-Glenn,5
+exp-2025-10-05-8,2025-10-05,2,890.01,"Blackwell, Rose and Ayala",4
+exp-2025-10-05-9,2025-10-05,3,1641.56,Lopez Inc,3
+exp-2025-10-05-10,2025-10-05,3,1383.19,Edwards-Rivera,4
+exp-2025-10-05-11,2025-10-05,1,1830.53,"Molina, Neal and Perez",4
+exp-2025-10-05-12,2025-10-05,5,1382.56,Smith-Saunders,2
+exp-2025-10-05-13,2025-10-05,5,1919.2,Novak-Alvarez,1
+exp-2025-10-05-14,2025-10-05,4,1579.32,Kelly-Martinez,2

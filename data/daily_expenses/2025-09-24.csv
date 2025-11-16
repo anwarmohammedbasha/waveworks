@@ -1,0 +1,11 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-09-24-0,2025-09-24,1,387.86,Cameron Ltd,3
+exp-2025-09-24-1,2025-09-24,3,557.37,Wright-Morrison,5
+exp-2025-09-24-2,2025-09-24,5,10.17,Black Group,4
+exp-2025-09-24-3,2025-09-24,1,893.42,Medina-Sullivan,4
+exp-2025-09-24-4,2025-09-24,2,1551.19,Holmes Group,1
+exp-2025-09-24-5,2025-09-24,1,1386.74,"Brennan, Rodriguez and Saunders",3
+exp-2025-09-24-6,2025-09-24,1,1557.01,"Edwards, Hill and Cooper",4
+exp-2025-09-24-7,2025-09-24,1,1955.14,Owens-White,3
+exp-2025-09-24-8,2025-09-24,1,971.81,Ramirez-Wood,2
+exp-2025-09-24-9,2025-09-24,5,1190.25,"Keller, Paul and Hall",3

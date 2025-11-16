@@ -1,0 +1,37 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-09-27-0,2025-09-27T21:13:00,121,"133 Kevin Turnpike Suite 282
+Lake Suzanneside, IA 17972","[{'product_id': 29, 'qty': 3}, {'product_id': 8, 'qty': 2}]"
+ec-2025-09-27-1,2025-09-27T16:20:00,169,"PSC 2367, Box 5646
+APO AP 38840","[{'product_id': 1, 'qty': 1}, {'product_id': 9, 'qty': 1}]"
+ec-2025-09-27-2,2025-09-27T22:12:00,44,"291 King Stravenue
+Richardmouth, MN 54905","[{'product_id': 18, 'qty': 3}, {'product_id': 47, 'qty': 2}, {'product_id': 15, 'qty': 2}]"
+ec-2025-09-27-3,2025-09-27T22:59:00,63,"USS Diaz
+FPO AA 80146","[{'product_id': 28, 'qty': 1}]"
+ec-2025-09-27-4,2025-09-27T10:40:00,79,"548 Nicholas Rest
+Wolfeborough, KY 76669","[{'product_id': 35, 'qty': 3}]"
+ec-2025-09-27-5,2025-09-27T09:54:00,69,"9894 Steve Viaduct
+West Sharon, KY 03611","[{'product_id': 18, 'qty': 3}, {'product_id': 10, 'qty': 1}, {'product_id': 11, 'qty': 1}]"
+ec-2025-09-27-6,2025-09-27T23:39:00,72,"62686 Joshua Dale Apt. 535
+New Melissachester, FM 07632","[{'product_id': 1, 'qty': 1}, {'product_id': 27, 'qty': 1}]"
+ec-2025-09-27-7,2025-09-27T11:58:00,180,"33511 Ryan Parkways Suite 911
+Cynthiamouth, NC 78473","[{'product_id': 8, 'qty': 1}]"
+ec-2025-09-27-8,2025-09-27T22:26:00,17,"320 Nichols Landing Suite 624
+East Matthew, KY 89789","[{'product_id': 18, 'qty': 1}, {'product_id': 1, 'qty': 1}]"
+ec-2025-09-27-9,2025-09-27T03:31:00,80,"352 Howell Course Apt. 315
+North Stephanie, HI 04950","[{'product_id': 40, 'qty': 1}]"
+ec-2025-09-27-10,2025-09-27T18:24:00,159,"8761 Tyler Forge Suite 019
+Cochranburgh, OK 91052","[{'product_id': 30, 'qty': 2}]"
+ec-2025-09-27-11,2025-09-27T21:43:00,35,"03933 Samantha Ferry Suite 082
+Whiteville, DE 43481","[{'product_id': 6, 'qty': 2}, {'product_id': 44, 'qty': 1}]"
+ec-2025-09-27-12,2025-09-27T06:06:00,99,"4108 Mathew Island
+Lake Rachel, GA 69727","[{'product_id': 50, 'qty': 1}, {'product_id': 5, 'qty': 2}, {'product_id': 25, 'qty': 2}]"
+ec-2025-09-27-13,2025-09-27T10:54:00,158,"01722 Burke Islands Suite 780
+West Amanda, CA 61350","[{'product_id': 37, 'qty': 1}, {'product_id': 41, 'qty': 1}, {'product_id': 12, 'qty': 2}]"
+ec-2025-09-27-14,2025-09-27T13:01:00,111,"63042 Jones Forge Suite 454
+New Michaelfort, NH 74859","[{'product_id': 39, 'qty': 2}, {'product_id': 12, 'qty': 2}]"
+ec-2025-09-27-15,2025-09-27T07:58:00,60,"02559 Ruiz Locks
+Amyfort, PW 92511","[{'product_id': 37, 'qty': 1}]"
+ec-2025-09-27-16,2025-09-27T08:32:00,24,"PSC 6797, Box 1811
+APO AE 88683","[{'product_id': 35, 'qty': 2}, {'product_id': 44, 'qty': 1}, {'product_id': 2, 'qty': 2}]"
+ec-2025-09-27-17,2025-09-27T10:25:00,33,"22364 Richardson Mountain
+Yangberg, FL 02099","[{'product_id': 10, 'qty': 1}, {'product_id': 19, 'qty': 3}, {'product_id': 12, 'qty': 2}]"

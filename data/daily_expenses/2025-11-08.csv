@@ -1,0 +1,7 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-08-0,2025-11-08,4,1836.11,Robles-Richardson,4
+exp-2025-11-08-1,2025-11-08,2,1914.42,Rose PLC,1
+exp-2025-11-08-2,2025-11-08,3,100.73,Booth Ltd,3
+exp-2025-11-08-3,2025-11-08,1,1459.46,Vaughan-Rivera,4
+exp-2025-11-08-4,2025-11-08,4,602.49,"Barrera, Howard and Harris",3
+exp-2025-11-08-5,2025-11-08,5,191.37,Evans Inc,3

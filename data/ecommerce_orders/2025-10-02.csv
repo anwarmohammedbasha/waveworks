@@ -1,0 +1,59 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-02-0,2025-10-02T23:20:00,41,"633 Jonathan Meadow Apt. 353
+East Michael, MI 57441","[{'product_id': 49, 'qty': 1}, {'product_id': 8, 'qty': 2}]"
+ec-2025-10-02-1,2025-10-02T21:03:00,159,"6880 Sanders Lodge
+Lake Kevinmouth, NV 40718","[{'product_id': 22, 'qty': 1}, {'product_id': 15, 'qty': 1}]"
+ec-2025-10-02-2,2025-10-02T10:51:00,19,"93785 Sanders Summit Suite 431
+South Meganmouth, NH 69267","[{'product_id': 28, 'qty': 3}, {'product_id': 20, 'qty': 3}, {'product_id': 29, 'qty': 1}]"
+ec-2025-10-02-3,2025-10-02T18:04:00,154,"1255 Meyer Rest Suite 751
+Bowersmouth, AL 24820","[{'product_id': 1, 'qty': 2}, {'product_id': 14, 'qty': 1}, {'product_id': 23, 'qty': 1}]"
+ec-2025-10-02-4,2025-10-02T02:04:00,29,"961 Smith Prairie Suite 336
+West Megan, WY 41524","[{'product_id': 3, 'qty': 1}]"
+ec-2025-10-02-5,2025-10-02T02:55:00,195,"07330 Marcus Course
+Ramosfurt, AS 22925","[{'product_id': 31, 'qty': 1}, {'product_id': 18, 'qty': 1}, {'product_id': 10, 'qty': 2}]"
+ec-2025-10-02-6,2025-10-02T18:28:00,191,"6608 Chelsey Mountains Apt. 982
+North Natasha, WI 55552","[{'product_id': 39, 'qty': 2}, {'product_id': 11, 'qty': 1}, {'product_id': 4, 'qty': 2}]"
+ec-2025-10-02-7,2025-10-02T19:22:00,161,"3106 Spencer Trace
+Kentside, VA 93272","[{'product_id': 28, 'qty': 1}, {'product_id': 6, 'qty': 1}]"
+ec-2025-10-02-8,2025-10-02T21:37:00,130,"76011 Kim Viaduct Suite 239
+Michellechester, AR 62671","[{'product_id': 1, 'qty': 2}, {'product_id': 20, 'qty': 1}]"
+ec-2025-10-02-9,2025-10-02T18:53:00,2,"469 Franklin Mews Apt. 535
+New Katherinemouth, MH 10038","[{'product_id': 15, 'qty': 1}, {'product_id': 34, 'qty': 2}]"
+ec-2025-10-02-10,2025-10-02T13:37:00,103,"08452 Kelsey Ports
+Fosterchester, TX 18349","[{'product_id': 7, 'qty': 2}, {'product_id': 18, 'qty': 1}]"
+ec-2025-10-02-11,2025-10-02T14:13:00,5,"747 Joshua Turnpike Suite 911
+Zacharyborough, VI 33066","[{'product_id': 10, 'qty': 2}, {'product_id': 28, 'qty': 1}, {'product_id': 32, 'qty': 3}]"
+ec-2025-10-02-12,2025-10-02T13:45:00,163,"2748 Tammy Forest Suite 374
+Amandafurt, WY 91907","[{'product_id': 9, 'qty': 1}, {'product_id': 4, 'qty': 1}]"
+ec-2025-10-02-13,2025-10-02T13:29:00,179,"814 Barnes Mall Suite 365
+Graychester, AL 55257","[{'product_id': 40, 'qty': 1}, {'product_id': 37, 'qty': 3}]"
+ec-2025-10-02-14,2025-10-02T05:13:00,182,"42768 Black Roads Apt. 522
+Saraton, PR 03198","[{'product_id': 27, 'qty': 2}, {'product_id': 29, 'qty': 1}]"
+ec-2025-10-02-15,2025-10-02T05:14:00,129,"21525 James Burg Suite 676
+East Jeffrey, KY 68705","[{'product_id': 11, 'qty': 1}]"
+ec-2025-10-02-16,2025-10-02T02:55:00,92,"353 Timothy Flat
+Lake Michael, WA 68680","[{'product_id': 42, 'qty': 2}, {'product_id': 16, 'qty': 1}, {'product_id': 2, 'qty': 1}]"
+ec-2025-10-02-17,2025-10-02T10:55:00,141,"749 Melissa Villages Suite 953
+Andersonbury, AR 88123","[{'product_id': 25, 'qty': 1}]"
+ec-2025-10-02-18,2025-10-02T06:13:00,107,"PSC 9738, Box 3549
+APO AA 05633","[{'product_id': 24, 'qty': 1}, {'product_id': 18, 'qty': 2}, {'product_id': 19, 'qty': 1}]"
+ec-2025-10-02-19,2025-10-02T19:09:00,157,"4499 Wallace Stravenue Suite 217
+Kimport, AS 96075","[{'product_id': 31, 'qty': 1}]"
+ec-2025-10-02-20,2025-10-02T11:43:00,22,"008 Ellis Square
+Leeview, PR 49399","[{'product_id': 45, 'qty': 1}, {'product_id': 33, 'qty': 1}, {'product_id': 5, 'qty': 1}]"
+ec-2025-10-02-21,2025-10-02T02:20:00,40,"7918 Rodriguez Street Suite 280
+Cynthiastad, DE 15811","[{'product_id': 18, 'qty': 2}, {'product_id': 20, 'qty': 2}, {'product_id': 50, 'qty': 2}]"
+ec-2025-10-02-22,2025-10-02T05:38:00,87,"8241 Nancy Neck
+Andrewshire, KS 78606","[{'product_id': 28, 'qty': 3}]"
+ec-2025-10-02-23,2025-10-02T06:04:00,134,"43585 Andrea Rapid
+Terrihaven, VI 95591","[{'product_id': 34, 'qty': 1}]"
+ec-2025-10-02-24,2025-10-02T21:59:00,87,"12489 Darrell Well Suite 001
+Lake Christophershire, IA 54337","[{'product_id': 18, 'qty': 1}, {'product_id': 25, 'qty': 2}]"
+ec-2025-10-02-25,2025-10-02T10:53:00,150,"48687 Vanessa Lodge Apt. 844
+Cabreramouth, MP 22252","[{'product_id': 2, 'qty': 1}, {'product_id': 40, 'qty': 2}]"
+ec-2025-10-02-26,2025-10-02T08:59:00,167,"804 Jones Lake Apt. 887
+Rayburgh, FL 82850","[{'product_id': 41, 'qty': 2}]"
+ec-2025-10-02-27,2025-10-02T14:44:00,138,"6836 James Dale
+North Kathrynside, CT 87920","[{'product_id': 7, 'qty': 1}, {'product_id': 22, 'qty': 3}]"
+ec-2025-10-02-28,2025-10-02T05:57:00,37,"7472 Lindsey Extension
+West Paulborough, DE 28733","[{'product_id': 18, 'qty': 1}, {'product_id': 50, 'qty': 1}, {'product_id': 32, 'qty': 1}]"

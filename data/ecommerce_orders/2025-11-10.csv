@@ -1,0 +1,55 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-10-0,2025-11-10T01:31:00,13,"80260 Ernest Junction Suite 937
+West Tyler, NY 63410","[{'product_id': 28, 'qty': 1}]"
+ec-2025-11-10-1,2025-11-10T17:55:00,107,"246 James Junctions
+Alexandraside, KY 16675","[{'product_id': 24, 'qty': 2}]"
+ec-2025-11-10-2,2025-11-10T18:28:00,31,"83575 Hayes Island Apt. 074
+East Beckyside, VT 40604","[{'product_id': 8, 'qty': 1}, {'product_id': 33, 'qty': 2}, {'product_id': 29, 'qty': 2}]"
+ec-2025-11-10-3,2025-11-10T15:23:00,156,"4980 Veronica Passage
+West Christopher, MP 53597","[{'product_id': 40, 'qty': 1}, {'product_id': 43, 'qty': 1}, {'product_id': 36, 'qty': 1}]"
+ec-2025-11-10-4,2025-11-10T10:28:00,56,"947 Craig Forges
+North Calvin, IA 00823","[{'product_id': 25, 'qty': 1}, {'product_id': 49, 'qty': 1}]"
+ec-2025-11-10-5,2025-11-10T04:14:00,46,"3909 Hoffman Fords
+North Michaelhaven, PW 98188","[{'product_id': 6, 'qty': 1}]"
+ec-2025-11-10-6,2025-11-10T12:58:00,66,"900 Katrina Station
+New Scottbury, IA 50530","[{'product_id': 8, 'qty': 1}, {'product_id': 10, 'qty': 1}, {'product_id': 37, 'qty': 2}]"
+ec-2025-11-10-7,2025-11-10T03:02:00,146,"786 Edward Key
+Wilsonfurt, MA 97664","[{'product_id': 37, 'qty': 2}, {'product_id': 44, 'qty': 2}, {'product_id': 3, 'qty': 2}]"
+ec-2025-11-10-8,2025-11-10T18:56:00,123,"79207 Stevens Centers
+Joshuahaven, MN 67403","[{'product_id': 21, 'qty': 2}]"
+ec-2025-11-10-9,2025-11-10T21:53:00,101,"38917 Luna Gardens Suite 937
+West Juliehaven, MD 86384","[{'product_id': 48, 'qty': 1}, {'product_id': 15, 'qty': 1}, {'product_id': 16, 'qty': 1}]"
+ec-2025-11-10-10,2025-11-10T14:27:00,177,"Unit 5241 Box 9558
+DPO AE 93350","[{'product_id': 39, 'qty': 2}]"
+ec-2025-11-10-11,2025-11-10T23:03:00,71,"000 Mcgee Summit Suite 850
+Dixonville, AK 93468","[{'product_id': 17, 'qty': 1}, {'product_id': 12, 'qty': 2}]"
+ec-2025-11-10-12,2025-11-10T19:03:00,41,"35554 Campbell Station Suite 732
+South Nicolemouth, ND 95419","[{'product_id': 38, 'qty': 2}, {'product_id': 8, 'qty': 3}, {'product_id': 29, 'qty': 2}]"
+ec-2025-11-10-13,2025-11-10T04:21:00,36,"56772 Jessica Trace Apt. 971
+Susanmouth, SC 43862","[{'product_id': 29, 'qty': 4}]"
+ec-2025-11-10-14,2025-11-10T22:00:00,118,"7057 Robert Island
+Jasonhaven, MN 46795","[{'product_id': 1, 'qty': 2}, {'product_id': 18, 'qty': 1}]"
+ec-2025-11-10-15,2025-11-10T23:24:00,185,"55224 Ward Passage
+Ruthside, AL 36885","[{'product_id': 24, 'qty': 2}, {'product_id': 4, 'qty': 1}]"
+ec-2025-11-10-16,2025-11-10T10:47:00,84,"53305 Chang Ville Suite 280
+Lopezberg, PA 50536","[{'product_id': 43, 'qty': 1}, {'product_id': 37, 'qty': 2}, {'product_id': 6, 'qty': 1}]"
+ec-2025-11-10-17,2025-11-10T04:17:00,172,"20607 Joshua Divide Apt. 486
+Lake Anita, KS 02305","[{'product_id': 42, 'qty': 2}, {'product_id': 21, 'qty': 2}]"
+ec-2025-11-10-18,2025-11-10T23:44:00,20,"99335 Carr Valley Apt. 201
+Port Melissa, LA 50558","[{'product_id': 32, 'qty': 2}, {'product_id': 23, 'qty': 3}]"
+ec-2025-11-10-19,2025-11-10T15:40:00,41,"54188 Haney Springs
+Gonzalezton, NM 53682","[{'product_id': 33, 'qty': 2}, {'product_id': 3, 'qty': 1}]"
+ec-2025-11-10-20,2025-11-10T20:11:00,180,"1960 Cross Key
+Michaeltown, MH 92584","[{'product_id': 42, 'qty': 1}, {'product_id': 23, 'qty': 2}]"
+ec-2025-11-10-21,2025-11-10T20:52:00,66,"94638 Jennifer Drives
+Julieside, RI 88767","[{'product_id': 7, 'qty': 1}, {'product_id': 27, 'qty': 1}, {'product_id': 30, 'qty': 1}]"
+ec-2025-11-10-22,2025-11-10T00:09:00,134,"0587 Gray Locks
+East Crystal, FM 21084","[{'product_id': 2, 'qty': 1}, {'product_id': 15, 'qty': 2}]"
+ec-2025-11-10-23,2025-11-10T19:46:00,165,"752 Hannah Highway
+West Christianhaven, ME 55864","[{'product_id': 7, 'qty': 3}, {'product_id': 2, 'qty': 2}]"
+ec-2025-11-10-24,2025-11-10T10:14:00,38,"4546 Phillips Keys
+Myersbury, NV 16747","[{'product_id': 38, 'qty': 1}, {'product_id': 23, 'qty': 2}, {'product_id': 18, 'qty': 2}]"
+ec-2025-11-10-25,2025-11-10T00:02:00,28,"5134 Jones Summit Apt. 629
+Justinton, FL 44871","[{'product_id': 33, 'qty': 1}]"
+ec-2025-11-10-26,2025-11-10T18:37:00,164,"424 Lane Parkway
+Brockbury, NE 61037","[{'product_id': 40, 'qty': 1}, {'product_id': 10, 'qty': 1}, {'product_id': 49, 'qty': 2}]"

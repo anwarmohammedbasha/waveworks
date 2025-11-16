@@ -1,0 +1,14 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-09-20-0,2025-09-20,2,1180.1,Nelson LLC,5
+exp-2025-09-20-1,2025-09-20,2,438.52,Shepard-Collins,4
+exp-2025-09-20-2,2025-09-20,4,1116.4,Kim-Page,4
+exp-2025-09-20-3,2025-09-20,4,1225.72,"Villa, Shelton and Moore",4
+exp-2025-09-20-4,2025-09-20,1,609.2,Johnson-Collins,5
+exp-2025-09-20-5,2025-09-20,2,107.22,"Lewis, Dorsey and Crawford",3
+exp-2025-09-20-6,2025-09-20,5,1628.07,Young Group,2
+exp-2025-09-20-7,2025-09-20,5,1060.48,Rivas and Sons,5
+exp-2025-09-20-8,2025-09-20,1,317.97,Sexton LLC,1
+exp-2025-09-20-9,2025-09-20,1,18.79,"Harris, Wilson and Wright",3
+exp-2025-09-20-10,2025-09-20,1,1308.22,"Le, Brown and Smith",4
+exp-2025-09-20-11,2025-09-20,4,302.12,Munoz Ltd,1
+exp-2025-09-20-12,2025-09-20,3,1484.97,Ross LLC,1

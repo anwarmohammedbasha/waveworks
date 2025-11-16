@@ -1,0 +1,59 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-09-23-0,2025-09-23T06:15:00,171,"595 Foster Via Suite 980
+Jamesport, GA 63955","[{'product_id': 4, 'qty': 1}, {'product_id': 34, 'qty': 1}, {'product_id': 13, 'qty': 1}]"
+ec-2025-09-23-1,2025-09-23T11:53:00,75,"71251 Mccall Alley
+Stephentown, LA 05423","[{'product_id': 17, 'qty': 1}]"
+ec-2025-09-23-2,2025-09-23T21:34:00,194,"9020 Vazquez Island
+Carrfort, AK 50827","[{'product_id': 39, 'qty': 2}]"
+ec-2025-09-23-3,2025-09-23T19:57:00,60,"08686 Shannon Keys
+West Sonya, SD 65461","[{'product_id': 31, 'qty': 1}]"
+ec-2025-09-23-4,2025-09-23T22:43:00,78,"5015 Miller Square Apt. 691
+Taylorburgh, MI 65877","[{'product_id': 21, 'qty': 2}, {'product_id': 30, 'qty': 1}]"
+ec-2025-09-23-5,2025-09-23T23:50:00,9,"974 Adrian Corners
+Jenniferton, FL 53849","[{'product_id': 9, 'qty': 1}, {'product_id': 7, 'qty': 2}]"
+ec-2025-09-23-6,2025-09-23T14:11:00,117,"488 Roach Fords
+South Ashleyfort, PW 83808","[{'product_id': 17, 'qty': 1}, {'product_id': 9, 'qty': 4}]"
+ec-2025-09-23-7,2025-09-23T02:57:00,171,"600 Cristian Ranch
+New Andrea, MI 34327","[{'product_id': 24, 'qty': 3}, {'product_id': 49, 'qty': 1}]"
+ec-2025-09-23-8,2025-09-23T05:41:00,195,"8114 Rose Prairie
+West Deborah, MS 87709","[{'product_id': 12, 'qty': 2}]"
+ec-2025-09-23-9,2025-09-23T08:47:00,135,"04980 Johnson Lights
+Norrisborough, AZ 08023","[{'product_id': 29, 'qty': 1}, {'product_id': 26, 'qty': 2}, {'product_id': 4, 'qty': 3}]"
+ec-2025-09-23-10,2025-09-23T14:28:00,147,"153 Gill Hills Apt. 969
+Julieside, NH 33402","[{'product_id': 28, 'qty': 2}, {'product_id': 16, 'qty': 3}, {'product_id': 40, 'qty': 1}]"
+ec-2025-09-23-11,2025-09-23T14:52:00,191,"08792 Morgan Trafficway
+North Kathleenborough, ID 65503","[{'product_id': 20, 'qty': 1}]"
+ec-2025-09-23-12,2025-09-23T11:27:00,9,"33184 Shelton Camp
+Calvinville, SD 87082","[{'product_id': 40, 'qty': 2}, {'product_id': 9, 'qty': 1}, {'product_id': 44, 'qty': 1}]"
+ec-2025-09-23-13,2025-09-23T07:46:00,174,"8506 Lang Land Apt. 533
+New Javier, NE 27769","[{'product_id': 49, 'qty': 1}]"
+ec-2025-09-23-14,2025-09-23T07:20:00,72,"91984 Michelle Stravenue Apt. 960
+East Sarahstad, MA 54055","[{'product_id': 36, 'qty': 1}, {'product_id': 33, 'qty': 1}, {'product_id': 23, 'qty': 2}]"
+ec-2025-09-23-15,2025-09-23T09:57:00,167,"393 Jason Hollow Apt. 170
+Roberttown, MD 60892","[{'product_id': 24, 'qty': 1}]"
+ec-2025-09-23-16,2025-09-23T20:44:00,63,"6735 Branch Flat
+East William, IN 11439","[{'product_id': 3, 'qty': 2}, {'product_id': 12, 'qty': 1}]"
+ec-2025-09-23-17,2025-09-23T08:06:00,28,"06218 Morales Motorway Apt. 427
+Laurabury, KY 16723","[{'product_id': 31, 'qty': 1}]"
+ec-2025-09-23-18,2025-09-23T12:55:00,120,"784 Bennett Springs Suite 632
+New Charlesside, MD 62287","[{'product_id': 5, 'qty': 2}, {'product_id': 8, 'qty': 1}, {'product_id': 2, 'qty': 1}]"
+ec-2025-09-23-19,2025-09-23T09:44:00,161,"87837 Wilson Ridge Suite 134
+Lauramouth, VT 87428","[{'product_id': 34, 'qty': 2}]"
+ec-2025-09-23-20,2025-09-23T10:12:00,64,"Unit 3963 Box 7736
+DPO AA 67391","[{'product_id': 24, 'qty': 1}, {'product_id': 15, 'qty': 2}, {'product_id': 3, 'qty': 1}]"
+ec-2025-09-23-21,2025-09-23T23:24:00,168,"250 Juan Inlet
+Brittanychester, CT 42624","[{'product_id': 38, 'qty': 1}, {'product_id': 42, 'qty': 2}, {'product_id': 7, 'qty': 1}]"
+ec-2025-09-23-22,2025-09-23T23:19:00,150,"34460 Joseph Roads Apt. 248
+Lisamouth, NV 53744","[{'product_id': 30, 'qty': 2}, {'product_id': 39, 'qty': 3}, {'product_id': 22, 'qty': 3}]"
+ec-2025-09-23-23,2025-09-23T02:11:00,116,"25924 Wong Club Suite 034
+Pricetown, LA 79148","[{'product_id': 33, 'qty': 2}]"
+ec-2025-09-23-24,2025-09-23T23:23:00,158,"78907 Smith Road Apt. 625
+Port Trevorview, VT 33701","[{'product_id': 47, 'qty': 2}]"
+ec-2025-09-23-25,2025-09-23T17:11:00,126,"6273 Terry Skyway
+South Karenton, KS 31546","[{'product_id': 10, 'qty': 2}, {'product_id': 16, 'qty': 3}, {'product_id': 26, 'qty': 1}]"
+ec-2025-09-23-26,2025-09-23T10:59:00,114,"955 Daniel Locks
+New Johnshire, PA 74253","[{'product_id': 28, 'qty': 1}, {'product_id': 50, 'qty': 1}]"
+ec-2025-09-23-27,2025-09-23T12:15:00,36,"USS Wilkins
+FPO AE 57798","[{'product_id': 29, 'qty': 2}, {'product_id': 32, 'qty': 3}, {'product_id': 23, 'qty': 2}]"
+ec-2025-09-23-28,2025-09-23T20:18:00,190,"1053 Larry Road
+Frederickstad, FL 17813","[{'product_id': 6, 'qty': 1}, {'product_id': 17, 'qty': 2}, {'product_id': 18, 'qty': 1}]"

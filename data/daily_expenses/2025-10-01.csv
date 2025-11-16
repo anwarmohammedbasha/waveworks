@@ -1,0 +1,10 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-01-0,2025-10-01,1,108.58,"Arellano, Tran and Scott",4
+exp-2025-10-01-1,2025-10-01,1,274.77,"Kennedy, Ramirez and Walters",3
+exp-2025-10-01-2,2025-10-01,4,1869.55,Rice-Ramsey,3
+exp-2025-10-01-3,2025-10-01,3,1963.15,Singleton-Cook,2
+exp-2025-10-01-4,2025-10-01,1,644.86,Collins-Cobb,5
+exp-2025-10-01-5,2025-10-01,3,1390.04,"Meyer, Wheeler and Ryan",2
+exp-2025-10-01-6,2025-10-01,5,190.22,Mcintyre Group,5
+exp-2025-10-01-7,2025-10-01,1,1439.55,Bates Ltd,3
+exp-2025-10-01-8,2025-10-01,3,1063.49,Powell-Hampton,3

@@ -1,0 +1,15 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-12-0,2025-11-12,3,893.95,Solis-Hall,3
+exp-2025-11-12-1,2025-11-12,3,978.25,James Group,4
+exp-2025-11-12-2,2025-11-12,5,1090.18,"Allen, Ward and Roberts",3
+exp-2025-11-12-3,2025-11-12,5,1056.17,Mcclure-Lynch,4
+exp-2025-11-12-4,2025-11-12,4,1212.97,Moore-Maynard,5
+exp-2025-11-12-5,2025-11-12,2,981.26,"Moore, Miranda and Saunders",1
+exp-2025-11-12-6,2025-11-12,5,1980.91,Morgan LLC,3
+exp-2025-11-12-7,2025-11-12,4,908.32,Wright Ltd,4
+exp-2025-11-12-8,2025-11-12,2,737.58,Stephens-Hernandez,3
+exp-2025-11-12-9,2025-11-12,2,1704.96,"Chandler, Hoffman and Bell",1
+exp-2025-11-12-10,2025-11-12,4,320.56,Burke Ltd,3
+exp-2025-11-12-11,2025-11-12,4,740.25,"Singh, Blake and Miller",1
+exp-2025-11-12-12,2025-11-12,4,27.44,Vazquez and Sons,3
+exp-2025-11-12-13,2025-11-12,3,231.35,Jenkins-White,4

@@ -1,0 +1,14 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-09-29-0,2025-09-29,2,169.06,"Briggs, Barrett and Miller",3
+exp-2025-09-29-1,2025-09-29,4,1494.34,"Paul, Hill and Johnson",5
+exp-2025-09-29-2,2025-09-29,3,1461.1,"Schmitt, Jordan and Stephens",4
+exp-2025-09-29-3,2025-09-29,4,1609.77,"Anderson, Johnson and Hebert",2
+exp-2025-09-29-4,2025-09-29,4,367.81,Bonilla-Crawford,5
+exp-2025-09-29-5,2025-09-29,4,1846.47,Taylor Inc,1
+exp-2025-09-29-6,2025-09-29,2,1500.59,Smith-Lopez,5
+exp-2025-09-29-7,2025-09-29,3,42.72,Henderson-Watts,5
+exp-2025-09-29-8,2025-09-29,4,21.82,Sandoval Inc,5
+exp-2025-09-29-9,2025-09-29,4,106.35,Martinez PLC,1
+exp-2025-09-29-10,2025-09-29,4,480.64,"Blackwell, Mathis and Ritter",2
+exp-2025-09-29-11,2025-09-29,4,1660.18,Saunders-Sharp,2
+exp-2025-09-29-12,2025-09-29,5,1775.33,Johnson-Anderson,4

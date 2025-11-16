@@ -1,0 +1,56 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-13-0,2025-11-13T02:29:00,5,"03275 David Tunnel
+Kinghaven, VI 48862","[{'product_id': 46, 'qty': 3}, {'product_id': 10, 'qty': 1}, {'product_id': 19, 'qty': 2}]"
+ec-2025-11-13-1,2025-11-13T04:41:00,89,"53525 Jacob Ways
+Lake Justin, WI 82637","[{'product_id': 23, 'qty': 1}, {'product_id': 19, 'qty': 2}]"
+ec-2025-11-13-2,2025-11-13T22:44:00,137,"1076 Watson Branch
+Port Tommy, CT 80880","[{'product_id': 38, 'qty': 1}]"
+ec-2025-11-13-3,2025-11-13T06:04:00,125,"1526 Washington Wall Suite 756
+Port Albert, MP 57216","[{'product_id': 49, 'qty': 1}, {'product_id': 46, 'qty': 1}]"
+ec-2025-11-13-4,2025-11-13T07:59:00,149,"02740 Kimberly Crossing
+Sarahburgh, CA 05658","[{'product_id': 12, 'qty': 2}, {'product_id': 36, 'qty': 3}, {'product_id': 11, 'qty': 2}]"
+ec-2025-11-13-5,2025-11-13T06:30:00,98,"86775 Wells Pine
+Port Tracy, NM 28710","[{'product_id': 41, 'qty': 1}, {'product_id': 11, 'qty': 2}, {'product_id': 42, 'qty': 1}]"
+ec-2025-11-13-6,2025-11-13T14:33:00,133,,"[{'product_id': 3, 'qty': 1}, {'product_id': 15, 'qty': 3}, {'product_id': 23, 'qty': 2}]"
+ec-2025-11-13-7,2025-11-13T22:12:00,60,"3446 Charles Street
+South Savannah, TX 97776","[{'product_id': 39, 'qty': 1}, {'product_id': 24, 'qty': 1}, {'product_id': 6, 'qty': 1}]"
+ec-2025-11-13-8,2025-11-13T14:33:00,175,"9108 Elliott Lake
+North Timothy, PA 45578","[{'product_id': 44, 'qty': 2}]"
+ec-2025-11-13-9,2025-11-13T08:30:00,80,"71133 Billy Islands Suite 581
+Port Molly, GA 75397","[{'product_id': 4, 'qty': 2}, {'product_id': 23, 'qty': 3}, {'product_id': 42, 'qty': 2}]"
+ec-2025-11-13-10,2025-11-13T00:06:00,127,"4112 Gonzalez Mountain Apt. 027
+Oscarborough, OR 27282","[{'product_id': 47, 'qty': 1}]"
+ec-2025-11-13-11,2025-11-13T10:09:00,145,"37179 Phillips Gateway
+Claytonview, UT 26946","[{'product_id': 40, 'qty': 1}, {'product_id': 40, 'qty': 2}, {'product_id': 23, 'qty': 1}]"
+ec-2025-11-13-12,2025-11-13T15:34:00,97,"0253 Anderson Court Apt. 674
+Port Amanda, ME 93110","[{'product_id': 27, 'qty': 2}, {'product_id': 35, 'qty': 2}, {'product_id': 1, 'qty': 2}]"
+ec-2025-11-13-13,2025-11-13T12:14:00,19,"326 Jackson Squares
+Olsonborough, IA 90349","[{'product_id': 36, 'qty': 1}, {'product_id': 18, 'qty': 1}]"
+ec-2025-11-13-14,2025-11-13T05:50:00,42,"687 Crystal Via Apt. 435
+Johnhaven, IL 29963","[{'product_id': 22, 'qty': 1}, {'product_id': 22, 'qty': 3}, {'product_id': 13, 'qty': 3}]"
+ec-2025-11-13-15,2025-11-13T01:10:00,191,"90204 Ana Bridge
+Timothyhaven, PW 31105","[{'product_id': 23, 'qty': 1}]"
+ec-2025-11-13-16,2025-11-13T07:06:00,169,"425 Lauren Mount Suite 090
+Port Jacquelinetown, ND 64336","[{'product_id': 48, 'qty': 3}]"
+ec-2025-11-13-17,2025-11-13T03:23:00,7,"29086 Williamson Run Apt. 718
+North David, PA 72218","[{'product_id': 20, 'qty': 1}, {'product_id': 28, 'qty': 3}]"
+ec-2025-11-13-18,2025-11-13T07:49:00,103,"5675 Stephanie Rapid Suite 861
+North Tyler, AS 80804","[{'product_id': 39, 'qty': 3}, {'product_id': 47, 'qty': 2}, {'product_id': 2, 'qty': 1}]"
+ec-2025-11-13-19,2025-11-13T16:57:00,37,"PSC 3497, Box 3090
+APO AA 40062","[{'product_id': 9, 'qty': 3}, {'product_id': 27, 'qty': 2}]"
+ec-2025-11-13-20,2025-11-13T17:08:00,120,"41918 Bradford Roads
+West Joshua, RI 14284","[{'product_id': 46, 'qty': 1}]"
+ec-2025-11-13-21,2025-11-13T06:46:00,174,"0074 Drake Dam Apt. 164
+South Wendy, IN 40169","[{'product_id': 35, 'qty': 2}, {'product_id': 29, 'qty': 2}, {'product_id': 5, 'qty': 3}]"
+ec-2025-11-13-22,2025-11-13T21:14:00,168,"1767 Johnson Shore Suite 445
+Lake Brianna, OR 75793","[{'product_id': 23, 'qty': 1}]"
+ec-2025-11-13-23,2025-11-13T10:29:00,173,"054 Raymond Crossing
+Smithfurt, UT 43751","[{'product_id': 48, 'qty': 1}, {'product_id': 8, 'qty': 2}, {'product_id': 5, 'qty': 2}]"
+ec-2025-11-13-24,2025-11-13T10:49:00,149,"PSC 3304, Box 7434
+APO AA 58405","[{'product_id': 14, 'qty': 1}, {'product_id': 5, 'qty': 3}]"
+ec-2025-11-13-25,2025-11-13T07:01:00,62,"20872 Anthony Dale
+Larryfort, OH 14386","[{'product_id': 2, 'qty': 2}]"
+ec-2025-11-13-26,2025-11-13T18:15:00,129,"1435 Joshua Groves
+West Rickey, ID 92107","[{'product_id': 4, 'qty': 2}]"
+ec-2025-11-13-27,2025-11-13T11:24:00,149,"2105 Molly Extension Apt. 886
+Port Jose, MP 09757","[{'product_id': 2, 'qty': 1}, {'product_id': 2, 'qty': 2}, {'product_id': 7, 'qty': 4}]"

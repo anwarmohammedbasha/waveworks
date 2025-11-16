@@ -1,0 +1,14 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-24-0,2025-10-24,4,779.34,Johnson-Hernandez,5
+exp-2025-10-24-1,2025-10-24,3,1636.42,Anderson-Rodriguez,4
+exp-2025-10-24-2,2025-10-24,4,582.73,Johnson-Griffin,2
+exp-2025-10-24-3,2025-10-24,5,1622.63,King-Cabrera,5
+exp-2025-10-24-4,2025-10-24,4,584.34,Austin PLC,2
+exp-2025-10-24-5,2025-10-24,2,771.8,Griffin PLC,2
+exp-2025-10-24-6,2025-10-24,4,1923.87,Malone Inc,1
+exp-2025-10-24-7,2025-10-24,5,1454.76,Maynard-Trujillo,2
+exp-2025-10-24-8,2025-10-24,1,1120.08,"Yu, Freeman and Gallegos",4
+exp-2025-10-24-9,2025-10-24,4,924.76,"Coleman, Townsend and Scott",4
+exp-2025-10-24-10,2025-10-24,4,833.59,Black LLC,1
+exp-2025-10-24-11,2025-10-24,2,1994.79,"Ford, Alexander and Allen",2
+exp-2025-10-24-12,2025-10-24,3,356.05,Hampton Ltd,1

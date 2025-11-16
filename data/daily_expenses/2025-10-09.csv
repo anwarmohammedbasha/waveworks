@@ -1,0 +1,14 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-09-0,2025-10-09,4,879.51,"Bryant, Becker and Hill",2
+exp-2025-10-09-1,2025-10-09,2,1820.14,Vasquez-Nixon,5
+exp-2025-10-09-2,2025-10-09,3,1878.7,Rodriguez LLC,2
+exp-2025-10-09-3,2025-10-09,3,801.41,Hill-Alvarez,5
+exp-2025-10-09-4,2025-10-09,4,137.79,Davidson-Schultz,5
+exp-2025-10-09-5,2025-10-09,5,291.27,Estrada-Silva,2
+exp-2025-10-09-6,2025-10-09,4,1056.46,Lopez-Schmidt,4
+exp-2025-10-09-7,2025-10-09,1,666.36,Jones-Lopez,3
+exp-2025-10-09-8,2025-10-09,1,390.99,"Thompson, Williams and Pierce",1
+exp-2025-10-09-9,2025-10-09,2,1398.84,Reed Ltd,3
+exp-2025-10-09-10,2025-10-09,4,618.84,Shepard-Mercer,5
+exp-2025-10-09-11,2025-10-09,5,1077.6,"Jones, Castro and Mckinney",3
+exp-2025-10-09-12,2025-10-09,4,58.76,Nelson Ltd,5

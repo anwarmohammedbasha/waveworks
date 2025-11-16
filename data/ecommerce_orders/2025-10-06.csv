@@ -1,0 +1,51 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-06-0,2025-10-06T13:40:00,66,"9860 Donald Lights
+Morganfort, WY 14860","[{'product_id': 20, 'qty': 2}, {'product_id': 7, 'qty': 1}]"
+ec-2025-10-06-1,2025-10-06T01:15:00,83,"898 Wilson Ranch Suite 023
+South Curtishaven, AR 57697","[{'product_id': 49, 'qty': 1}, {'product_id': 15, 'qty': 1}, {'product_id': 17, 'qty': 1}]"
+ec-2025-10-06-2,2025-10-06T19:25:00,9,"938 Caroline Plaza
+Cherryberg, MH 87370","[{'product_id': 46, 'qty': 2}, {'product_id': 15, 'qty': 1}, {'product_id': 20, 'qty': 3}]"
+ec-2025-10-06-3,2025-10-06T03:54:00,181,"73602 Justin Walks
+Justinchester, KS 03385","[{'product_id': 44, 'qty': 3}, {'product_id': 4, 'qty': 2}]"
+ec-2025-10-06-4,2025-10-06T12:45:00,144,"86566 Martin Stravenue
+East Colin, AL 29096","[{'product_id': 26, 'qty': 2}]"
+ec-2025-10-06-5,2025-10-06T18:35:00,37,"382 Burton Islands Apt. 656
+Kellyview, ID 32319","[{'product_id': 1, 'qty': 1}, {'product_id': 22, 'qty': 2}]"
+ec-2025-10-06-6,2025-10-06T08:25:00,18,"USNV Arnold
+FPO AE 94223","[{'product_id': 26, 'qty': 1}, {'product_id': 22, 'qty': 1}, {'product_id': 11, 'qty': 1}]"
+ec-2025-10-06-7,2025-10-06T05:56:00,29,"343 Shaw Coves
+Patrickhaven, OH 13315","[{'product_id': 49, 'qty': 2}, {'product_id': 2, 'qty': 1}, {'product_id': 24, 'qty': 1}]"
+ec-2025-10-06-8,2025-10-06T09:25:00,132,,"[{'product_id': 15, 'qty': 3}, {'product_id': 35, 'qty': 5}, {'product_id': 15, 'qty': 2}]"
+ec-2025-10-06-9,2025-10-06T06:33:00,175,"8641 Margaret Curve Apt. 180
+South John, VA 63944","[{'product_id': 6, 'qty': 1}, {'product_id': 1, 'qty': 1}, {'product_id': 21, 'qty': 2}]"
+ec-2025-10-06-10,2025-10-06T02:52:00,123,"PSC 7687, Box 4545
+APO AA 40918","[{'product_id': 25, 'qty': 1}, {'product_id': 46, 'qty': 1}]"
+ec-2025-10-06-11,2025-10-06T11:46:00,32,,"[{'product_id': 48, 'qty': 2}]"
+ec-2025-10-06-12,2025-10-06T03:01:00,39,"212 William Causeway Apt. 977
+West Wesleymouth, SD 84993","[{'product_id': 13, 'qty': 2}]"
+ec-2025-10-06-13,2025-10-06T02:57:00,147,"680 Anthony Mount Suite 425
+Adamstown, NV 55540","[{'product_id': 41, 'qty': 1}, {'product_id': 38, 'qty': 1}, {'product_id': 1, 'qty': 2}]"
+ec-2025-10-06-14,2025-10-06T20:34:00,117,"79870 Jeremy Green
+Kendrachester, MT 17600","[{'product_id': 6, 'qty': 1}, {'product_id': 32, 'qty': 1}]"
+ec-2025-10-06-15,2025-10-06T11:47:00,106,"08366 Garza Spurs
+New Martha, PA 40807","[{'product_id': 37, 'qty': 1}]"
+ec-2025-10-06-16,2025-10-06T10:21:00,19,"803 Acosta Fork Suite 775
+West Maria, CT 75013","[{'product_id': 25, 'qty': 2}, {'product_id': 26, 'qty': 2}, {'product_id': 17, 'qty': 1}]"
+ec-2025-10-06-17,2025-10-06T21:39:00,162,"277 Franklin Run
+East Wendyberg, FL 00914","[{'product_id': 14, 'qty': 1}, {'product_id': 16, 'qty': 1}]"
+ec-2025-10-06-18,2025-10-06T03:56:00,194,"774 Ashley Inlet
+Wadeview, IA 86017","[{'product_id': 30, 'qty': 2}, {'product_id': 30, 'qty': 2}]"
+ec-2025-10-06-19,2025-10-06T02:04:00,3,"49902 Carmen Tunnel Apt. 318
+Howardstad, AR 31355","[{'product_id': 20, 'qty': 1}]"
+ec-2025-10-06-20,2025-10-06T11:04:00,168,"15675 Kirk Path Apt. 129
+Perezport, FL 17460","[{'product_id': 46, 'qty': 1}, {'product_id': 15, 'qty': 2}, {'product_id': 6, 'qty': 1}]"
+ec-2025-10-06-21,2025-10-06T08:04:00,12,"279 Dana Mission
+Lisaville, PA 48265","[{'product_id': 17, 'qty': 1}]"
+ec-2025-10-06-22,2025-10-06T19:48:00,108,"9113 Thompson Spring Apt. 983
+Woodland, MI 16361","[{'product_id': 47, 'qty': 1}, {'product_id': 32, 'qty': 2}, {'product_id': 17, 'qty': 2}]"
+ec-2025-10-06-23,2025-10-06T00:00:00,78,"5806 Lindsey Coves
+Parkershire, DE 29919","[{'product_id': 3, 'qty': 1}, {'product_id': 38, 'qty': 1}, {'product_id': 29, 'qty': 3}]"
+ec-2025-10-06-24,2025-10-06T07:24:00,30,"513 Kelly Walk
+East Christie, MN 41232","[{'product_id': 25, 'qty': 2}, {'product_id': 19, 'qty': 2}]"
+ec-2025-10-06-25,2025-10-06T05:32:00,124,"40488 Brandon Extensions Apt. 838
+Scotthaven, IL 59209","[{'product_id': 50, 'qty': 3}, {'product_id': 24, 'qty': 1}, {'product_id': 38, 'qty': 1}]"

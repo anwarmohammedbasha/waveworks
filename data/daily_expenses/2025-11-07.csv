@@ -1,0 +1,13 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-07-0,2025-11-07,1,925.42,Hill and Sons,5
+exp-2025-11-07-1,2025-11-07,5,1264.91,"Jackson, Carroll and Alexander",2
+exp-2025-11-07-2,2025-11-07,4,1643.11,"Davis, Perry and Blake",1
+exp-2025-11-07-3,2025-11-07,1,371.23,Smith PLC,4
+exp-2025-11-07-4,2025-11-07,3,1138.64,Newman and Sons,4
+exp-2025-11-07-5,2025-11-07,4,989.63,Santos-Levine,5
+exp-2025-11-07-6,2025-11-07,2,444.72,Branch Inc,1
+exp-2025-11-07-7,2025-11-07,1,218.71,"Evans, Cooper and Mathis",2
+exp-2025-11-07-8,2025-11-07,3,1572.68,Burke Ltd,1
+exp-2025-11-07-9,2025-11-07,4,1554.38,Brown-Harris,5
+exp-2025-11-07-10,2025-11-07,3,732.72,Thomas LLC,1
+exp-2025-11-07-11,2025-11-07,2,460.58,"Wilkinson, Anderson and Phillips",3

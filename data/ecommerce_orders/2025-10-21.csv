@@ -1,0 +1,27 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-21-0,2025-10-21T05:48:00,141,"21841 Sarah Cape Apt. 489
+West Angel, VT 65137","[{'product_id': 2, 'qty': 1}, {'product_id': 20, 'qty': 1}]"
+ec-2025-10-21-1,2025-10-21T01:25:00,196,"958 Rivera Roads
+Rhondaside, WI 03127","[{'product_id': 22, 'qty': 1}]"
+ec-2025-10-21-2,2025-10-21T11:40:00,87,"1586 Houston Spurs Apt. 615
+Port Sara, MT 05524","[{'product_id': 34, 'qty': 1}, {'product_id': 44, 'qty': 1}]"
+ec-2025-10-21-3,2025-10-21T07:36:00,149,"0291 Miles Manor
+North Adamstad, KS 09951","[{'product_id': 42, 'qty': 2}, {'product_id': 27, 'qty': 2}]"
+ec-2025-10-21-4,2025-10-21T16:16:00,143,"USNS Mathis
+FPO AA 76768","[{'product_id': 24, 'qty': 2}]"
+ec-2025-10-21-5,2025-10-21T09:44:00,103,"472 Christian Springs
+Nortonmouth, KY 86486","[{'product_id': 15, 'qty': 1}, {'product_id': 34, 'qty': 1}]"
+ec-2025-10-21-6,2025-10-21T11:43:00,98,"18390 Lauren Street
+North Daniel, IA 15566","[{'product_id': 18, 'qty': 3}, {'product_id': 33, 'qty': 1}]"
+ec-2025-10-21-7,2025-10-21T22:54:00,111,"Unit 5782 Box 4377
+DPO AA 22713","[{'product_id': 14, 'qty': 1}]"
+ec-2025-10-21-8,2025-10-21T06:23:00,183,"403 Lloyd Fall Apt. 742
+New Matthewchester, MH 65088","[{'product_id': 45, 'qty': 2}]"
+ec-2025-10-21-9,2025-10-21T11:16:00,91,"55849 Petty Courts
+South Ginabury, TX 99575","[{'product_id': 29, 'qty': 3}, {'product_id': 2, 'qty': 3}, {'product_id': 11, 'qty': 2}]"
+ec-2025-10-21-10,2025-10-21T08:09:00,174,"684 Monique Unions
+Lake Mark, GU 40727","[{'product_id': 38, 'qty': 2}, {'product_id': 18, 'qty': 1}]"
+ec-2025-10-21-11,2025-10-21T05:26:00,108,"324 Robles Mill Apt. 461
+West Amanda, NY 71598","[{'product_id': 27, 'qty': 3}, {'product_id': 21, 'qty': 2}]"
+ec-2025-10-21-12,2025-10-21T07:02:00,16,"3657 Miller Pike Suite 916
+Weeksville, KS 04648","[{'product_id': 4, 'qty': 2}, {'product_id': 37, 'qty': 4}, {'product_id': 33, 'qty': 2}]"

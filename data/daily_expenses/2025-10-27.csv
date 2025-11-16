@@ -1,0 +1,10 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-27-0,2025-10-27,3,288.82,"Jones, Newman and Solis",1
+exp-2025-10-27-1,2025-10-27,1,1103.68,Newman-Carey,2
+exp-2025-10-27-2,2025-10-27,4,444.19,Meyer-Holden,3
+exp-2025-10-27-3,2025-10-27,4,1788.32,"Harvey, Powell and Gordon",3
+exp-2025-10-27-4,2025-10-27,5,1518.29,George Ltd,4
+exp-2025-10-27-5,2025-10-27,4,757.5,Rogers Ltd,1
+exp-2025-10-27-6,2025-10-27,3,609.82,Richardson-Brown,5
+exp-2025-10-27-7,2025-10-27,3,14.94,Underwood-Perez,3
+exp-2025-10-27-8,2025-10-27,3,136.46,"Williams, Obrien and Hawkins",2

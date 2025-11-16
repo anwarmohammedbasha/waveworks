@@ -1,0 +1,32 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-09-24-0,2025-09-24T00:12:00,34,"48948 Mcguire Overpass
+West Michaelside, OK 17442","[{'product_id': 48, 'qty': 2}, {'product_id': 34, 'qty': 2}]"
+ec-2025-09-24-1,2025-09-24T20:55:00,9,"1280 Hayes Heights
+Hoffmanberg, MH 17313","[{'product_id': 20, 'qty': 3}, {'product_id': 41, 'qty': 1}, {'product_id': 39, 'qty': 2}]"
+ec-2025-09-24-2,2025-09-24T10:47:00,129,"0034 Wilson Field
+Willischester, IN 66130","[{'product_id': 4, 'qty': 2}, {'product_id': 18, 'qty': 3}]"
+ec-2025-09-24-3,2025-09-24T00:17:00,155,"259 Grace Causeway Suite 072
+Elizabethstad, IN 11387","[{'product_id': 18, 'qty': 1}]"
+ec-2025-09-24-4,2025-09-24T23:11:00,90,"6526 Tyler Village Apt. 139
+Port Charles, OR 57171","[{'product_id': 35, 'qty': 2}]"
+ec-2025-09-24-5,2025-09-24T04:59:00,62,"8099 Jessica Bypass
+Terrytown, AS 92696","[{'product_id': 33, 'qty': 2}, {'product_id': 16, 'qty': 2}, {'product_id': 36, 'qty': 1}]"
+ec-2025-09-24-6,2025-09-24T02:26:00,13,"5282 Wesley Mission
+South Brookestad, LA 64949","[{'product_id': 7, 'qty': 1}, {'product_id': 16, 'qty': 2}]"
+ec-2025-09-24-7,2025-09-24T03:25:00,140,"0010 Joel Wells
+West Deniseshire, PW 89383","[{'product_id': 1, 'qty': 2}]"
+ec-2025-09-24-8,2025-09-24T03:21:00,61,"9901 William Lane Apt. 647
+Lake Michelleborough, NH 91962","[{'product_id': 11, 'qty': 1}, {'product_id': 3, 'qty': 2}, {'product_id': 50, 'qty': 1}]"
+ec-2025-09-24-9,2025-09-24T02:37:00,193,"46165 Clay Shores
+Amandamouth, VI 21724","[{'product_id': 8, 'qty': 1}, {'product_id': 47, 'qty': 2}, {'product_id': 27, 'qty': 1}]"
+ec-2025-09-24-10,2025-09-24T00:18:00,61,"739 Anthony Walks Suite 094
+North Michellefurt, TN 32408","[{'product_id': 43, 'qty': 1}, {'product_id': 45, 'qty': 1}, {'product_id': 31, 'qty': 3}]"
+ec-2025-09-24-11,2025-09-24T20:29:00,4,"071 James Plains Suite 681
+Ashleychester, UT 61235","[{'product_id': 38, 'qty': 1}, {'product_id': 46, 'qty': 1}, {'product_id': 31, 'qty': 3}]"
+ec-2025-09-24-12,2025-09-24T06:17:00,12,,"[{'product_id': 9, 'qty': 3}, {'product_id': 7, 'qty': 2}]"
+ec-2025-09-24-13,2025-09-24T01:43:00,122,"59585 Miranda Rapids
+Donaldland, PR 38249","[{'product_id': 8, 'qty': 1}, {'product_id': 24, 'qty': 2}]"
+ec-2025-09-24-14,2025-09-24T00:56:00,168,"294 Pierce Cape
+Port Wanda, CT 12876","[{'product_id': 21, 'qty': 2}, {'product_id': 1, 'qty': 2}, {'product_id': 34, 'qty': 1}]"
+ec-2025-09-24-15,2025-09-24T19:56:00,193,"7535 Ramos Stravenue
+North Jason, LA 22632","[{'product_id': 42, 'qty': 3}, {'product_id': 20, 'qty': 1}]"

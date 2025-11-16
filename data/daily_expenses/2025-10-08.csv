@@ -1,0 +1,16 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-08-0,2025-10-08,3,1892.27,Rodriguez-Peterson,3
+exp-2025-10-08-1,2025-10-08,5,901.16,Hernandez Ltd,4
+exp-2025-10-08-2,2025-10-08,5,425.64,Ryan-Morris,2
+exp-2025-10-08-3,2025-10-08,5,1400.98,Carter-Price,4
+exp-2025-10-08-4,2025-10-08,5,1678.9,Schmidt Ltd,5
+exp-2025-10-08-5,2025-10-08,1,522.8,Thompson Group,5
+exp-2025-10-08-6,2025-10-08,4,78.42,"Ryan, Schmidt and Smith",3
+exp-2025-10-08-7,2025-10-08,3,38.27,Wilson-Fisher,2
+exp-2025-10-08-8,2025-10-08,2,1648.86,Jenkins Ltd,4
+exp-2025-10-08-9,2025-10-08,3,440.79,James-Cruz,2
+exp-2025-10-08-10,2025-10-08,5,521.95,Hartman Group,2
+exp-2025-10-08-11,2025-10-08,1,322.33,Riddle and Sons,5
+exp-2025-10-08-12,2025-10-08,1,1324.46,"Williams, White and Mclean",3
+exp-2025-10-08-13,2025-10-08,5,583.75,Crane-Schmitt,2
+exp-2025-10-08-14,2025-10-08,3,42.4,"Beard, Maldonado and Lee",2

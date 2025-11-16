@@ -1,0 +1,38 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-27-0,2025-10-27T20:21:00,155,"071 Brooke Dam Suite 918
+Kennedyport, MN 27208","[{'product_id': 39, 'qty': 1}, {'product_id': 19, 'qty': 3}]"
+ec-2025-10-27-1,2025-10-27T11:52:00,83,"Unit 2628 Box 5580
+DPO AA 74690","[{'product_id': 27, 'qty': 2}, {'product_id': 24, 'qty': 1}]"
+ec-2025-10-27-2,2025-10-27T12:33:00,51,"6673 Cynthia Field Apt. 362
+West Sabrina, MN 90451","[{'product_id': 33, 'qty': 2}]"
+ec-2025-10-27-3,2025-10-27T16:44:00,56,,"[{'product_id': 48, 'qty': 2}]"
+ec-2025-10-27-4,2025-10-27T04:59:00,189,"27017 Natalie Valley Apt. 145
+Chrisville, TX 20953","[{'product_id': 14, 'qty': 1}, {'product_id': 25, 'qty': 1}]"
+ec-2025-10-27-5,2025-10-27T05:43:00,90,"503 Clay Mews
+Wilcoxburgh, WY 67765","[{'product_id': 30, 'qty': 1}, {'product_id': 14, 'qty': 1}, {'product_id': 11, 'qty': 1}]"
+ec-2025-10-27-6,2025-10-27T06:58:00,73,"932 Hansen Street
+Lake Saramouth, DE 12068","[{'product_id': 18, 'qty': 1}, {'product_id': 5, 'qty': 1}]"
+ec-2025-10-27-7,2025-10-27T14:32:00,171,"337 Davis Cove
+Port Melinda, FM 50914","[{'product_id': 38, 'qty': 2}]"
+ec-2025-10-27-8,2025-10-27T10:19:00,141,"Unit 4497 Box 7968
+DPO AP 79244","[{'product_id': 47, 'qty': 2}, {'product_id': 47, 'qty': 3}]"
+ec-2025-10-27-9,2025-10-27T05:15:00,106,"3974 Brian Center
+North Kaitlinside, PR 78150","[{'product_id': 50, 'qty': 2}, {'product_id': 50, 'qty': 1}]"
+ec-2025-10-27-10,2025-10-27T23:34:00,51,"69386 Jeffrey Parks Apt. 896
+Morganmouth, OH 64735","[{'product_id': 23, 'qty': 1}, {'product_id': 40, 'qty': 1}, {'product_id': 6, 'qty': 3}]"
+ec-2025-10-27-11,2025-10-27T16:31:00,111,"USS Bell
+FPO AP 63679","[{'product_id': 43, 'qty': 2}, {'product_id': 7, 'qty': 2}, {'product_id': 27, 'qty': 1}]"
+ec-2025-10-27-12,2025-10-27T22:25:00,170,"Unit 9297 Box 7395
+DPO AE 73389","[{'product_id': 7, 'qty': 4}, {'product_id': 1, 'qty': 1}, {'product_id': 16, 'qty': 3}]"
+ec-2025-10-27-13,2025-10-27T09:16:00,108,"870 Fitzpatrick Roads
+West Peter, MT 96177","[{'product_id': 20, 'qty': 1}, {'product_id': 14, 'qty': 3}, {'product_id': 45, 'qty': 2}]"
+ec-2025-10-27-14,2025-10-27T15:02:00,197,"PSC 7480, Box 2280
+APO AE 01873","[{'product_id': 48, 'qty': 1}]"
+ec-2025-10-27-15,2025-10-27T11:06:00,34,"40001 Michael Square
+Rayton, ME 19602","[{'product_id': 2, 'qty': 1}, {'product_id': 23, 'qty': 1}, {'product_id': 6, 'qty': 1}]"
+ec-2025-10-27-16,2025-10-27T10:20:00,190,"0709 Molina Fort Suite 583
+North Kathyland, HI 31718","[{'product_id': 38, 'qty': 1}]"
+ec-2025-10-27-17,2025-10-27T18:02:00,193,"0309 Daniel Rapid Suite 150
+North Ronald, TX 51546","[{'product_id': 29, 'qty': 1}]"
+ec-2025-10-27-18,2025-10-27T12:06:00,12,"133 Kenneth Fords
+Tylershire, IN 78601","[{'product_id': 33, 'qty': 3}, {'product_id': 21, 'qty': 1}]"

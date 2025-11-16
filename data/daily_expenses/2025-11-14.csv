@@ -1,0 +1,8 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-14-0,2025-11-14,1,12.56,James PLC,5
+exp-2025-11-14-1,2025-11-14,3,910.22,Mercado Group,2
+exp-2025-11-14-2,2025-11-14,3,1780.91,Norris-Olsen,1
+exp-2025-11-14-3,2025-11-14,2,350.29,Sanchez-Neal,3
+exp-2025-11-14-4,2025-11-14,2,644.18,Nelson PLC,4
+exp-2025-11-14-5,2025-11-14,2,337.82,Delacruz PLC,5
+exp-2025-11-14-6,2025-11-14,2,923.92,Grant-Nelson,4

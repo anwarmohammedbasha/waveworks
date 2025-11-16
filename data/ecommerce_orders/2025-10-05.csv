@@ -1,0 +1,11 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-05-0,2025-10-05T14:23:00,170,"926 Williams Expressway
+North Timothymouth, KS 53724","[{'product_id': 7, 'qty': 2}, {'product_id': 30, 'qty': 1}]"
+ec-2025-10-05-1,2025-10-05T12:52:00,37,"9398 Lester Parkways
+Christinehaven, KY 14767","[{'product_id': 1, 'qty': 1}, {'product_id': 45, 'qty': 2}]"
+ec-2025-10-05-2,2025-10-05T02:14:00,163,"USCGC Collins
+FPO AE 15976","[{'product_id': 32, 'qty': 2}]"
+ec-2025-10-05-3,2025-10-05T17:52:00,133,"USS Miller
+FPO AA 91233","[{'product_id': 43, 'qty': 2}]"
+ec-2025-10-05-4,2025-10-05T10:13:00,27,"24341 Silva Roads
+West Sarah, IA 12534","[{'product_id': 15, 'qty': 4}, {'product_id': 43, 'qty': 2}, {'product_id': 11, 'qty': 1}]"

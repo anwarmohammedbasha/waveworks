@@ -1,0 +1,12 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-13-0,2025-11-13,4,1723.68,Moore Ltd,5
+exp-2025-11-13-1,2025-11-13,4,1558.28,Meza-Garner,1
+exp-2025-11-13-2,2025-11-13,1,1937.15,Taylor-Thompson,4
+exp-2025-11-13-3,2025-11-13,4,1087.58,Ruiz-Webb,3
+exp-2025-11-13-4,2025-11-13,1,976.86,Smith PLC,1
+exp-2025-11-13-5,2025-11-13,4,821.21,Morales-Jenkins,1
+exp-2025-11-13-6,2025-11-13,1,708.84,"Rodriguez, Hill and Johnson",2
+exp-2025-11-13-7,2025-11-13,2,466.44,"Silva, Lopez and Scott",2
+exp-2025-11-13-8,2025-11-13,2,1116.57,Herrera and Sons,5
+exp-2025-11-13-9,2025-11-13,3,947.37,"Williams, Jordan and Webb",5
+exp-2025-11-13-10,2025-11-13,2,722.25,Martin-Novak,5

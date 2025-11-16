@@ -1,0 +1,36 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-07-0,2025-11-07T07:51:00,125,"770 Donna Streets Suite 540
+Sandersview, ND 68366","[{'product_id': 4, 'qty': 3}, {'product_id': 5, 'qty': 1}]"
+ec-2025-11-07-1,2025-11-07T06:57:00,132,"USS Oconnell
+FPO AA 75536","[{'product_id': 46, 'qty': 2}, {'product_id': 21, 'qty': 1}]"
+ec-2025-11-07-2,2025-11-07T16:55:00,129,"2388 Steven Mills Apt. 014
+Patrickburgh, AR 54236","[{'product_id': 22, 'qty': 1}, {'product_id': 21, 'qty': 2}]"
+ec-2025-11-07-3,2025-11-07T23:03:00,199,"487 Smith Park
+Adamborough, DE 65693","[{'product_id': 42, 'qty': 2}, {'product_id': 24, 'qty': 1}]"
+ec-2025-11-07-4,2025-11-07T15:42:00,129,"9440 Macias Turnpike Apt. 097
+South Stephaniehaven, OR 10462","[{'product_id': 1, 'qty': 2}, {'product_id': 5, 'qty': 2}, {'product_id': 48, 'qty': 2}]"
+ec-2025-11-07-5,2025-11-07T16:20:00,167,"37143 Misty Village Suite 944
+West Tami, FM 72146","[{'product_id': 17, 'qty': 2}, {'product_id': 39, 'qty': 1}, {'product_id': 15, 'qty': 4}]"
+ec-2025-11-07-6,2025-11-07T05:39:00,120,,"[{'product_id': 7, 'qty': 1}, {'product_id': 13, 'qty': 3}]"
+ec-2025-11-07-7,2025-11-07T08:34:00,65,"091 Lee Inlet
+New Kevin, ND 67922","[{'product_id': 19, 'qty': 3}]"
+ec-2025-11-07-8,2025-11-07T17:24:00,111,"73296 Morris Park Suite 242
+Port Jamiehaven, VT 17217","[{'product_id': 46, 'qty': 4}, {'product_id': 7, 'qty': 2}]"
+ec-2025-11-07-9,2025-11-07T08:31:00,84,"16748 Phillips Vista
+West Brittanyfurt, NM 86435","[{'product_id': 6, 'qty': 1}, {'product_id': 37, 'qty': 2}, {'product_id': 43, 'qty': 1}]"
+ec-2025-11-07-10,2025-11-07T00:44:00,88,"781 Miller Loop Apt. 105
+North Roy, OR 22937","[{'product_id': 7, 'qty': 2}, {'product_id': 36, 'qty': 2}, {'product_id': 21, 'qty': 2}]"
+ec-2025-11-07-11,2025-11-07T08:58:00,49,"71741 Graham Prairie Apt. 245
+West Kayla, NH 63453","[{'product_id': 46, 'qty': 2}]"
+ec-2025-11-07-12,2025-11-07T19:12:00,129,"382 Davenport Bridge
+Port William, PR 35334","[{'product_id': 28, 'qty': 1}, {'product_id': 12, 'qty': 3}]"
+ec-2025-11-07-13,2025-11-07T16:43:00,172,"760 Hunt Forks Apt. 091
+Lake Alicechester, NC 49436","[{'product_id': 4, 'qty': 2}, {'product_id': 14, 'qty': 1}, {'product_id': 36, 'qty': 2}]"
+ec-2025-11-07-14,2025-11-07T17:15:00,158,"719 Amy Mission Apt. 874
+North Jillianfurt, OR 15954","[{'product_id': 32, 'qty': 2}, {'product_id': 3, 'qty': 2}, {'product_id': 39, 'qty': 2}]"
+ec-2025-11-07-15,2025-11-07T02:46:00,136,"5944 Wiggins Village Apt. 135
+Weaverland, AS 73246","[{'product_id': 42, 'qty': 2}, {'product_id': 38, 'qty': 1}]"
+ec-2025-11-07-16,2025-11-07T13:52:00,93,"0517 Cindy Burgs Suite 131
+Josephchester, CA 66372","[{'product_id': 22, 'qty': 2}]"
+ec-2025-11-07-17,2025-11-07T06:09:00,90,"1250 Rodriguez Isle Apt. 641
+Lake Sarah, CA 49539","[{'product_id': 7, 'qty': 1}, {'product_id': 8, 'qty': 2}]"

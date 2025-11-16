@@ -1,0 +1,12 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-13-0,2025-10-13,3,227.94,Obrien-Mann,5
+exp-2025-10-13-1,2025-10-13,3,1057.99,Brooks-Ramirez,1
+exp-2025-10-13-2,2025-10-13,4,417.24,Wade Ltd,4
+exp-2025-10-13-3,2025-10-13,4,605.32,Jones Ltd,1
+exp-2025-10-13-4,2025-10-13,5,650.52,"Collier, Young and Young",2
+exp-2025-10-13-5,2025-10-13,5,254.96,Melton Group,3
+exp-2025-10-13-6,2025-10-13,5,1658.49,Bradley-Taylor,1
+exp-2025-10-13-7,2025-10-13,2,1319.14,Stephens Inc,2
+exp-2025-10-13-8,2025-10-13,5,509.44,"Lee, Miller and Rogers",1
+exp-2025-10-13-9,2025-10-13,2,1939.2,"Bennett, Arnold and Oneal",5
+exp-2025-10-13-10,2025-10-13,5,1950.16,Carter-Beck,5

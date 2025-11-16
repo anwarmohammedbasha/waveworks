@@ -1,0 +1,10 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-09-19-0,2025-09-19,4,1615.53,Velazquez Inc,5
+exp-2025-09-19-1,2025-09-19,5,821.43,Robinson-Davis,2
+exp-2025-09-19-2,2025-09-19,3,1167.14,Russell Group,4
+exp-2025-09-19-3,2025-09-19,2,278.43,"Taylor, Johnson and Davidson",3
+exp-2025-09-19-4,2025-09-19,2,1213.62,Romero LLC,2
+exp-2025-09-19-5,2025-09-19,4,1131.71,"Durham, Cole and Collins",4
+exp-2025-09-19-6,2025-09-19,4,802.33,"Dunn, Hernandez and Martin",5
+exp-2025-09-19-7,2025-09-19,5,822.28,"Jones, Ingram and Hall",3
+exp-2025-09-19-8,2025-09-19,4,1224.44,"Medina, Ryan and Anderson",5

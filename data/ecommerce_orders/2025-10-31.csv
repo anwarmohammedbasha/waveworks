@@ -1,0 +1,25 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-31-0,2025-10-31T17:34:00,70,"431 Martin Vista
+East Elizabeth, WY 82282","[{'product_id': 2, 'qty': 1}, {'product_id': 40, 'qty': 4}]"
+ec-2025-10-31-1,2025-10-31T07:50:00,74,"7141 Brown Mountain
+Lake Jessicamouth, PA 73308","[{'product_id': 10, 'qty': 3}]"
+ec-2025-10-31-2,2025-10-31T04:13:00,2,"6423 Weber Land Apt. 064
+Laurenfort, CA 95910","[{'product_id': 38, 'qty': 3}]"
+ec-2025-10-31-3,2025-10-31T09:14:00,67,"3755 Christian Centers Suite 427
+Monicafort, SD 30980","[{'product_id': 47, 'qty': 3}]"
+ec-2025-10-31-4,2025-10-31T23:50:00,165,"518 Paul Motorway Suite 761
+South Melissa, ME 51130","[{'product_id': 2, 'qty': 3}, {'product_id': 35, 'qty': 3}]"
+ec-2025-10-31-5,2025-10-31T07:35:00,68,"741 Smith Cliff Apt. 487
+Paulamouth, CO 30072","[{'product_id': 44, 'qty': 1}]"
+ec-2025-10-31-6,2025-10-31T21:40:00,120,"187 Anita Fall Suite 707
+Josemouth, MO 36146","[{'product_id': 38, 'qty': 2}, {'product_id': 20, 'qty': 1}]"
+ec-2025-10-31-7,2025-10-31T01:32:00,194,"03352 Andre Pass
+Port Willie, RI 67264","[{'product_id': 28, 'qty': 2}]"
+ec-2025-10-31-8,2025-10-31T03:09:00,56,"121 Douglas Expressway
+New Jose, KS 05256","[{'product_id': 44, 'qty': 1}, {'product_id': 48, 'qty': 1}, {'product_id': 42, 'qty': 1}]"
+ec-2025-10-31-9,2025-10-31T00:31:00,11,"USCGC Ross
+FPO AE 79525","[{'product_id': 25, 'qty': 2}, {'product_id': 27, 'qty': 2}, {'product_id': 23, 'qty': 3}]"
+ec-2025-10-31-10,2025-10-31T21:02:00,194,"USS Whitaker
+FPO AP 19633","[{'product_id': 44, 'qty': 1}]"
+ec-2025-10-31-11,2025-10-31T11:20:00,93,"495 Tiffany Alley
+Smithberg, AZ 30294","[{'product_id': 19, 'qty': 2}, {'product_id': 9, 'qty': 1}]"

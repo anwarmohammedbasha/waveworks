@@ -1,0 +1,7 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-22-0,2025-10-22,1,1023.0,Washington Group,2
+exp-2025-10-22-1,2025-10-22,1,282.04,"Snow, Buckley and Rodriguez",3
+exp-2025-10-22-2,2025-10-22,5,742.89,Simpson Ltd,3
+exp-2025-10-22-3,2025-10-22,2,1991.9,Serrano Inc,2
+exp-2025-10-22-4,2025-10-22,3,190.04,Roberts-Tanner,3
+exp-2025-10-22-5,2025-10-22,1,1104.48,"Bell, Campbell and Perez",3
